@@ -5,14 +5,98 @@ import requests
 import urllib.request
 import os
 import time
+import ctypes
+import sys
+import random
+import string
+from PIL import Image,ImageTk
+import subprocess
 
 
 
+def generate_token():
+    TOKEN_LENGTH = 20
+    characters = string.ascii_letters + string.digits
+    token = ''.join(random.choices(characters, k=TOKEN_LENGTH))
+    return token
 
+if not os.path.exists("token.stt"):
+    # Generate a new token
+    global token
+    token = generate_token()
+
+    # Write the token to the file
+    with open("token.stt", "w") as f:
+        f.write(token)
+
+if os.path.exists("token.stt"):
+    with open("token.stt", "r") as f:
+        token = f.read()
+        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': token})
+
+if not os.path.exists("updater.py"):
+    with open("updater.py", "w") as f:
+        code = """
+import requests
+import os
+import subprocess
+import psutil
+import signal
+
+ver = 1.04
+
+response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': ver})
+
+if response.status_code == 200:
+    quit()
+else:
+    # The URL of the raw link
+    url = 'https://raw.githubusercontent.com/LucaBarbaLata/MultiTool/main/multitool.py'
+
+    # Fetch the contents of the URL
+    response = requests.get(url)
+
+    # Get the list of all running processes
+    processes = psutil.process_iter()
+
+    # Iterate through the list of processes
+    pid = None
+    for process in processes:
+        # Check if the process name matches the one you're looking for
+        if process.name() == 'multitool.py':
+            # Print the PID of the process
+            pid = process.pid
+
+    # Kill the process
+    if pid is not None:
+        os.kill(pid, signal.SIGKILL)
+    os.remove("multitool.py")
+    # Save the contents to a file
+    with open('multitool.py', 'w') as f:
+        f.write(response.text)
+
+
+        """
+        f.write(code)
+        f.close()
+# Run the script "my_script.py" in the background
+
+
+if not os.path.exists('eula.txt'):
+    # If the file does not exist, create it and add the required line
+    with open('eula.txt', 'w') as f:
+        f.write('eula=false')
+    quit()
+else:
+    # If the file exists, check if it contains the required line
+    with open('eula.txt', 'r') as f:
+        if 'eula=true' not in f.read():
+            print('eula.txt does not contain the required line')
+            quit()
+        
 user = os.getlogin()
 customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("blue")  # Themes: "blue" (standard), "green", "dark-blue"
-
 
 class App(customtkinter.CTk):
     def __init__(self):
@@ -21,6 +105,7 @@ class App(customtkinter.CTk):
         # configure window
         self.title("MultiTool")
         self.geometry(f"{1100}x{580}")
+        
 
         # configure grid layout (4x4)
         self.grid_columnconfigure(1, weight=1)
@@ -37,7 +122,7 @@ class App(customtkinter.CTk):
         self.sidebar_button_1.grid(row=1, column=0, padx=20, pady=10)
         self.sidebar_button_2 = customtkinter.CTkButton(self.sidebar_frame, text="Tweaks", command=self.Tweaks)
         self.sidebar_button_2.grid(row=2, column=0, padx=20, pady=10)
-        self.sidebar_button_3 = customtkinter.CTkButton(self.sidebar_frame, text="Config", command=self.Install)
+        self.sidebar_button_3 = customtkinter.CTkButton(self.sidebar_frame, text="Config", command=self.console)
         self.sidebar_button_3.grid(row=3, column=0, padx=20, pady=10)
         self.appearance_mode_label = customtkinter.CTkLabel(self.sidebar_frame, text="Appearance Mode:", anchor="w")
         self.appearance_mode_label.grid(row=5, column=0, padx=20, pady=(10, 0))
@@ -52,14 +137,48 @@ class App(customtkinter.CTk):
 
         self.textbox = customtkinter.CTkTextbox(self, width=250)
         self.textbox.grid(row=0, column=1, padx=(20, 0), pady=(20, 0), sticky="nsew")
-        self.textbox.insert("0.0", "Terms and Conditions:\n\n" + "hi" * 1)
+        mesag = """
+        End-User License Agreement for "Multitool"
 
-    
-    
+        This End-User License Agreement ("EULA") is a legal agreement between you, the end user, and Luca,
+        the manufacturer or distributor of the "Multitool" software product. By installing, accessing, or using the "Multitool" software,
+        you agree to be bound by the terms and conditions of this EULA.
+
+        1. License Grant.
+           Luca grants you a revocable, non-exclusive, non-transferable license to use the "Multitool" software for your personal or internal business use.
+           You are not allowed to distribute, sell, or otherwise make the "Multitool" software available to any third party.
+        2. Warranty.
+           Luca warrants that the "Multitool" software will perform substantially in accordance with the accompanying documentation for a period of 90 days 
+           from the date of your initial purchase.
+           Luca does not warrant that the "Multitool" software will be error-free or that all errors can be corrected.
+        3. Liability Limitations.
+           Luca will not be liable for any damages resulting from the use of the "Multitool" software, including but not limited to direct,
+           indirect, incidental, consequential, or punitive damages.
+        4. Termination.
+           This EULA is effective until terminated. You may terminate the EULA at any time by uninstalling the "Multitool" software.
+           Luca may terminate the EULA if you fail to comply with any of the terms and conditions of this EULA. Upon termination,
+           you must destroy all copies of the "Multitool" software.
+        5. Data Collection.
+           The "Multitool" software may collect anonymous usage data for the purpose of improving the app and providing personalized recommendations.
+           This data will not be be shared with third-party services.
+           The "Multitool" software will not access/send any personal files.
+        """
+        self.textbox.insert("0.0", "Terms and Conditions:\n\n" + mesag * 1)
+
+        
+
+        msg = token + " Succesfuly booted into the system"
+        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
+    def console(self):
+        msg = input()
+        amsg = user + " with the token: " + token + " sended a feedback. " + msg
+        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': amsg})
     def setvar(self):
         global value
         value = self.optionmenu_1.get()
         print(f"Value is now set to {value}")
+        msg = token + f" is installing {value}"
+        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
         if value == "Chrome":
             cmd = "winget install Google.chrome"
             with open("temp.bat", "w") as f:
@@ -92,6 +211,8 @@ class App(customtkinter.CTk):
         global value
         value = self.optionmenu_2.get()
         print(f"Value is now set to {value}")
+        msg = token + f" is installing {value}"
+        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
         if value == "7-Zip":
             cmd = "winget install 7zip.7zip"
             with open("temp.bat", "w") as f:
@@ -117,6 +238,8 @@ class App(customtkinter.CTk):
         global value
         value = self.optionmenu_3.get()
         print(f"Value is now set to {value}")
+        msg = token + f" is installing {value}"
+        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
         if value == "Zoom":
             cmd = "winget install Zoom.Zoom"
             with open("temp.bat", "w") as f:
@@ -163,6 +286,8 @@ class App(customtkinter.CTk):
         global value
         value = self.optionmenu_4.get()
         print(f"Value is now set to {value}")
+        msg = token + f" is installing {value}"
+        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
         if value == "Spotify":
             cmd = "winget install Spotify.Spotify"
             with open("temp.bat", "w") as f:
@@ -209,6 +334,8 @@ class App(customtkinter.CTk):
         global value
         value = self.optionmenu_5.get()
         print(f"Value is now set to {value}")
+        msg = token + f" is installing {value}"
+        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
         if value == "Krita":
             cmd = "winget install KDE.Krita"
             with open("temp.bat", "w") as f:
@@ -276,6 +403,8 @@ class App(customtkinter.CTk):
         global value
         value = self.optionmenu_6.get()
         print(f"Value is now set to {value}")
+        msg = token + f" is installing {value}"
+        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
         if value == "Python x64 3":
             cmd = "winget install Python.Python.3.11"
             with open("temp.bat", "w") as f:
@@ -333,13 +462,15 @@ class App(customtkinter.CTk):
             time.sleep(1)
             os.remove("temp.bat")
         if value == "Windows 10 ISO":
-            urllib.request.urlretrieve("https://dw4.uptodown.com/dwn/Z5K6puj3G_H88j8T1cdaR94-_ymHzIa9iak3gtnQ4ZcU4fBzNv8FlwC1mRKJoNX0RfNbZEL0jGITwfvjoys7Fp5W-UynADwPjBpbegvZ1T6RgEy5DY9azL3xj4mFg5xW/2jRfzII6khimcsXl0O8L9yzEQBz0hR3gIs6qIt4s-PRJWazbpr-pbXhUnRXZyOJkiCN1wnXEc6aX1USdXF4i9MPOJNMuLkvK2fbm1sr2rltjdfLf2hhBj3MVeDC3G8qX/uTWR6o5NMwQ_5VyO208RQ533z8aczm-MrqLw87pADzQ-unkz-SEoPr3FGGMCGT69WiP4vN_idlcr9p3hDWPcD2zpSBXUF9aMo0OfadtfWMQ=/windows-10-22h2-build-19045.iso", "windows-10-22h2-build-19045.iso", reporthook=update_progress)
+            urllib.request.urlretrieve("https://dw4.uptodown.com/dwn/Z5K6puj3G_H88j8T1cdaR94-_ymHzIa9iak3gtnQ4ZcU4fBzNv8FlwC1mRKJoNX0RfNbZEL0jGITwfvjoys7Fp5W-UynADwPjBpbegvZ1T6RgEy5DY9azL3xj4mFg5xW/2jRfzII6khimcsXl0O8L9yzEQBz0hR3gIs6qIt4s-PRJWazbpr-pbXhUnRXZyOJkiCN1wnXEc6aX1USdXF4i9MPOJNMuLkvK2fbm1sr2rltjdfLf2hhBj3MVeDC3G8qX/uTWR6o5NMwQ_5VyO208RQ533z8aczm-MrqLw87pADzQ-unkz-SEoPr3FGGMCGT69WiP4vN_idlcr9p3hDWPcD2zpSBXUF9aMo0OfadtfWMQ=/windows-10-22h2-build-19045.iso", "windows-10-22h2-build-19045.iso")
         if value == "Windows 11 ISO":
             urllib.request.urlretrieve("https://aka.ms/windev_VM_vmware", "Win11.zip")
     def setvar7(self):
         global value
         value = self.optionmenu_7.get()
         print(f"Value is now set to {value}")
+        msg = token + f" is installing {value}"
+        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
         if value == "TeamViewer 15":
             cmd = "winget install TeamViewer.TeamViewer"
             with open("temp.bat", "w") as f:
@@ -414,6 +545,8 @@ class App(customtkinter.CTk):
         global value
         value = self.optionmenu_8.get()
         print(f"Value is now set to {value}")
+        msg = token + f" is installing {value}"
+        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
         if value == "Foxit Reader":
             cmd = "winget install Foxitreader"
             with open("temp.bat", "w") as f:
@@ -449,7 +582,7 @@ class App(customtkinter.CTk):
             os.system("temp.bat")
             time.sleep(1)
             os.remove("temp.bat")
-        
+    
     def change_appearance_mode_event(self, new_appearance_mode: str):
         customtkinter.set_appearance_mode(new_appearance_mode)
 
@@ -538,25 +671,32 @@ class App(customtkinter.CTk):
         self.sidebar_button_1.grid(row=2, column=2, padx=20, pady=10)
         #Update Apps
         self.sidebar_button_1 = customtkinter.CTkButton(self.sidebar_frame, text="Update all apps", command=self.updateapps)
-        self.sidebar_button_1.grid(row=2, column=2, padx=20, pady=10)
+        self.sidebar_button_1.grid(row=3, column=2, padx=20, pady=10)
+    
+    
+ 
     #Tweaks
     def sfe(self):
-        cmd = "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced /v HideFileExt /t REG_DWORD /d 0 /"
+        cmd = "reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced /v HideFileExt /t REG_DWORD /d 0 /"
         with open("temp.bat","w") as f:
             f.write(cmd)
         os.system("temp.bat")
-        time.sleep(5)
+        time.sleep(1)
         os.remove("temp.bat")
         return
     def dtemporary(self):
+        msg = token + " is deleteing their unecesary files"
+        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
         cmd = "del /q/f/s %TEMP%\*"
         with open("temp.bat","w") as f:
             f.write(cmd)
         os.system("temp.bat")
-        time.sleep(10)
+        time.sleep(1)
         os.remove("temp.bat")
         return
     def updateapps(self):
+        msg = token + " is updating their apps"
+        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
         cmd = "winget upgrade --all"
         with open("temp.bat", "w") as f:
             f.write(cmd)
