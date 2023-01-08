@@ -14,25 +14,7 @@ import subprocess
 
 
 
-def generate_token():
-    TOKEN_LENGTH = 20
-    characters = string.ascii_letters + string.digits
-    token = ''.join(random.choices(characters, k=TOKEN_LENGTH))
-    return token
 
-if not os.path.exists("token.stt"):
-    # Generate a new token
-    global token
-    token = generate_token()
-
-    # Write the token to the file
-    with open("token.stt", "w") as f:
-        f.write(token)
-
-if os.path.exists("token.stt"):
-    with open("token.stt", "r") as f:
-        token = f.read()
-        response = requests.post('https://TrivialOlivedrabCrypto.lucag5y56.repl.co', json={'token': token})
 
 
 if not os.path.exists('eula.txt'):
