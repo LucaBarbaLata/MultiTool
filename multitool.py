@@ -9,7 +9,6 @@ import ctypes
 import sys
 import random
 import string
-from PIL import Image,ImageTk
 import subprocess
 
 
@@ -57,7 +56,7 @@ class App(customtkinter.CTk):
         self.sidebar_button_1.grid(row=1, column=0, padx=20, pady=10)
         self.sidebar_button_2 = customtkinter.CTkButton(self.sidebar_frame, text="Tweaks", command=self.Tweaks)
         self.sidebar_button_2.grid(row=2, column=0, padx=20, pady=10)
-        self.sidebar_button_3 = customtkinter.CTkButton(self.sidebar_frame, text="Config", command=self.console)
+        self.sidebar_button_3 = customtkinter.CTkButton(self.sidebar_frame, text="Config", command=self.Install)
         self.sidebar_button_3.grid(row=3, column=0, padx=20, pady=10)
         self.appearance_mode_label = customtkinter.CTkLabel(self.sidebar_frame, text="Appearance Mode:", anchor="w")
         self.appearance_mode_label.grid(row=5, column=0, padx=20, pady=(10, 0))
@@ -618,4 +617,3 @@ if __name__ == "__main__":
     app = App()
     app.mainloop()
     
-
