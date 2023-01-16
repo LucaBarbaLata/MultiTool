@@ -1,15 +1,20 @@
+import os
+try: os.system("pip install -r requirements.txt")
+except: pass
 import tkinter
 import tkinter.messagebox
 import customtkinter
 import requests
 import urllib.request
-import os
 import time
 import ctypes
 import sys
 import random
 import string
+from PIL import Image,ImageTk
 import subprocess
+
+
 
 
 
@@ -28,7 +33,7 @@ else:
             print('eula.txt does not contain the required line')
             quit()
         
-
+user = os.getlogin()
 customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("blue")  # Themes: "blue" (standard), "green", "dark-blue"
 
@@ -92,7 +97,10 @@ class App(customtkinter.CTk):
            This EULA is effective until terminated. You may terminate the EULA at any time by uninstalling the "Multitool" software.
            Luca may terminate the EULA if you fail to comply with any of the terms and conditions of this EULA. Upon termination,
            you must destroy all copies of the "Multitool" software.
-        
+        5. Data Collection.
+           The "Multitool" software may collect anonymous usage data for the purpose of improving the app and providing personalized recommendations.
+           This data will not be be shared with third-party services.
+           The "Multitool" software will not access/send any personal files.
         """
         self.textbox.insert("0.0", "Terms and Conditions:\n\n" + mesag * 1)
 
@@ -100,7 +108,6 @@ class App(customtkinter.CTk):
 
         
     
-        
     def setvar(self):
         global value
         value = self.optionmenu_1.get()
@@ -137,6 +144,7 @@ class App(customtkinter.CTk):
         global value
         value = self.optionmenu_2.get()
         print(f"Value is now set to {value}")
+        
         if value == "7-Zip":
             cmd = "winget install 7zip.7zip"
             with open("temp.bat", "w") as f:
@@ -162,6 +170,7 @@ class App(customtkinter.CTk):
         global value
         value = self.optionmenu_3.get()
         print(f"Value is now set to {value}")
+        
         if value == "Zoom":
             cmd = "winget install Zoom.Zoom"
             with open("temp.bat", "w") as f:
@@ -208,6 +217,7 @@ class App(customtkinter.CTk):
         global value
         value = self.optionmenu_4.get()
         print(f"Value is now set to {value}")
+        
         if value == "Spotify":
             cmd = "winget install Spotify.Spotify"
             with open("temp.bat", "w") as f:
@@ -254,6 +264,7 @@ class App(customtkinter.CTk):
         global value
         value = self.optionmenu_5.get()
         print(f"Value is now set to {value}")
+
         if value == "Krita":
             cmd = "winget install KDE.Krita"
             with open("temp.bat", "w") as f:
@@ -321,6 +332,7 @@ class App(customtkinter.CTk):
         global value
         value = self.optionmenu_6.get()
         print(f"Value is now set to {value}")
+        
         if value == "Python x64 3":
             cmd = "winget install Python.Python.3.11"
             with open("temp.bat", "w") as f:
@@ -385,6 +397,7 @@ class App(customtkinter.CTk):
         global value
         value = self.optionmenu_7.get()
         print(f"Value is now set to {value}")
+        
         if value == "TeamViewer 15":
             cmd = "winget install TeamViewer.TeamViewer"
             with open("temp.bat", "w") as f:
@@ -459,6 +472,7 @@ class App(customtkinter.CTk):
         global value
         value = self.optionmenu_8.get()
         print(f"Value is now set to {value}")
+        
         if value == "Foxit Reader":
             cmd = "winget install Foxitreader"
             with open("temp.bat", "w") as f:
@@ -584,6 +598,9 @@ class App(customtkinter.CTk):
         #Update Apps
         self.sidebar_button_1 = customtkinter.CTkButton(self.sidebar_frame, text="Update all apps", command=self.updateapps)
         self.sidebar_button_1.grid(row=3, column=2, padx=20, pady=10)
+        #sysinfo
+        self.sidebar_button_1 = customtkinter.CTkButton(self.sidebar_frame, text="Get the systeminfo in a file", command=self.SYSINFO)
+        self.sidebar_button_1.grid(row=4, column=2, padx=20, pady=10)
     
     
  
@@ -597,6 +614,7 @@ class App(customtkinter.CTk):
         os.remove("temp.bat")
         return
     def dtemporary(self):
+        
         cmd = "del /q/f/s %TEMP%\*"
         with open("temp.bat","w") as f:
             f.write(cmd)
@@ -611,9 +629,49 @@ class App(customtkinter.CTk):
         os.system("temp.bat")
         time.sleep(1)
         os.remove("temp.bat")
-    
+    def SYSINFO(self):
+        import psutil
+        from datetime import datetime
+
+        sysinfo = {}
+
+        # CPU information
+        sysinfo['cpu_percent'] = psutil.cpu_percent()
+
+        # Memory information
+        sysinfo['virtual_memory'] = dict(psutil.virtual_memory()._asdict())
+        sysinfo['swap_memory'] = dict(psutil.swap_memory()._asdict())
+
+        # Disk information
+        sysinfo['disk_usage'] = dict(psutil.disk_usage('/')._asdict())
+        sysinfo['disk_io_counters'] = dict(psutil.disk_io_counters()._asdict())
+
+        # Network information
+        sysinfo['net_io_counters'] = dict(psutil.net_io_counters()._asdict())
+
+        # Boot information
+        sysinfo['boot_time'] = psutil.boot_time()
+
+        # get the current time and format it as a string
+        current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+        # open a file named "Info" in write mode and write the values to it
+        with open("Info", "w") as f:
+            f.write("System information as of: {}\n".format(current_time))
+            f.write("CPU Usage: {:.2f} %\n".format(sysinfo['cpu_percent']))
+            f.write("Virtual Memory: {}\n".format(sysinfo['virtual_memory']))
+            f.write("Swap Memory: {}\n".format(sysinfo['swap_memory']))
+            f.write("Disk Usage: {}\n".format(sysinfo['disk_usage']))
+            f.write("Disk IO Counters: {}\n".format(sysinfo['disk_io_counters']))
+            f.write("Network IO Counters: {}\n".format(sysinfo['net_io_counters']))
+            f.write("Boot Time: {}\n".format(sysinfo['boot_time']))
+
+
+            
+
     
 if __name__ == "__main__":
     app = App()
     app.mainloop()
     
+
