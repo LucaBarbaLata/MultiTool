@@ -32,8 +32,7 @@ else:
         if 'eula=true' not in f.read():
             print('eula.txt does not contain the required line')
             quit()
-        
-user = os.getlogin()
+
 customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("blue")  # Themes: "blue" (standard), "green", "dark-blue"
 
