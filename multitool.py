@@ -1,6 +1,11 @@
 import os
+if not os.path.exists('requirements.txt'):
+    t = "customtkinter\nrequests\npsutil"
+    with open("requirements.txt", "w") as f:
+        f.write(t)
 try: os.system("pip install -r requirements.txt")
 except: pass
+os.remove("requirements.txt")
 import tkinter
 import tkinter.messagebox
 import customtkinter
@@ -11,7 +16,6 @@ import ctypes
 import sys
 import random
 import string
-from PIL import Image,ImageTk
 import subprocess
 
 
@@ -32,7 +36,8 @@ else:
         if 'eula=true' not in f.read():
             print('eula.txt does not contain the required line')
             quit()
-
+        
+user = os.getlogin()
 customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("blue")  # Themes: "blue" (standard), "green", "dark-blue"
 
@@ -62,6 +67,8 @@ class App(customtkinter.CTk):
         self.sidebar_button_2.grid(row=2, column=0, padx=20, pady=10)
         self.sidebar_button_3 = customtkinter.CTkButton(self.sidebar_frame, text="Config", command=self.Install)
         self.sidebar_button_3.grid(row=3, column=0, padx=20, pady=10)
+        self.sidebar_button_4 = customtkinter.CTkButton(self.sidebar_frame, text="Other Tools", command=self.ot)
+        self.sidebar_button_4.grid(row=4, column=0, padx=20, pady=10)
         self.appearance_mode_label = customtkinter.CTkLabel(self.sidebar_frame, text="Appearance Mode:", anchor="w")
         self.appearance_mode_label.grid(row=5, column=0, padx=20, pady=(10, 0))
         self.appearance_mode_optionemenu = customtkinter.CTkOptionMenu(self.sidebar_frame, values=["System", "Light", "Dark"],
@@ -601,7 +608,11 @@ class App(customtkinter.CTk):
         self.sidebar_button_1 = customtkinter.CTkButton(self.sidebar_frame, text="Get the systeminfo in a file", command=self.SYSINFO)
         self.sidebar_button_1.grid(row=4, column=2, padx=20, pady=10)
     
-    
+    def ot(self):
+        print("hi")
+        
+        
+
  
     #Tweaks
     def sfe(self):
@@ -669,8 +680,11 @@ class App(customtkinter.CTk):
             
 
     
+
 if __name__ == "__main__":
     app = App()
     app.mainloop()
+
+
     
 
