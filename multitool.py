@@ -16,7 +16,6 @@ import ctypes
 import sys
 import random
 import string
-from PIL import Image,ImageTk
 import subprocess
 import psutil
 from datetime import datetime
@@ -39,8 +38,11 @@ else:
             print('eula.txt does not contain the required line')
             time.sleep(3)
             quit()
+
 ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, " ".join(sys.argv), None, 1)
+
 user = os.getlogin()
+
 customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("blue")  # Themes: "blue" (standard), "green", "dark-blue"
 
