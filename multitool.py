@@ -1,6 +1,6 @@
 import os
 if not os.path.exists('requirements.txt'):
-    t = "customtkinter\nrequests\npsutil\ncryptography"
+    t = "customtkinter\nrequests\npsutil"
     with open("requirements.txt", "w") as f:
         f.write(t)
 try: os.system("pip install -r requirements.txt")
@@ -16,7 +16,12 @@ import ctypes
 import sys
 import random
 import string
+from PIL import Image,ImageTk
 import subprocess
+import psutil
+from datetime import datetime
+
+
 
 
 
@@ -32,14 +37,9 @@ else:
     with open('eula.txt', 'r') as f:
         if 'eula=true' not in f.read():
             print('eula.txt does not contain the required line')
+            time.sleep(3)
             quit()
-
-
-if os.path.exists("Install Python.bat"):
-    os.remove("Install Python.bat")
-if os.path.exists("Info.txt"):
-    os.remove("Info.txt")
-
+ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, " ".join(sys.argv), None, 1)
 user = os.getlogin()
 customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("blue")  # Themes: "blue" (standard), "green", "dark-blue"
@@ -537,7 +537,7 @@ class App(customtkinter.CTk):
         self.tabview.add("Utilities")
         self.tabview.add("Documents")
         
-
+       
         
         
         
@@ -612,8 +612,11 @@ class App(customtkinter.CTk):
         self.sidebar_button_1.grid(row=4, column=2, padx=20, pady=10)
     
     def ot(self):
-        print("hi")
-        
+        self.tabview = customtkinter.CTkTabview(self, width=250)
+        self.tabview.grid(row=0, column=1, padx=(20, 0), pady=(20, 0), sticky="nsew")
+        self.username = customtkinter.CTkTextbox(self, width=250)
+        self.username.grid(row=0, column=3, padx=5, pady=5, sticky="nsew")
+        self.username.place(x=500,y=60)
         
 
  
@@ -643,8 +646,6 @@ class App(customtkinter.CTk):
         time.sleep(1)
         os.remove("temp.bat")
     def SYSINFO(self):
-        import psutil
-        from datetime import datetime
 
         sysinfo = {}
 
@@ -669,7 +670,7 @@ class App(customtkinter.CTk):
         current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
         # open a file named "Info" in write mode and write the values to it
-        with open("Info.txt", "w") as f:
+        with open("Info", "w") as f:
             f.write("System information as of: {}\n".format(current_time))
             f.write("CPU Usage: {:.2f} %\n".format(sysinfo['cpu_percent']))
             f.write("Virtual Memory: {}\n".format(sysinfo['virtual_memory']))
@@ -679,8 +680,10 @@ class App(customtkinter.CTk):
             f.write("Network IO Counters: {}\n".format(sysinfo['net_io_counters']))
             f.write("Boot Time: {}\n".format(sysinfo['boot_time']))
 
+
             
 
+    
 
 if __name__ == "__main__":
     app = App()
