@@ -33,14 +33,6 @@ Generate a report with:
 
 ---
 
-## 📸 Screenshots
-
-> *You can add screenshots here using Markdown image syntax:*  
-> `![Main UI](images/main_ui.png)`  
-> *(Make sure to upload them to your repo folder or GitHub’s media manager.)*
-
----
-
 ## 📁 Installation
 
 1. Clone this repository:
@@ -78,6 +70,6 @@ This project is released under the **MIT License** — free to use, modify, and 
 
 ## 🤝 Credits
 
-Created by [Luca](https://github.com/yourusername)  
+Created by [Luca](https://github.com/LucaBarbaLata)  
 Made with ❤️, caffeine, and some BAT magic.
 
