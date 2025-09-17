@@ -17,7 +17,15 @@ import string
 import random  
 import pyglet
 import configparser
+import threading
 
+def run_command(command: str):
+    """Run a system command in a separate thread to avoid freezing the GUI."""
+    def target():
+        result = subprocess.run(command, shell=True)
+        print(result.returncode)
+
+    threading.Thread(target=target, daemon=True).start()
 def update(app):
     global apps
     apps.append(app)
@@ -116,405 +124,136 @@ class App(customtkinter.CTk):
         apps.append(app)  
     
     def setvar(self):
-        global value
+        """Browsers"""
         value = self.optionmenu_1.get()
-        print(f"Value is now set to {value}")
-        if value == "Chrome":
-            cmd = "winget install Google.chrome"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "Opera":
-            cmd = "winget install Opera.Opera"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "Firefox":
-            cmd = "winget install Mozilla.Firefox"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "Brave":
-            cmd = "winget install Brave.Brave"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-    def setvar2(self):
-        global value
-        value = self.optionmenu_2.get()
-        print(f"Value is now set to {value}")
-        
-        if value == "7-Zip":
-            cmd = "winget install 7zip.7zip"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "PeaZip":
-            cmd = "winget install Giorgiotani.Peazip"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "WinRar":
-            cmd = "winget install RARLab.WinRAR"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-    def setvar3(self):
-        global value
-        value = self.optionmenu_3.get()
-        print(f"Value is now set to {value}")
-        
-        if value == "Zoom":
-            cmd = "winget install Zoom.Zoom"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "Discord":
-            cmd = "winget install Discord.Discord"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "Skype":
-            cmd = "winget install Microsoft.Skype"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "Pidgin":
-            cmd = "winget install Pidgin.Pidgin"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "Thunderbird":
-            cmd = "winget install Mozilla.Thunderbird"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "Trillian":
-            cmd = "winget install Trillian.Trillian"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-    def setvar4(self):
-        global value
-        value = self.optionmenu_4.get()
-        print(f"Value is now set to {value}")
-        
-        if value == "Spotify":
-            cmd = "winget install Spotify.Spotify"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "VLC":
-            cmd = "winget install VideoLAN.VLC"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "AIMP":
-            cmd = "winget install AIMP.AIMP"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "foobar2000":
-            cmd = "winget install PeterPawlowski.foobar2000"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "Audacity":
-            cmd = "winget install Audacity.Audacity"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "GOM":
-            cmd = "winget install GOMLab.GOMPlayer"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-    def setvar5(self):
-        global value
-        value = self.optionmenu_5.get()
-        print(f"Value is now set to {value}")
+        apps = {
+            "Chrome": "winget install Google.Chrome",
+            "Firefox": "winget install Mozilla.Firefox",
+            "Opera": "winget install Opera.Opera",
+            "Brave": "winget install Brave.Brave"
+        }
+        command = apps.get(value)
+        if command:
+            run_command(command)
 
-        if value == "Krita":
-            cmd = "winget install KDE.Krita"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "Blender":
-            cmd = "winget install BlenderFoundation.Blender"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "GIMP":
-            cmd = "winget install GIMP.GIMP"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "IrfanView":
-            cmd = "winget install IrfanSkiljan.IrfanView"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "XnView":
-            cmd = "winget install XnSoft.XnView.Classic"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "Inkscape":
-            cmd = "winget install Inkscape.Inkscape"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "FastStone":
-            cmd = "winget install FastStone.Viewer"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "Greenshot":
-            cmd = "winget install Greenshot.Greenshot"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "ShareX":
-            cmd = "winget install ShareX.ShareX"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
+    def setvar2(self):
+        """Compression"""
+        value = self.optionmenu_2.get()
+        apps = {
+            "7-Zip": "winget install 7zip.7zip",
+            "PeaZip": "winget install Giorgiotani.Peazip",
+            "WinRar": "winget install RARLab.WinRAR"
+        }
+        command = apps.get(value)
+        if command:
+            run_command(command)
+
+    def setvar3(self):
+        """Messaging"""
+        value = self.optionmenu_3.get()
+        apps = {
+            "Zoom": "winget install Zoom.Zoom",
+            "Discord": "winget install Discord.Discord",
+            "Skype": "winget install Microsoft.Skype",
+            "Pidgin": "winget install Pidgin.Pidgin",
+            "Thunderbird": "winget install Mozilla.Thunderbird",
+            "Trillian": "winget install Trillian.Trillian"
+        }
+        command = apps.get(value)
+        if command:
+            run_command(command)
+
+    def setvar4(self):
+        """Media"""
+        value = self.optionmenu_4.get()
+        apps = {
+            "Spotify": "winget install Spotify.Spotify",
+            "VLC": "winget install VideoLAN.VLC",
+            "AIMP": "winget install AIMP.AIMP",
+            "foobar2000": "winget install PeterPawlowski.foobar2000",
+            "Audacity": "winget install Audacity.Audacity",
+            "GOM": "winget install GOMLab.GOMPlayer"
+        }
+        command = apps.get(value)
+        if command:
+            run_command(command)
+
+    def setvar5(self):
+        """Imaging"""
+        value = self.optionmenu_5.get()
+        apps = {
+            "Krita": "winget install KDE.Krita",
+            "Blender": "winget install BlenderFoundation.Blender",
+            "GIMP": "winget install GIMP.GIMP",
+            "IrfanView": "winget install IrfanSkiljan.IrfanView",
+            "XnView": "winget install XnSoft.XnView.Classic",
+            "Inkscape": "winget install Inkscape.Inkscape",
+            "FastStone": "winget install FastStone.Viewer",
+            "Greenshot": "winget install Greenshot.Greenshot",
+            "ShareX": "winget install ShareX.ShareX"
+        }
+        command = apps.get(value)
+        if command:
+            run_command(command)
+
     def setvar6(self):
-        global value
+        """Dev Tools / OS ISOs"""
         value = self.optionmenu_6.get()
-        print(f"Value is now set to {value}")
-        
-        if value == "Python x64 3":
-            cmd = "winget install Python.Python.3.11"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "Notepad++":
-            cmd = "winget install Notepad++.Notepad++"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "WinSCP":
-            cmd = "winget install WinSCP.WinSCP"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "PuTTY":
-            cmd = "winget install PuTTY.PuTTY"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "WinMerge":
-            cmd = "winget install WinMerge.WinMerge"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "Eclipse":
-            cmd = "winget install EclipseFoundation.TheiaBlueprint"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "VS Code(Visual Studio Code)":
-            cmd = "winget install Microsoft.VisualStudioCode"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "VMWare Workstation 17":
-            cmd = "winget install VMware.WorkstationPro"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
+        apps = {
+            "Python x64 3": "winget install Python.Python.3.11",
+            "Notepad++": "winget install Notepad++.Notepad++",
+            "WinSCP": "winget install WinSCP.WinSCP",
+            "PuTTY": "winget install PuTTY.PuTTY",
+            "WinMerge": "winget install WinMerge.WinMerge",
+            "Eclipse": "winget install EclipseFoundation.TheiaBlueprint",
+            "VS Code(Visual Studio Code)": "winget install Microsoft.VisualStudioCode",
+            "VMWare Workstation 17": "winget install VMware.WorkstationPro"
+        }
+
+        # handle ISOs separately
         if value == "Windows 10 ISO":
-            urllib.request.urlretrieve("https://dw4.uptodown.com/dwn/Z5K6puj3G_H88j8T1cdaR94-_ymHzIa9iak3gtnQ4ZcU4fBzNv8FlwC1mRKJoNX0RfNbZEL0jGITwfvjoys7Fp5W-UynADwPjBpbegvZ1T6RgEy5DY9azL3xj4mFg5xW/2jRfzII6khimcsXl0O8L9yzEQBz0hR3gIs6qIt4s-PRJWazbpr-pbXhUnRXZyOJkiCN1wnXEc6aX1USdXF4i9MPOJNMuLkvK2fbm1sr2rltjdfLf2hhBj3MVeDC3G8qX/uTWR6o5NMwQ_5VyO208RQ533z8aczm-MrqLw87pADzQ-unkz-SEoPr3FGGMCGT69WiP4vN_idlcr9p3hDWPcD2zpSBXUF9aMo0OfadtfWMQ=/windows-10-22h2-build-19045.iso", "windows-10-22h2-build-19045.iso")
-        if value == "Windows 11 ISO":
-            urllib.request.urlretrieve("https://aka.ms/windev_VM_vmware", "Win11.zip")
+            run_command("powershell -Command \"Invoke-WebRequest -Uri 'https://dw4.uptodown.com/dwn/Z5K6puj3G_H88j8T1cdaR94-_ymHzIa9iak3gtnQ4ZcU4fBzNv8FlwC1mRKJoNX0RfNbZEL0jGITwfvjoys7Fp5W-UynADwPjBpbegvZ1T6RgEy5DY9azL3xj4mFg5xW/2jRfzII6khimcsXl0O8L9yzEQBz0hR3gIs6qIt4s-PRJWazbpr-pbXhUnRXZyOJkiCN1wnXEc6aX1USdXF4i9MPOJNMuLkvK2fbm1sr2rltjdfLf2hhBj3MVeDC3G8qX/uTWR6o5NMwQ_5VyO208RQ533z8aczm-MrqLw87pADzQ-unkz-SEoPr3FGGMCGT69WiP4vN_idlcr9p3hDWPcD2zpSBXUF9aMo0OfadtfWMQ=/windows-10-22h2-build-19045.iso' -OutFile 'windows-10-22h2-build-19045.iso'\")")
+            return
+        elif value == "Windows 11 ISO":
+            run_command("powershell -Command \"Invoke-WebRequest -Uri 'https://aka.ms/windev_VM_vmware' -OutFile 'Win11.zip'\")")
+            return
+
+        command = apps.get(value)
+        if command:
+            run_command(command)
+
     def setvar7(self):
-        global value
+        """Documents"""
         value = self.optionmenu_7.get()
-        print(f"Value is now set to {value}")
-        
-        if value == "TeamViewer 15":
-            cmd = "winget install TeamViewer.TeamViewer"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "AnyDesk":
-            cmd = "winget install AnyDeskSoftwareGmbH.AnyDesk"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "ImgBurn":
-            cmd = "winget install LIGHTNINGUK.ImgBurn"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "TeraCopy":
-            cmd = "winget install CodeSector.TeraCopy"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "CDBurnerXP":
-            cmd = "Canneverbe.CDBurnerXP"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "Revo":
-            cmd = "winget install RevoUninstaller.RevoUninstaller"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "Launchy":
-            cmd = "winget install CodeJelly.Launchy"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "WinDirStat":
-            cmd = "winget install WinDirStat.WinDirStat"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "Glary":
-            cmd = "winget install Glarysoft.GlaryUtilities"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "InfraRecorder":
-            cmd = "winget install ChristianKindahl.InfraRecorder"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
+        apps = {
+            "Foxit Reader": "winget install Foxitreader",
+            "LibreOffice": "winget install TheDocumentFoundation.LibreOffice",
+            "SumatraPDF": "winget install SumatraPDF.SumatraPDF",
+            "CutePDF": "winget install AcroSoftware.CutePDFWriter",
+            "OpenOffice": "winget install TheDocumentFoundation.LibreOffice"
+        }
+        command = apps.get(value)
+        if command:
+            run_command(command)
+
     def setvar8(self):
-        global value
+        """Utilities"""
         value = self.optionmenu_8.get()
-        print(f"Value is now set to {value}")
-        
-        if value == "Foxit Reader":
-            cmd = "winget install Foxitreader"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "LibreOffice":
-            cmd = "winget install TheDocumentFoundation.LibreOffice"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "SumatraPDF":
-            cmd = "winget install SumatraPDF.SumatraPDF"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "CutePDF":
-            cmd = "winget install AcroSoftware.CutePDFWriter"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
-        if value == "OpenOffice":
-            cmd = "winget install TheDocumentFoundation.LibreOffice"
-            with open("temp.bat", "w") as f:
-                f.write(cmd)
-            os.system("temp.bat")
-            time.sleep(1)
-            os.remove("temp.bat")
+        apps = {
+            "TeamViewer 15": "winget install TeamViewer.TeamViewer",
+            "AnyDesk": "winget install AnyDeskSoftwareGmbH.AnyDesk",
+            "ImgBurn": "winget install LIGHTNINGUK.ImgBurn",
+            "TeraCopy": "winget install CodeSector.TeraCopy",
+            "CDBurnerXP": "winget install Canneverbe.CDBurnerXP",
+            "Revo": "winget install RevoUninstaller.RevoUninstaller",
+            "Launchy": "winget install CodeJelly.Launchy",
+            "WinDirStat": "winget install WinDirStat.WinDirStat",
+            "Glary": "winget install Glarysoft.GlaryUtilities",
+            "InfraRecorder": "winget install ChristianKindahl.InfraRecorder"
+        }
+        command = apps.get(value)
+        if command:
+            run_command(command)
     
     def change_appearance_mode_event(self, new_appearance_mode: str):
         customtkinter.set_appearance_mode(new_appearance_mode)
@@ -623,7 +362,7 @@ class App(customtkinter.CTk):
  
     #Tweaks
     def sfe(self):
-        cmd = "reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced /v HideFileExt /t REG_DWORD /d 0 /"
+        cmd = f"reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced /v HideFileExt /t REG_DWORD /d 0 /"
         with open("temp.bat","w") as f:
             f.write(cmd)
         os.system("temp.bat")
@@ -690,7 +429,6 @@ class App(customtkinter.CTk):
             f.write("Disk IO Counters: {}\n".format(sysinfo['disk_io_counters']))
             f.write("Network IO Counters: {}\n".format(sysinfo['net_io_counters']))
             f.write("Boot Time: {}\n".format(sysinfo['boot_time']))
-
 
 
 if __name__ == "__main__":
