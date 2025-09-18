@@ -123,7 +123,7 @@ class App(customtkinter.CTk):
         apps = []
         apps.append(app)  
     
-    def setvar(self):
+    def browser(self):
         """Browsers"""
         value = self.optionmenu_1.get()
         apps = {
@@ -274,16 +274,14 @@ class App(customtkinter.CTk):
         self.tabview.add("Utilities")
         self.tabview.add("Documents")
         
-       
-        
-        
+
         
         #Browsers
         self.optionmenu_1 = customtkinter.CTkOptionMenu(self.tabview.tab("Browsers"), dynamic_resizing=True,
                                                         values=["Chrome", "Opera", "Firefox", "Brave"])
         self.optionmenu_1.grid(row=0, column=0, padx=20, pady=(20, 10))
         self.string_input_button = customtkinter.CTkButton(self.tabview.tab("Browsers"), text="Set choice",
-                                                           command=self.setvar)
+                                                           command=self.browser)
         self.string_input_button.grid(row=2, column=0, padx=20, pady=(10, 10))
         #Compression
         self.optionmenu_2 = customtkinter.CTkOptionMenu(self.tabview.tab("Compression"), dynamic_resizing=True,
