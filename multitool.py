@@ -1,432 +1,586 @@
 import os
+import platform
 import tkinter
 import tkinter.messagebox
 import customtkinter
-import requests
-import urllib.request
-import time
-import ctypes
-import sys
-import random
-import string
 import subprocess
 import psutil
-from datetime import datetime
-import smtplib
-import string    
-import random  
-import pyglet
 import configparser
 import threading
+from datetime import datetime
 
-def run_command(command: str):
-    """Run a system command in a separate thread to avoid freezing the GUI."""
-    def target():
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Config
+# ─────────────────────────────────────────────────────────────────────────────
+
+CONFIG_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "config.ini")
+_config = configparser.ConfigParser()
+
+
+def _init_config():
+    if not os.path.exists(CONFIG_FILE):
+        _config["Settings"] = {"appearance": "System", "color": "blue", "scaling": "100%"}
+        with open(CONFIG_FILE, "w") as f:
+            _config.write(f)
+    else:
+        _config.read(CONFIG_FILE)
+
+
+def get_config(key: str, fallback: str = "") -> str:
+    return _config.get("Settings", key, fallback=fallback)
+
+
+def set_config(key: str, value: str):
+    _config.set("Settings", key, value)
+    with open(CONFIG_FILE, "w") as f:
+        _config.write(f)
+
+
+_init_config()
+customtkinter.set_appearance_mode(get_config("appearance", "System"))
+customtkinter.set_default_color_theme(get_config("color", "blue"))
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# App data
+# ─────────────────────────────────────────────────────────────────────────────
+
+INSTALL_APPS: dict[str, dict[str, str]] = {
+    "Browsers": {
+        "Chrome":   "Google.Chrome",
+        "Firefox":  "Mozilla.Firefox",
+        "Brave":    "Brave.Brave",
+        "Opera":    "Opera.Opera",
+        "Vivaldi":  "Vivaldi.Vivaldi",
+        "Edge":     "Microsoft.Edge",
+    },
+    "Compression": {
+        "7-Zip":  "7zip.7zip",
+        "PeaZip": "Giorgiotani.Peazip",
+        "WinRAR": "RARLab.WinRAR",
+    },
+    "Messaging": {
+        "Discord":     "Discord.Discord",
+        "Telegram":    "Telegram.TelegramDesktop",
+        "Slack":       "SlackTechnologies.Slack",
+        "Zoom":        "Zoom.Zoom",
+        "Thunderbird": "Mozilla.Thunderbird",
+        "Skype":       "Microsoft.Skype",
+    },
+    "Media": {
+        "Spotify":    "Spotify.Spotify",
+        "VLC":        "VideoLAN.VLC",
+        "MPC-HC":     "clsid2.mpc-hc",
+        "AIMP":       "AIMP.AIMP",
+        "foobar2000": "PeterPawlowski.foobar2000",
+        "Audacity":   "Audacity.Audacity",
+        "HandBrake":  "HandBrake.HandBrake",
+    },
+    "Imaging": {
+        "GIMP":      "GIMP.GIMP",
+        "Krita":     "KDE.Krita",
+        "Inkscape":  "Inkscape.Inkscape",
+        "Blender":   "BlenderFoundation.Blender",
+        "ShareX":    "ShareX.ShareX",
+        "IrfanView": "IrfanSkiljan.IrfanView",
+        "Greenshot": "Greenshot.Greenshot",
+        "FastStone": "FastStone.Viewer",
+    },
+    "Dev Tools": {
+        "VS Code":           "Microsoft.VisualStudioCode",
+        "Git":               "Git.Git",
+        "Python 3.11":       "Python.Python.3.11",
+        "Windows Terminal":  "Microsoft.WindowsTerminal",
+        "Notepad++":         "Notepad++.Notepad++",
+        "PuTTY":             "PuTTY.PuTTY",
+        "WinSCP":            "WinSCP.WinSCP",
+        "WinMerge":          "WinMerge.WinMerge",
+        "Docker Desktop":    "Docker.DockerDesktop",
+        "VMware Workstation":"VMware.WorkstationPro",
+    },
+    "Utilities": {
+        "PowerToys":        "Microsoft.PowerToys",
+        "Everything":       "voidtools.Everything",
+        "WinDirStat":       "WinDirStat.WinDirStat",
+        "Revo Uninstaller": "RevoUninstaller.RevoUninstaller",
+        "AnyDesk":          "AnyDeskSoftwareGmbH.AnyDesk",
+        "TeamViewer":       "TeamViewer.TeamViewer",
+        "TeraCopy":         "CodeSector.TeraCopy",
+    },
+    "Documents": {
+        "LibreOffice": "TheDocumentFoundation.LibreOffice",
+        "SumatraPDF":  "SumatraPDF.SumatraPDF",
+        "Obsidian":    "Obsidian.Obsidian",
+        "Notion":      "Notion.Notion",
+        "Foxit Reader":"Foxitreader",
+    },
+}
+
+TWEAKS = [
+    {
+        "name": "Show file extensions",
+        "desc": "Makes Explorer show .txt, .exe, etc. next to every filename.",
+        "cmd":  r'reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v HideFileExt /t REG_DWORD /d 0 /f',
+    },
+    {
+        "name": "Show hidden files",
+        "desc": "Makes hidden files and folders visible in Explorer.",
+        "cmd":  r'reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v Hidden /t REG_DWORD /d 1 /f',
+    },
+    {
+        "name": "Delete temporary files",
+        "desc": "Clears your %TEMP% folder to free up disk space.",
+        "cmd":  'cmd /c "del /q /f /s %TEMP%\\*"',
+    },
+    {
+        "name": "Update all apps",
+        "desc": "Runs winget to upgrade every installed app to its latest version.",
+        "cmd":  "winget upgrade --all --accept-source-agreements --accept-package-agreements",
+    },
+    {
+        "name": "Disable Fast Startup",
+        "desc": "Turns off hybrid sleep on shutdown, which fixes some driver and wake issues.",
+        "cmd":  "powercfg /h off",
+    },
+    {
+        "name": "Enable long file paths",
+        "desc": "Removes the 260-character path limit. Requires administrator privileges.",
+        "cmd":  r'reg add "HKLM\SYSTEM\CurrentControlSet\Control\FileSystem" /v LongPathsEnabled /t REG_DWORD /d 1 /f',
+    },
+    {
+        "name": "Restore classic context menu  (Win 11)",
+        "desc": "Brings back the full right-click menu instead of 'Show more options'.",
+        "cmd":  r'reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve',
+        "warning": "This requires signing out of Windows to take effect.\n\nSign out now?",
+        "post_cmd": "shutdown /l",
+    },
+]
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Helpers
+# ─────────────────────────────────────────────────────────────────────────────
+
+def run_command(command: str, on_done=None):
+    """Run a shell command in a background thread."""
+    def _target():
         result = subprocess.run(command, shell=True)
-        print(result.returncode)
-
-    threading.Thread(target=target, daemon=True).start()
-def update(app):
-    global apps
-    apps.append(app)
-
-config = configparser.ConfigParser()
-apps = []
-
-if not os.path.exists("config.ini"):
-    with open("config.ini", "w") as f:
-        f.write("""
-[Settings]
-appearance = System
-color = blue
-        """)
+        if on_done:
+            on_done(result.returncode)
+    threading.Thread(target=_target, daemon=True).start()
 
 
-user = os.getlogin()
+def fmt_gb(b: int) -> str:
+    return f"{b / 1024 ** 3:.2f} GB"
 
-config.read("config.ini")
-appearance_mode = config.get("Settings", "appearance")
-color_theme = config.get("Settings", "color")
 
-customtkinter.set_appearance_mode(appearance_mode)  # Modes: "System" (standard), "Dark", "Light"
-customtkinter.set_default_color_theme(color_theme)  # Themes: "blue" (standard), "green", "dark-blue"
+def fmt_mb(b: int) -> str:
+    return f"{b / 1024 ** 2:.0f} MB"
 
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Pages
+# ─────────────────────────────────────────────────────────────────────────────
+
+class InstallPage(customtkinter.CTkFrame):
+    """
+    Multi-select install page.
+    Tick the apps you want, then hit Install Selected.
+    """
+
+    def __init__(self, master, set_status):
+        super().__init__(master, fg_color="transparent")
+        self.set_status = set_status
+        self.grid_columnconfigure(0, weight=1)
+        self.grid_rowconfigure(0, weight=1)
+        self._checks: dict[str, customtkinter.BooleanVar] = {}
+        self._build()
+
+    def _build(self):
+        tabview = customtkinter.CTkTabview(self)
+        tabview.grid(row=0, column=0, sticky="nsew")
+
+        for category, apps in INSTALL_APPS.items():
+            tabview.add(category)
+            tab = tabview.tab(category)
+            tab.grid_columnconfigure(0, weight=1)
+            tab.grid_rowconfigure(0, weight=1)
+
+            scroll = customtkinter.CTkScrollableFrame(tab)
+            scroll.grid(row=0, column=0, sticky="nsew", padx=5, pady=(5, 0))
+            scroll.grid_columnconfigure(0, weight=1)
+
+            for i, name in enumerate(apps):
+                var = customtkinter.BooleanVar(value=False)
+                self._checks[name] = var
+                customtkinter.CTkCheckBox(scroll, text=name, variable=var).grid(
+                    row=i, column=0, sticky="w", padx=15, pady=5
+                )
+
+            btn_row = customtkinter.CTkFrame(tab, fg_color="transparent")
+            btn_row.grid(row=1, column=0, sticky="ew", padx=5, pady=8)
+            btn_row.grid_columnconfigure((0, 1), weight=1)
+
+            customtkinter.CTkButton(
+                btn_row, text="Select All", width=130,
+                command=self._make_select_all(apps),
+            ).grid(row=0, column=0, padx=5)
+
+            customtkinter.CTkButton(
+                btn_row, text="Install Selected", width=150,
+                command=self._make_install(apps),
+            ).grid(row=0, column=1, padx=5)
+
+    def _make_select_all(self, apps: dict):
+        def toggle():
+            all_on = all(self._checks[n].get() for n in apps)
+            for n in apps:
+                self._checks[n].set(not all_on)
+        return toggle
+
+    def _make_install(self, apps: dict):
+        def install():
+            selected = {n: wid for n, wid in apps.items() if self._checks[n].get()}
+            if not selected:
+                self.set_status("Select at least one app first.")
+                return
+            names = list(selected.keys())
+            self.set_status(f"Installing: {', '.join(names)}...")
+            cmds = " && ".join(
+                f"winget install --id {wid} -e --accept-source-agreements --accept-package-agreements"
+                for wid in selected.values()
+            )
+            run_command(
+                cmds,
+                on_done=lambda rc: self.set_status(
+                    f"Done: {', '.join(names)}." if rc == 0
+                    else f"Finished with code {rc}."
+                ),
+            )
+        return install
+
+
+class TweaksPage(customtkinter.CTkFrame):
+    """One-click Windows tweaks, each with a short description."""
+
+    def __init__(self, master, set_status):
+        super().__init__(master, fg_color="transparent")
+        self.set_status = set_status
+        self.grid_columnconfigure(0, weight=1)
+        self.grid_rowconfigure(0, weight=1)
+        self._build()
+
+    def _build(self):
+        scroll = customtkinter.CTkScrollableFrame(self, label_text="Windows Tweaks")
+        scroll.grid(row=0, column=0, sticky="nsew")
+        scroll.grid_columnconfigure(0, weight=1)
+
+        for i, tweak in enumerate(TWEAKS):
+            card = customtkinter.CTkFrame(scroll)
+            card.grid(row=i, column=0, sticky="ew", padx=10, pady=6)
+            card.grid_columnconfigure(0, weight=1)
+
+            customtkinter.CTkLabel(
+                card, text=tweak["name"],
+                font=customtkinter.CTkFont(weight="bold"),
+                anchor="w",
+            ).grid(row=0, column=0, padx=15, pady=(12, 2), sticky="w")
+
+            customtkinter.CTkLabel(
+                card, text=tweak["desc"],
+                anchor="w", wraplength=560,
+                text_color=("gray45", "gray65"),
+            ).grid(row=1, column=0, padx=15, pady=(0, 12), sticky="w")
+
+            customtkinter.CTkButton(
+                card, text="Apply", width=85,
+                command=self._make_apply(tweak),
+            ).grid(row=0, column=1, rowspan=2, padx=15, pady=12)
+
+    def _make_apply(self, tweak: dict):
+        def apply():
+            if tweak.get("warning"):
+                if not tkinter.messagebox.askyesno("Confirm", tweak["warning"]):
+                    return
+            self.set_status(f"Applying: {tweak['name']}...")
+            run_command(tweak["cmd"], on_done=lambda rc: self._done(tweak, rc))
+        return apply
+
+    def _done(self, tweak: dict, rc: int):
+        if rc == 0:
+            self.set_status(f"Done: {tweak['name']}.")
+            if tweak.get("post_cmd"):
+                run_command(tweak["post_cmd"])
+        else:
+            self.set_status(f"'{tweak['name']}' finished with code {rc}.")
+
+
+class SysInfoPage(customtkinter.CTkFrame):
+    """Live system stats with progress bars for CPU, RAM and disk."""
+
+    _ROWS = [
+        # (section_title, [(display_label, data_key, show_bar)])
+        ("CPU", [
+            ("Usage",                   "cpu_pct",   True),
+            ("Cores (physical/logical)", "cpu_cores", False),
+        ]),
+        ("Memory", [
+            ("Total",     "ram_total", False),
+            ("Used",      "ram_used",  True),
+            ("Available", "ram_avail", False),
+        ]),
+        ("Disk  (C:\\)", [
+            ("Total", "disk_total", False),
+            ("Used",  "disk_used",  True),
+            ("Free",  "disk_free",  False),
+        ]),
+        ("Network", [
+            ("Sent",     "net_sent", False),
+            ("Received", "net_recv", False),
+        ]),
+        ("System", [
+            ("OS",        "os",        False),
+            ("Last Boot", "boot_time", False),
+        ]),
+    ]
+
+    def __init__(self, master, set_status):
+        super().__init__(master, fg_color="transparent")
+        self.set_status = set_status
+        self.grid_columnconfigure(0, weight=1)
+        self.grid_rowconfigure(1, weight=1)
+        self._value_labels: dict[str, customtkinter.CTkLabel] = {}
+        self._bars: dict[str, customtkinter.CTkProgressBar] = {}
+        self._build()
+        self._refresh()
+
+    def _build(self):
+        header = customtkinter.CTkFrame(self, fg_color="transparent")
+        header.grid(row=0, column=0, sticky="ew", pady=(0, 8))
+
+        customtkinter.CTkLabel(
+            header, text="System Information",
+            font=customtkinter.CTkFont(size=18, weight="bold"),
+        ).pack(side="left")
+
+        customtkinter.CTkButton(
+            header, text="Refresh", width=90, command=self._refresh,
+        ).pack(side="right")
+
+        scroll = customtkinter.CTkScrollableFrame(self)
+        scroll.grid(row=1, column=0, sticky="nsew")
+        scroll.grid_columnconfigure(1, weight=1)
+
+        row = 0
+        for section, fields in self._ROWS:
+            customtkinter.CTkLabel(
+                scroll, text=section,
+                font=customtkinter.CTkFont(weight="bold"),
+                anchor="w",
+            ).grid(row=row, column=0, columnspan=3, sticky="w", padx=12, pady=(14, 3))
+            row += 1
+
+            for label, key, show_bar in fields:
+                customtkinter.CTkLabel(
+                    scroll, text=label + ":", anchor="w", width=210,
+                ).grid(row=row, column=0, sticky="w", padx=(24, 6), pady=3)
+
+                val = customtkinter.CTkLabel(scroll, text="—", anchor="w")
+                val.grid(row=row, column=1, sticky="w", padx=4, pady=3)
+                self._value_labels[key] = val
+
+                if show_bar:
+                    bar = customtkinter.CTkProgressBar(scroll, width=180)
+                    bar.set(0)
+                    bar.grid(row=row, column=2, padx=12, pady=3, sticky="w")
+                    self._bars[key] = bar
+
+                row += 1
+
+    def _refresh(self):
+        vm    = psutil.virtual_memory()
+        disk  = psutil.disk_usage("/")
+        net   = psutil.net_io_counters()
+        cpu   = psutil.cpu_percent(interval=0.2)
+        boot  = datetime.fromtimestamp(psutil.boot_time()).strftime("%Y-%m-%d %H:%M:%S")
+
+        data = {
+            "cpu_pct":    (f"{cpu:.1f}%",                                          cpu / 100),
+            "cpu_cores":  (f"{psutil.cpu_count(logical=False)} / {psutil.cpu_count()} logical", None),
+            "ram_total":  (fmt_gb(vm.total),                                       None),
+            "ram_used":   (f"{fmt_gb(vm.used)}  ({vm.percent:.0f}%)",              vm.percent / 100),
+            "ram_avail":  (fmt_gb(vm.available),                                   None),
+            "disk_total": (fmt_gb(disk.total),                                     None),
+            "disk_used":  (f"{fmt_gb(disk.used)}  ({disk.percent:.0f}%)",          disk.percent / 100),
+            "disk_free":  (fmt_gb(disk.free),                                      None),
+            "net_sent":   (fmt_mb(net.bytes_sent),                                 None),
+            "net_recv":   (fmt_mb(net.bytes_recv),                                 None),
+            "os":         (f"{platform.system()} {platform.release()} ({platform.machine()})", None),
+            "boot_time":  (boot,                                                   None),
+        }
+
+        for key, (text, bar_val) in data.items():
+            if key in self._value_labels:
+                self._value_labels[key].configure(text=text)
+            if bar_val is not None and key in self._bars:
+                self._bars[key].set(bar_val)
+
+        self.set_status("Refreshed.", timeout_ms=3000)
+
+
+class SettingsPage(customtkinter.CTkFrame):
+    """Appearance, theme, and scaling settings."""
+
+    def __init__(self, master, set_status, on_appearance_change, on_scaling_change):
+        super().__init__(master, fg_color="transparent")
+        self.set_status = set_status
+        self.on_appearance_change = on_appearance_change
+        self.on_scaling_change = on_scaling_change
+        self.grid_columnconfigure(1, weight=1)
+        self._build()
+
+    def _build(self):
+        customtkinter.CTkLabel(
+            self, text="Settings",
+            font=customtkinter.CTkFont(size=18, weight="bold"),
+        ).grid(row=0, column=0, columnspan=2, sticky="w", padx=12, pady=(10, 24))
+
+        options = [
+            ("Appearance Mode", ["System", "Light", "Dark"],              "appearance", self._apply_appearance),
+            ("Color Theme",     ["blue", "green", "dark-blue"],           "color",      self._apply_theme),
+            ("UI Scaling",      ["80%", "90%", "100%", "110%", "120%"],   "scaling",    self._apply_scaling),
+        ]
+
+        for i, (label, values, key, cmd) in enumerate(options, start=1):
+            customtkinter.CTkLabel(self, text=label + ":", anchor="w").grid(
+                row=i, column=0, sticky="w", padx=(12, 8), pady=14,
+            )
+            saved = get_config(key, values[0])
+            menu = customtkinter.CTkOptionMenu(self, values=values, command=cmd, width=160)
+            menu.set(saved if saved in values else values[0])
+            menu.grid(row=i, column=1, sticky="w", padx=4, pady=14)
+
+        customtkinter.CTkLabel(
+            self, text="Color theme change takes effect on next launch.",
+            text_color=("gray55", "gray60"), anchor="w",
+        ).grid(row=len(options) + 1, column=0, columnspan=2, sticky="w", padx=12, pady=(4, 0))
+
+    def _apply_appearance(self, value: str):
+        self.on_appearance_change(value)
+        set_config("appearance", value)
+
+    def _apply_theme(self, value: str):
+        set_config("color", value)
+        self.set_status("Theme saved. Restart to apply.", timeout_ms=5000)
+
+    def _apply_scaling(self, value: str):
+        self.on_scaling_change(value)
+        set_config("scaling", value)
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Main window
+# ─────────────────────────────────────────────────────────────────────────────
 
 class App(customtkinter.CTk):
+    _PAGES = ["Install", "Tweaks", "System Info", "Settings"]
+
     def __init__(self):
         super().__init__()
-        
-        # configure window
         self.title("MultiTool")
-        self.geometry(f"{1100}x{580}")
-        
+        self.geometry("1150x660")
+        self.minsize(920, 540)
 
-        # configure grid layout (4x4)
         self.grid_columnconfigure(1, weight=1)
-        self.grid_columnconfigure((2, 3), weight=0)
-        self.grid_rowconfigure((0, 1, 2), weight=1)
+        self.grid_rowconfigure(0, weight=1)
 
-        # create sidebar frame with widgets
-        self.sidebar_frame = customtkinter.CTkFrame(self, width=140, corner_radius=0)
-        self.sidebar_frame.grid(row=0, column=0, rowspan=4, sticky="nsew")
-        self.sidebar_frame.grid_rowconfigure(4, weight=1)
-        self.logo_label = customtkinter.CTkLabel(self.sidebar_frame, text="MultiTool", font=customtkinter.CTkFont(size=20, weight="bold"))
-        self.logo_label.grid(row=0, column=0, padx=20, pady=(20, 10))
-        self.sidebar_button_1 = customtkinter.CTkButton(self.sidebar_frame, text="Install", command=self.Install)
-        self.sidebar_button_1.grid(row=1, column=0, padx=20, pady=10)
-        self.sidebar_button_2 = customtkinter.CTkButton(self.sidebar_frame, text="Tweaks", command=self.Tweaks)
-        self.sidebar_button_2.grid(row=2, column=0, padx=20, pady=10)
-        self.sidebar_button_3 = customtkinter.CTkButton(self.sidebar_frame, text="Config", command=self.Install)
-        self.sidebar_button_3.grid(row=3, column=0, padx=20, pady=10)
-        self.sidebar_button_4 = customtkinter.CTkButton(self.sidebar_frame, text="Other Tools", command=self.ot)
-        self.sidebar_button_4.grid(row=4, column=0, padx=20, pady=10)
-        self.scaling_label = customtkinter.CTkLabel(self.sidebar_frame, text="UI Scaling:", anchor="w")
-        self.scaling_label.grid(row=7, column=0, padx=20, pady=(10, 0))
-        self.scaling_optionemenu = customtkinter.CTkOptionMenu(self.sidebar_frame, values=["80%", "90%", "100%", "110%", "120%"],
-                                                               command=self.change_scaling_event)
-        self.scaling_optionemenu.grid(row=8, column=0, padx=20, pady=(10, 20))
+        self._current_page: customtkinter.CTkFrame | None = None
+        self._nav_btns: dict[str, customtkinter.CTkButton] = {}
+        self._status_after = None
 
-        self.textbox = customtkinter.CTkTextbox(self, width=250)
-        self.textbox.grid(row=0, column=1, padx=(20, 0), pady=(20, 0), sticky="nsew")
-        mesag = """
-        End-User License Agreement for "Multitool"
+        self._build_sidebar()
+        self._build_statusbar()
+        self._show_page("Install")
 
-        This End-User License Agreement ("EULA") is a legal agreement between you, the end user, and Luca,
-        the manufacturer or distributor of the "Multitool" software product. By installing, accessing, or using the "Multitool" software,
-        you agree to be bound by the terms and conditions of this EULA.
+    # ── Sidebar ──────────────────────────────────────────────────────────── #
 
-        1. License Grant.
-           Luca grants you a revocable, non-exclusive, non-transferable license to use the "Multitool" software for your personal or internal business use.
-           You are not allowed to distribute, sell, or otherwise make the "Multitool" software available to any third party.
-        2. Warranty.
-           Luca warrants that the "Multitool" software will perform substantially in accordance with the accompanying documentation for a period of 90 days 
-           from the date of your initial purchase.
-           Luca does not warrant that the "Multitool" software will be error-free or that all errors can be corrected.
-        3. Liability Limitations.
-           Luca will not be liable for any damages resulting from the use of the "Multitool" software, including but not limited to direct,
-           indirect, incidental, consequential, or punitive damages.
-        4. Termination.
-           This EULA is effective until terminated. You may terminate the EULA at any time by uninstalling the "Multitool" software.
-           Luca may terminate the EULA if you fail to comply with any of the terms and conditions of this EULA. Upon termination,
-           you must destroy all copies of the "Multitool" software.
-        5. Data Collection.
-           The "Multitool" software may collect anonymous usage data for the purpose of improving the app and providing personalized recommendations.
-           This data will not be be shared with third-party services.
-           The "Multitool" software will not access/send any personal files.
-        """
-        self.textbox.insert("0.0", "Terms and Conditions:\n\n" + mesag * 1)
+    def _build_sidebar(self):
+        sidebar = customtkinter.CTkFrame(self, width=185, corner_radius=0)
+        sidebar.grid(row=0, column=0, rowspan=2, sticky="nsew")
+        sidebar.grid_rowconfigure(len(self._PAGES) + 1, weight=1)
 
-        
+        customtkinter.CTkLabel(
+            sidebar, text="MultiTool",
+            font=customtkinter.CTkFont(size=22, weight="bold"),
+        ).grid(row=0, column=0, padx=20, pady=(28, 22))
 
-    def update(app):
-        global apps
-        apps = []
-        apps.append(app)  
-    
-    def browser(self):
-        """Browsers"""
-        value = self.optionmenu_1.get()
-        apps = {
-            "Chrome": "winget install Google.Chrome",
-            "Firefox": "winget install Mozilla.Firefox",
-            "Opera": "winget install Opera.Opera",
-            "Brave": "winget install Brave.Brave"
-        }
-        command = apps.get(value)
-        if command:
-            run_command(command)
+        for i, name in enumerate(self._PAGES, start=1):
+            btn = customtkinter.CTkButton(
+                sidebar, text=name, width=145,
+                fg_color="transparent",
+                text_color=("gray15", "gray90"),
+                hover_color=("gray82", "gray28"),
+                command=lambda n=name: self._show_page(n),
+            )
+            btn.grid(row=i, column=0, padx=20, pady=4)
+            self._nav_btns[name] = btn
 
-    def setvar2(self):
-        """Compression"""
-        value = self.optionmenu_2.get()
-        apps = {
-            "7-Zip": "winget install 7zip.7zip",
-            "PeaZip": "winget install Giorgiotani.Peazip",
-            "WinRar": "winget install RARLab.WinRAR"
-        }
-        command = apps.get(value)
-        if command:
-            run_command(command)
+        customtkinter.CTkLabel(
+            sidebar, text="v2.0",
+            text_color=("gray60", "gray50"),
+            font=customtkinter.CTkFont(size=11),
+        ).grid(row=len(self._PAGES) + 2, column=0, pady=(0, 14))
 
-    def setvar3(self):
-        """Messaging"""
-        value = self.optionmenu_3.get()
-        apps = {
-            "Zoom": "winget install Zoom.Zoom",
-            "Discord": "winget install Discord.Discord",
-            "Skype": "winget install Microsoft.Skype",
-            "Pidgin": "winget install Pidgin.Pidgin",
-            "Thunderbird": "winget install Mozilla.Thunderbird",
-            "Trillian": "winget install Trillian.Trillian"
-        }
-        command = apps.get(value)
-        if command:
-            run_command(command)
+    def _build_statusbar(self):
+        self._status_lbl = customtkinter.CTkLabel(
+            self, text="", anchor="w",
+            text_color=("gray50", "gray65"),
+            font=customtkinter.CTkFont(size=12),
+        )
+        self._status_lbl.grid(row=1, column=1, sticky="ew", padx=22, pady=(2, 7))
 
-    def setvar4(self):
-        """Media"""
-        value = self.optionmenu_4.get()
-        apps = {
-            "Spotify": "winget install Spotify.Spotify",
-            "VLC": "winget install VideoLAN.VLC",
-            "AIMP": "winget install AIMP.AIMP",
-            "foobar2000": "winget install PeterPawlowski.foobar2000",
-            "Audacity": "winget install Audacity.Audacity",
-            "GOM": "winget install GOMLab.GOMPlayer"
-        }
-        command = apps.get(value)
-        if command:
-            run_command(command)
+    # ── Navigation ───────────────────────────────────────────────────────── #
 
-    def setvar5(self):
-        """Imaging"""
-        value = self.optionmenu_5.get()
-        apps = {
-            "Krita": "winget install KDE.Krita",
-            "Blender": "winget install BlenderFoundation.Blender",
-            "GIMP": "winget install GIMP.GIMP",
-            "IrfanView": "winget install IrfanSkiljan.IrfanView",
-            "XnView": "winget install XnSoft.XnView.Classic",
-            "Inkscape": "winget install Inkscape.Inkscape",
-            "FastStone": "winget install FastStone.Viewer",
-            "Greenshot": "winget install Greenshot.Greenshot",
-            "ShareX": "winget install ShareX.ShareX"
-        }
-        command = apps.get(value)
-        if command:
-            run_command(command)
+    def _show_page(self, name: str):
+        for page, btn in self._nav_btns.items():
+            active = page == name
+            btn.configure(
+                fg_color=("gray76", "gray26") if active else "transparent",
+            )
 
-    def setvar6(self):
-        """Dev Tools / OS ISOs"""
-        value = self.optionmenu_6.get()
-        apps = {
-            "Python x64 3": "winget install Python.Python.3.11",
-            "Notepad++": "winget install Notepad++.Notepad++",
-            "WinSCP": "winget install WinSCP.WinSCP",
-            "PuTTY": "winget install PuTTY.PuTTY",
-            "WinMerge": "winget install WinMerge.WinMerge",
-            "Eclipse": "winget install EclipseFoundation.TheiaBlueprint",
-            "VS Code(Visual Studio Code)": "winget install Microsoft.VisualStudioCode",
-            "VMWare Workstation 17": "winget install VMware.WorkstationPro"
-        }
+        if self._current_page:
+            self._current_page.destroy()
 
-        # handle ISOs separately
-        if value == "Windows 10 ISO":
-            run_command("powershell -Command \"Invoke-WebRequest -Uri 'https://dw4.uptodown.com/dwn/Z5K6puj3G_H88j8T1cdaR94-_ymHzIa9iak3gtnQ4ZcU4fBzNv8FlwC1mRKJoNX0RfNbZEL0jGITwfvjoys7Fp5W-UynADwPjBpbegvZ1T6RgEy5DY9azL3xj4mFg5xW/2jRfzII6khimcsXl0O8L9yzEQBz0hR3gIs6qIt4s-PRJWazbpr-pbXhUnRXZyOJkiCN1wnXEc6aX1USdXF4i9MPOJNMuLkvK2fbm1sr2rltjdfLf2hhBj3MVeDC3G8qX/uTWR6o5NMwQ_5VyO208RQ533z8aczm-MrqLw87pADzQ-unkz-SEoPr3FGGMCGT69WiP4vN_idlcr9p3hDWPcD2zpSBXUF9aMo0OfadtfWMQ=/windows-10-22h2-build-19045.iso' -OutFile 'windows-10-22h2-build-19045.iso'\")")
-            return
-        elif value == "Windows 11 ISO":
-            run_command("powershell -Command \"Invoke-WebRequest -Uri 'https://aka.ms/windev_VM_vmware' -OutFile 'Win11.zip'\")")
-            return
+        page = self._make_page(name)
+        page.grid(row=0, column=1, sticky="nsew", padx=22, pady=22)
+        self._current_page = page
 
-        command = apps.get(value)
-        if command:
-            run_command(command)
+    def _make_page(self, name: str) -> customtkinter.CTkFrame:
+        match name:
+            case "Install":
+                return InstallPage(self, self.set_status)
+            case "Tweaks":
+                return TweaksPage(self, self.set_status)
+            case "System Info":
+                return SysInfoPage(self, self.set_status)
+            case "Settings":
+                return SettingsPage(
+                    self, self.set_status,
+                    on_appearance_change=customtkinter.set_appearance_mode,
+                    on_scaling_change=lambda s: customtkinter.set_widget_scaling(
+                        int(s.replace("%", "")) / 100
+                    ),
+                )
+        raise ValueError(f"Unknown page: {name}")
 
-    def setvar7(self):
-        """Documents"""
-        value = self.optionmenu_7.get()
-        apps = {
-            "Foxit Reader": "winget install Foxitreader",
-            "LibreOffice": "winget install TheDocumentFoundation.LibreOffice",
-            "SumatraPDF": "winget install SumatraPDF.SumatraPDF",
-            "CutePDF": "winget install AcroSoftware.CutePDFWriter",
-            "OpenOffice": "winget install TheDocumentFoundation.LibreOffice"
-        }
-        command = apps.get(value)
-        if command:
-            run_command(command)
+    # ── Status bar ───────────────────────────────────────────────────────── #
 
-    def setvar8(self):
-        """Utilities"""
-        value = self.optionmenu_8.get()
-        apps = {
-            "TeamViewer 15": "winget install TeamViewer.TeamViewer",
-            "AnyDesk": "winget install AnyDeskSoftwareGmbH.AnyDesk",
-            "ImgBurn": "winget install LIGHTNINGUK.ImgBurn",
-            "TeraCopy": "winget install CodeSector.TeraCopy",
-            "CDBurnerXP": "winget install Canneverbe.CDBurnerXP",
-            "Revo": "winget install RevoUninstaller.RevoUninstaller",
-            "Launchy": "winget install CodeJelly.Launchy",
-            "WinDirStat": "winget install WinDirStat.WinDirStat",
-            "Glary": "winget install Glarysoft.GlaryUtilities",
-            "InfraRecorder": "winget install ChristianKindahl.InfraRecorder"
-        }
-        command = apps.get(value)
-        if command:
-            run_command(command)
-    
-    def change_appearance_mode_event(self, new_appearance_mode: str):
-        customtkinter.set_appearance_mode(new_appearance_mode)
-
-    def change_scaling_event(self, new_scaling: str):
-        new_scaling_float = int(new_scaling.replace("%", "")) / 100
-        customtkinter.set_widget_scaling(new_scaling_float)
-    
-    def Install(self):
-        self.tabview = customtkinter.CTkTabview(self, width=250)
-        self.tabview.grid(row=0, column=1, padx=(20, 0), pady=(20, 0), sticky="nsew")
-        self.tabview.add("Browsers")
-        self.tabview.add("Compression")
-        self.tabview.add("Messaging")
-        self.tabview.add("Media")
-        self.tabview.add("Imaging")
-        self.tabview.add("Dev Tools")
-        self.tabview.add("Utilities")
-        self.tabview.add("Documents")
-        
-
-        
-        #Browsers
-        self.optionmenu_1 = customtkinter.CTkOptionMenu(self.tabview.tab("Browsers"), dynamic_resizing=True,
-                                                        values=["Chrome", "Opera", "Firefox", "Brave"])
-        self.optionmenu_1.grid(row=0, column=0, padx=20, pady=(20, 10))
-        self.string_input_button = customtkinter.CTkButton(self.tabview.tab("Browsers"), text="Set choice",
-                                                           command=self.browser)
-        self.string_input_button.grid(row=2, column=0, padx=20, pady=(10, 10))
-        #Compression
-        self.optionmenu_2 = customtkinter.CTkOptionMenu(self.tabview.tab("Compression"), dynamic_resizing=True,
-                                                        values=["7-Zip", "PeaZip", "WinRar"])
-        self.optionmenu_2.grid(row=0, column=0, padx=20, pady=(20, 10))
-        self.string_input_button = customtkinter.CTkButton(self.tabview.tab("Compression"), text="Set choice",
-                                                           command=self.setvar2)
-        self.string_input_button.grid(row=2, column=0, padx=20, pady=(10, 10))
-        #Messaging
-        self.optionmenu_3 = customtkinter.CTkOptionMenu(self.tabview.tab("Messaging"), dynamic_resizing=True,
-                                                        values=["Zoom", "Discord", "Skype", "Pidgin", "Thunderbird", "Trillian"])
-        self.optionmenu_3.grid(row=0, column=0, padx=20, pady=(20, 10))
-        self.string_input_button = customtkinter.CTkButton(self.tabview.tab("Messaging"), text="Set choice",
-                                                           command=self.setvar3)
-        self.string_input_button.grid(row=2, column=0, padx=20, pady=(10, 10))
-        #Media
-        self.optionmenu_4 = customtkinter.CTkOptionMenu(self.tabview.tab("Media"), dynamic_resizing=True,
-                                                        values=["Spotify", "VLC", "AIMP", "foobar2000", "Audacity", "GOM"])
-        self.optionmenu_4.grid(row=0, column=0, padx=20, pady=(20, 10))
-        self.string_input_button = customtkinter.CTkButton(self.tabview.tab("Media"), text="Set choice",
-                                                           command=self.setvar4)
-        self.string_input_button.grid(row=2, column=0, padx=20, pady=(10, 10))
-        #Imaging
-        self.optionmenu_5 = customtkinter.CTkOptionMenu(self.tabview.tab("Imaging"), dynamic_resizing=True,
-                                                        values=["Krita", "Blender", "GIMP", "IrfanView", "XnView", "Inkscape", "FastStone", "Greenshot", "ShareX"])
-        self.optionmenu_5.grid(row=0, column=0, padx=20, pady=(20, 10))
-        self.string_input_button = customtkinter.CTkButton(self.tabview.tab("Imaging"), text="Set choice",
-                                                           command=self.setvar5)
-        self.string_input_button.grid(row=2, column=0, padx=20, pady=(10, 10))
-        #Dev Tools
-        self.optionmenu_6 = customtkinter.CTkOptionMenu(self.tabview.tab("Dev Tools"), dynamic_resizing=True,
-                                                        values=["Python x64 3", "Notepad++", "WinSCP", "PuTTY", "WinMerge", "Eclipse", "VS Code(Visual Studio Code)", "VMWare Workstation 17", "Windows 10 ISO", "Windows 11 ISO", "Windows 11 .ovf file"])
-        self.optionmenu_6.grid(row=0, column=0, padx=20, pady=(20, 10))
-        self.string_input_button = customtkinter.CTkButton(self.tabview.tab("Dev Tools"), text="Set choice",
-                                                           command=self.setvar6)
-        self.string_input_button.grid(row=2, column=0, padx=20, pady=(10, 10))
-        #Utilities
-        self.optionmenu_8 = customtkinter.CTkOptionMenu(self.tabview.tab("Utilities"), dynamic_resizing=True,
-                                                        values=["TeamViewer 15", "AnyDesk", "ImgBurn", "TeraCopy", "CDBurnerXP", "Revo", "Launchy", "WinDirStat", "Glary", "InfraRecorder"])
-        self.optionmenu_8.grid(row=0, column=0, padx=20, pady=(20, 10))
-        self.string_input_button = customtkinter.CTkButton(self.tabview.tab("Utilities"), text="Set choice",
-                                                           command=self.setvar8)
-        self.string_input_button.grid(row=2, column=0, padx=20, pady=(10, 10))
-        #Documents
-        self.optionmenu_7 = customtkinter.CTkOptionMenu(self.tabview.tab("Documents"), dynamic_resizing=True,
-                                                        values=["Foxit Reader", "LibreOffice", "SumatraPDF", "CutePDF", "OpenOffice"])
-        self.optionmenu_7.grid(row=0, column=0, padx=20, pady=(20, 10))
-        self.string_input_button = customtkinter.CTkButton(self.tabview.tab("Documents"), text="Set choice",
-                                                           command=self.setvar7)
-        self.string_input_button.grid(row=2, column=0, padx=20, pady=(10, 10))
-        
-    def Tweaks(self):
-        self.sidebar_button_1 = customtkinter.CTkButton(self.sidebar_frame, text="Show file extensions.", command=self.sfe)
-        self.sidebar_button_1.grid(row=1, column=2, padx=20, pady=10)
-        #temp
-        self.sidebar_button_1 = customtkinter.CTkButton(self.sidebar_frame, text="Delete temporary files", command=self.dtemporary)
-        self.sidebar_button_1.grid(row=2, column=2, padx=20, pady=10)
-        #Update Apps
-        self.sidebar_button_1 = customtkinter.CTkButton(self.sidebar_frame, text="Update all apps", command=self.updateapps)
-        self.sidebar_button_1.grid(row=3, column=2, padx=20, pady=10)
-        #sysinfo
-        self.sidebar_button_1 = customtkinter.CTkButton(self.sidebar_frame, text="Get the systeminfo in a file", command=self.SYSINFO)
-        self.sidebar_button_1.grid(row=4, column=2, padx=20, pady=10)
-
-        self.sidebar_button_1 = customtkinter.CTkButton(self.sidebar_frame, text="Disable Show more options On Windows 11", command=self.bringbacktheoldcontexmenu)
-        self.sidebar_button_1.grid(row=4, column=2, padx=20, pady=10)
-    
-    def ot(self):
-        self.tabview = customtkinter.CTkTabview(self, width=250)
-        self.tabview.grid(row=0, column=1, padx=(20, 0), pady=(20, 0), sticky="nsew")
-        self.username = customtkinter.CTkTextbox(self, width=250)
-        self.username.grid(row=0, column=3, padx=5, pady=5, sticky="nsew")
-        self.username.place(x=500,y=60)
-        
-
- 
-    #Tweaks
-    def sfe(self):
-        cmd = f"reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced /v HideFileExt /t REG_DWORD /d 0 /"
-        with open("temp.bat","w") as f:
-            f.write(cmd)
-        os.system("temp.bat")
-        time.sleep(1)
-        os.remove("temp.bat")
-        return
-    def dtemporary(self):
-        result = subprocess.run(args=["C:\\Windows\\System32\\cmd.exe", "/c", "del /q/f/s %TEMP%\\*"], capture_output=True)
-        print(result.returncode)
-        print(result.stdout.decode())
-        return
-    def updateapps(self):
-        cmd = "winget upgrade --all"
-        with open("temp.bat", "w") as f:
-            f.write(cmd)
-        os.system("temp.bat")
-        time.sleep(1)
-        os.remove("temp.bat")
-    def bringbacktheoldcontexmenu(self):
-        cmd = """reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve"""
-        with open("temp.bat", "w") as f:
-            f.write(cmd)
-        os.system("temp.bat")
-        time.sleep(1)
-        os.remove("temp.bat")
-        time.sleep(1)
-        cmd = "shutdown /l"
-        with open("temp.bat", "w") as f:
-            f.write(cmd)
-        os.system("temp.bat")
-        time.sleep(1)
-        os.remove("temp.bat")
-    def SYSINFO(self):
-
-        sysinfo = {}
-
-        # CPU information
-        sysinfo['cpu_percent'] = psutil.cpu_percent()
-
-        # Memory information
-        sysinfo['virtual_memory'] = dict(psutil.virtual_memory()._asdict())
-        sysinfo['swap_memory'] = dict(psutil.swap_memory()._asdict())
-
-        # Disk information
-        sysinfo['disk_usage'] = dict(psutil.disk_usage('/')._asdict())
-        sysinfo['disk_io_counters'] = dict(psutil.disk_io_counters()._asdict())
-
-        # Network information
-        sysinfo['net_io_counters'] = dict(psutil.net_io_counters()._asdict())
-
-        # Boot information
-        sysinfo['boot_time'] = psutil.boot_time()
-
-        # get the current time and format it as a string
-        current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        
-        # open a file named "Info" in write mode and write the values to it
-        with open("Info", "w") as f:
-            f.write("System information as of: {}\n".format(current_time))
-            f.write("CPU Usage: {:.2f} %\n".format(sysinfo['cpu_percent']))
-            f.write("Virtual Memory: {}\n".format(sysinfo['virtual_memory']))
-            f.write("Swap Memory: {}\n".format(sysinfo['swap_memory']))
-            f.write("Disk Usage: {}\n".format(sysinfo['disk_usage']))
-            f.write("Disk IO Counters: {}\n".format(sysinfo['disk_io_counters']))
-            f.write("Network IO Counters: {}\n".format(sysinfo['net_io_counters']))
-            f.write("Boot Time: {}\n".format(sysinfo['boot_time']))
+    def set_status(self, msg: str, timeout_ms: int = 6000):
+        self._status_lbl.configure(text=msg)
+        if self._status_after:
+            self.after_cancel(self._status_after)
+        self._status_after = self.after(timeout_ms, lambda: self._status_lbl.configure(text=""))
 
 
 if __name__ == "__main__":
